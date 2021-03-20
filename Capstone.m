@@ -1,0 +1,12 @@
+mass = .45 %kg
+wieght = mass*9.81
+row = 1.2 
+cd = 1.1
+thetadot = 5 % abrituary 
+w1 = .215 %m guess  
+w2 = .12 %m1
+l = .545 %m 
+Fddown = (1/6)*(row*cd*(thetadot^2)*(l^3)*w1);
+Fdup = (1/6)*(row*cd*(thetadot^2)*(l^3)*w2);
+TotalFdup = Fdup*2
+TotalFddown = Fddown*2

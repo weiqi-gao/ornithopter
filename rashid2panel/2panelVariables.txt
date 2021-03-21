@@ -1,0 +1,100 @@
+A - left hand side matrix for eqn solver
+AI - total angle of attack of tail including total incidence angle of tail, induced angle due to plunging and pitch rate effects, and induced downwash
+ALFA - wing twist angle at time t
+AFLFAO - maximum wing twist angle
+ALFAOT - total incidence angle of tail
+ALFAOW - mean total incidence angle of wing
+B - right hand side matrix for eqn solver
+BT - full tail span
+BW - wing half-span
+CDOB - body zero-lift drag coefficient
+CDOT - tail zero-lift drag coefficient
+CDOW - zero-lift drag coefficient
+CLALFAB - body lift-curve slope
+CLALFAT - tail lift-curve slope
+CLALFAW - wing lift-curve slope
+CLALFAB - body pitching-moment-curve slope
+CMOT - tail pitching-moment coefficient
+CMOW - wing pitching-moment coefficient
+CT - mean tail chord
+CW - mean chord of wing
+DELR - section increments along wing
+DWC - drag of wing
+DXB - x distance from body cg. to point on root of wing aligned with wing cg
+DYB - y distance from body cg. to root of wing
+DZB - z distance from body cg. to root of wing
+DYW - y distance from root of wing to cg of wing panel
+DZW - z distance from root of wing to cg of wing panel
+ECL - downwash ratio(e/cl)
+EFFT - Oswald efficiency factor
+EFFW - Oswald efficiency factor
+ENG - energy
+EW - downwash angle
+EWI - initial downwash angle
+G - gravitational acceleration
+GAMA0 - maximum flapping angle wrt. the horizontal axis
+GAMA - flapping angle
+GT - feedback gain
+IDGT - input required for eqn solver to check decimal accuracy
+IEND - total number of time intervals
+IRREC - total number of panels wing is sectioned into
+IYYB - body moment of inertia
+IXXW,IYYW,IZZW,IYZW - wing moment of inertia
+LAEROC - total wing rolling moment(along x) in body-fixed system
+LAEROW - total wing rolling moment (along x) in stability-axis system
+LW - total lift over entire wing
+LWC - lift over wing panel
+LT - lift of tail
+LB - lift of body
+MAEROC - total wing pitching moment (along y) in body-fixed system
+MAERO - panel value wing pitching moment (along y) in body-fixed system
+MAEROW - total wing pitching moment (along y) in stability system
+MAEROT,MAEROB - total tail and body pitching moment (along y)
+MB - mass of body
+MW - mass of wing
+MLBC,MMBC,MNBC - moment reaction at wing body interface
+MLB,MMB,MNB - temp variables for moment reaction at wing-body interface
+NAEROC - total wing yawing moment (along z) in body-fixed system
+NAERO - panel value wing yawing moment (along z) in body-fixed system
+NAEROW - total wing yawing moment (along z) in stability system
+PBTIM - time to begin perturbation
+PBUB - forward velocity perturbation
+PBWB - plunging velocity perturbation
+PBQB - pitch rate perturbation
+PHI - phase angle between flapping angle and angle of attack
+PI - value of pi (WILL NOT USE, BUILT IN MATLAB)
+PW - wing angular velocity about x-axis (derivative of GAMA)
+PDOTW - wing angular acceleration about x-axis
+QB - temporary variable for pitch rate
+QBC - pitch rate
+QBT - total pitch rate
+QDOTB - initial pitch acceleration
+R - accumulated distance from wing root to cg of wing panel
+ROE - density of air
+SREFB - wetted area or surface area of body
+T - time
+TD - time delay
+TD1 - initial time delay
+TDEL - time increment
+TREC - total time
+THETA - temporary variable for pitch angle
+THETAA - average pitch angle
+THETAC - pitch angle
+THETAT - total pitch angle
+TW - mean wing thickness
+UB - temporary variable for pitch angle
+UBA - average forward velocity
+UBC - forward velocity
+UBT - total forward velocity
+VOLB - volume of body
+W - flapping frequency (rad/s)
+WB - temporary variable for plunging velocity
+WBA - average plunging velocity
+WBC - initial plunging velocity
+WBT - total plunging velocity
+XWC - x distance from wing cg to wing root
+XC - x point
+ZC - z point
+XDOTC,ZDOTC - trajectory derivatives
+XT - x distance from body cg to tail cg
+ZT - z distance from body cg to tail cg

@@ -1,29 +1,26 @@
 /*
+   Kirk Boyd
+   March 23, 21
+   Adapting program to incorporate wireless load cell data and accelerometer data
    -------------------------------------------------------------------------------------
    HX711_ADC
-   Arduino library for HX711 24-Bit Analog-to-Digital Converter for Weight Scales
-   Olav Kallhovd sept2017
+   Load Cell Program adapted from Arduino library for HX711 24-Bit Analog-to-Digital Converter for Weight Scales
+   by Olav Kallhovd sept2017
    -------------------------------------------------------------------------------------
 */
-
-/*
-   This example file shows how to calibrate the load cell and optionally store the calibration
-   value in EEPROM, and also how to change the value manually.
-   The result value can then later be included in your project sketch or fetched from EEPROM.
-
-   To implement calibration in your project sketch the simplified procedure is as follow:
-       LoadCell.tare();
-       //place known mass
-       LoadCell.refreshDataSet();
-       float newCalibrationValue = LoadCell.getNewCalibration(known_mass);
-*/
-
+#include <Wire.h>
+#include <Adafruit_Sensor.h>
+#include <Adafruit_BNO055.h>
+#include <utility/imumaths.h>
 #include <HX711_ADC.h>
 #include <EEPROM.h> 
 
 //pins:
+#define accelSDA
+#define accelSCL
 const int HX711_dout = A1; //mcu > HX711 dout pin
 const int HX711_sck = A0; //mcu > HX711 sck pin
+
 
 //HX711 constructor:
 HX711_ADC LoadCell(HX711_dout, HX711_sck);
@@ -31,8 +28,14 @@ HX711_ADC LoadCell(HX711_dout, HX711_sck);
 const int calVal_eepromAdress = 0;
 long t;
 
+/* Set the delay between fresh samples */
+uint16_t BNO055_SAMPLERATE_DELAY_MS = 100;
+
+// Check I2C device address and correct line below (by default address is 0x29 or 0x28) id, address
+Adafruit_BNO055 bno = Adafruit_BNO055(55, 0x28);
+
 void setup() {
-  Serial.begin(57600); delay(10);
+  Serial.begin(115200); delay(10);
   Serial.println();
   Serial.println("Starting...");
 
@@ -50,12 +53,20 @@ void setup() {
   }
   while (!LoadCell.update());
   calibrate(); //start calibration procedure
+  Serial.println("Orientation Sensor Test"); Serial.println("");
+  /* Initialise the sensor */
+  if (!bno.begin())
+  {
+    /* There was a problem detecting the BNO055 ... check your connections */
+    Serial.print("Ooops, no BNO055 detected ... Check your wiring or I2C ADDR!");
+    while (1);
+  }
 }
 
 void loop() {
   static boolean newDataReady = 0;
   const int serialPrintInterval = 0; //increase value to slow down serial print activity
-
+  
   // check for new data/start next conversion:
   if (LoadCell.update()) newDataReady = true;
 
@@ -63,8 +74,8 @@ void loop() {
   if (newDataReady) {
     if (millis() > t + serialPrintInterval) {
       float i = LoadCell.getData();
-      Serial.print("Load_cell output val: ");
-      Serial.println(i);
+      Serial.print("loadCell: ");
+      Serial.print(i);
       newDataReady = 0;
       t = millis();
     }
@@ -83,6 +94,23 @@ void loop() {
   if (LoadCell.getTareStatus() == true) {
     Serial.println("Tare complete");
   }
+    //could add VECTOR_ACCELEROMETER, VECTOR_MAGNETOMETER,VECTOR_GRAVITY...
+  sensors_event_t orientationData , angVelocityData , linearAccelData, magnetometerData, accelerometerData, gravityData;
+  bno.getEvent(&orientationData, Adafruit_BNO055::VECTOR_EULER);
+  bno.getEvent(&angVelocityData, Adafruit_BNO055::VECTOR_GYROSCOPE);
+  bno.getEvent(&linearAccelData, Adafruit_BNO055::VECTOR_LINEARACCEL);
+  bno.getEvent(&magnetometerData, Adafruit_BNO055::VECTOR_MAGNETOMETER);
+  bno.getEvent(&accelerometerData, Adafruit_BNO055::VECTOR_ACCELEROMETER);
+  bno.getEvent(&gravityData, Adafruit_BNO055::VECTOR_GRAVITY);
+
+  printEvent(&orientationData);
+  printEvent(&angVelocityData);
+  printEvent(&linearAccelData);
+  printEvent(&magnetometerData);
+  printEvent(&accelerometerData);
+  printEvent(&gravityData);
+  Serial.println("\t");
+  delay(BNO055_SAMPLERATE_DELAY_MS);
 
 }
 
@@ -219,4 +247,55 @@ void changeSavedCalFactor() {
   }
   Serial.println("End change calibration value");
   Serial.println("***");
+}
+
+void printEvent(sensors_event_t* event) {
+  double x = -1000000, y = -1000000 , z = -1000000; //dumb values, easy to spot problem
+  if (event->type == SENSOR_TYPE_ACCELEROMETER) {
+    Serial.print("Accl:");
+    x = event->acceleration.x;
+    y = event->acceleration.y;
+    z = event->acceleration.z;
+  }
+  else if (event->type == SENSOR_TYPE_ORIENTATION) {
+    Serial.print("Orient:");
+    x = event->orientation.x;
+    y = event->orientation.y;
+    z = event->orientation.z;
+  }
+  else if (event->type == SENSOR_TYPE_MAGNETIC_FIELD) {
+    Serial.print("Mag:");
+    x = event->magnetic.x;
+    y = event->magnetic.y;
+    z = event->magnetic.z;
+  }
+  else if (event->type == SENSOR_TYPE_GYROSCOPE) {
+    Serial.print("Gyro:");
+    x = event->gyro.x;
+    y = event->gyro.y;
+    z = event->gyro.z;
+  }
+  else if (event->type == SENSOR_TYPE_ROTATION_VECTOR) {
+    Serial.print("Rot:");
+    x = event->gyro.x;
+    y = event->gyro.y;
+    z = event->gyro.z;
+  }
+  else if (event->type == SENSOR_TYPE_LINEAR_ACCELERATION) {
+    Serial.print("Linear:");
+    x = event->acceleration.x;
+    y = event->acceleration.y;
+    z = event->acceleration.z;
+  }
+  else {
+    Serial.print("Unk:");
+  }
+
+  Serial.print("\t|x= ");
+  Serial.print(x);
+  Serial.print(" \t|y= ");
+  Serial.print(y);
+  Serial.print(" \t|z= ");
+  Serial.print(z);
+  Serial.print("\t");
 }

@@ -1,5 +1,7 @@
+clc;
+clear all;
 mTot = .45; %kg
-W_Tot = mTot*9.81; %Newtons
+W_Tot = mTot*9.81 %Newtons
 rho = 1.2; %density of air (kg/m^3) 
 c_D = 1.1; %drag coefficient of a flat plate
 thetaDot = 5; %m/s; rotational speed of wings; we tried a random guess here first 

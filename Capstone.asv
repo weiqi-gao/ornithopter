@@ -16,7 +16,6 @@ l = .545; %m; length of same flat plate
 % Extra Properties
 W = m*9.81 %Newtons
 
-Fd = zeros(2,2); %matrix for drag force, column 1 is DOWNstroke, column 2 is UPstroke
 Fddown = (1/6)*(rho*c_D*(thetaDot^2)*(l^3)*w1); %N; drag force on wing in DOWNstroke
 Fdup = (1/6)*(rho*c_D*(thetaDot^2)*(l^3)*w2); %N; drag force on wing in UPstroke
 TotalFdup = Fdup*2 %N; total drag force on BOTH wings in UPstroke;

@@ -1,5 +1,6 @@
 %% Capstone
-% Created by Weiqi Gao March 30,2021
+% Created by Weiqi Gao - March 30,2021
+% Last edited by Kirk Boyd - Apr 8, 2021
 % trial
 % Notes 1: I may explain all symbols with subscripts. If I missed
 % someone,please read LIST OF SYMBOLS (just under the menu);
@@ -11,24 +12,29 @@
 % If necessary, just ask me to fill up all acceleration equations for each wing.
 % If not, just asko me to delete all velocity equations about wings. 
 %% initial
-
-%% Body
-
-% x-direction Force
-X_aero_b % total aerodynamic force in x direction of body
-m_b=input("Enter the mass of body: "); % mass of body
-g=9.81; % gravity
-theta_b % pitch angle of body
-phi % Roll angle 
-R_x_b1 % yaw angular velocity of x direction with left
-R_x_b2 % yaw angular velocity of x direction with right
-dotU_b % surging acceleration of body
-Q_b % pitch angular velocity of body
+syms W_b R_b V_b;
 W_b % plunging velocity of body
 R_b  % yaw angular velocity of body
 V_b % sideslip velocity of body
+%% Body
+
+% x-direction Force
+syms X_aero_b m_b theta_b phi R_x_b1 R_x_b2 dotU_b Q_b W_b R_b V_b;
+X_aero_b; % total aerodynamic force in x direction of body
+m_b=input("Enter the mass of body: "); % mass of body
+g=9.81; % gravity
+theta_b; % pitch angle of body
+phi; % Roll angle 
+R_x_b1; % yaw angular velocity of x direction with left
+R_x_b2; % yaw angular velocity of x direction with right
+dotU_b; % surging acceleration of body
+Q_b; % pitch angular velocity of body
+W_b; % plunging velocity of body
+R_b;  % yaw angular velocity of body
+V_b; % sideslip velocity of body
 
 % y-direction Force
+syms Y_aero_b R_y_b1 R_y_b2 dotV_b U_b P_b;
 Y_aero_b % total aerodynamic force in y direction of body
 R_y_b1 % yaw angular velocity of y direction b1??
 R_y_b2 % yaw angular velocity of y direction b2??
@@ -51,10 +57,10 @@ d_y_b2=input("Enter y distance from body to right wing: "); % y distance from bo
 M_L_b1 % x direction reaction moment between the wing and body of left side
 M_L_b2 % x direction reaction moment between the wing and body of right side
 % Can be calculated
-I_xx_b= ; % moment of inertia of xx of body (Page128)
-I_xz_b= ; % moment of inertia of xz of body (Page128)
-I_zz_b= ; % moment of inertia of zz of body (Page128)
-I_yy_b= ; % moment of inertia of yy of body (Page128)
+I_xx_b= 1; % moment of inertia of xx of body (Page128)
+I_xz_b= 1; % moment of inertia of xz of body (Page128)
+I_zz_b= 1; % moment of inertia of zz of body (Page128)
+I_yy_b= 1; % moment of inertia of yy of body (Page128)
 dotP_b % roll angular acceleration of body
 dotR_b % yaw angular acceleration of body
 R_b % yaw angular velocity of body
@@ -103,10 +109,10 @@ L_aero_w1 % total aerodynamic moment in x direction of left wing
 D_z_w1=input("Enter z distance from root to cg of left wing: "); % z distance from root of wing to cg of wing panel of left wing
 D_y_w1=input("Enter y distance from root to cg of left wing: "); % y distance from root of wing to cg of wing panel of left wing
 M_L_w1=-M_L_b1; % x direction reaction moment between the wing and body of left wing
-I_xx_w1= ; % moment of inertia of xx of left wing (Page128)
-I_yz_w1= ; % moment of inertia of yz of left wing (Page128)
-I_zz_w1= ; % moment of inertia of zz ofleft wing (Page128)
-I_yy_w1= ; % moment of inertia of yy of left wing (Page128)
+I_xx_w1= 1; % moment of inertia of xx of left wing (Page128)
+I_yz_w1= 1; % moment of inertia of yz of left wing (Page128)
+I_zz_w1= 1; % moment of inertia of zz ofleft wing (Page128)
+I_yy_w1= 1; % moment of inertia of yy of left wing (Page128)
 dotP_w1 % roll angular acceleration of left wing
 dotR_w1 % yaw angular acceleration of left wing
 
@@ -152,10 +158,10 @@ L_aero_w2 % total aerodynamic moment in x direction of right wing
 D_z_w2=input("Enter z distance from root to cg of right wing: "); % z distance from root of wing to cg of wing panel of right wing
 D_y_b2=input("Enter y distance from root to cg of right wing: "); % y distance from root of wing to cg of wing panel of right wing
 M_L_w2=-M_L_b2; % x direction reaction moment between the wing and body of right wing
-I_xx_w2= ; % moment of inertia of xx of right wing
-I_yz_w2= ; % moment of inertia of yz of right wing
-I_zz_w2= ; % moment of inertia of zz of right wing
-I_yy_w2= ; % moment of inertia of yy of right wing
+I_xx_w2= 1; % moment of inertia of xx of right wing
+I_yz_w2= 1; % moment of inertia of yz of right wing
+I_zz_w2= 1; % moment of inertia of zz of right wing
+I_yy_w2= 1; % moment of inertia of yy of right wing
 dotP_w2 % roll angular acceleration of right wing
 dotR_w2 % yaw angular acceleration of right wing
 

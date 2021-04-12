@@ -1,3 +1,6 @@
+%% Load Stick Analysis
+% Created by Kirk Boyd - March 25, 2021
+% Last Modified by Kirk Boyd - April 12, 2021
 clc;
 close all;
 clearvars;

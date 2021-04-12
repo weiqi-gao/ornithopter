@@ -12,16 +12,16 @@ close all; % close all figures so we don't end up with tons of figures after run
     M = .45; %[kg]; mass of the whole ornithopter
 
 % Geometry %
-    wDown = .215; %[m]; width of a flat plate which would represent projected area of wing on DOWNstroke; very rough guess;  
-    wUp = .12; %[m]; width of a flat plate which would represent projected area of wing on UPstroke; very rough guess;
-    l = .545; %[m]; length of same flat plate
+    wDown = 0.455; %[m]; width of a flat plate which would represent projected area of wing on DOWNstroke; very rough guess;  
+    wUp = 0.4; %[m]; width of a flat plate which would represent projected area of wing on UPstroke; very rough guess;
+    l = 0.45; %[m]; length of same flat plate
 
 % Timing %
-    deltaT = 0.00001; %[s]; how many subdivisions through time are needed to get a good amount of granularity of the model
-    numPoints = 10000; %[unitless]; extra value if preallocated arrays are needed. e.g. what number of points do we know we will not exceed
-    flapRate = 5; %[hz]; how many flaps per second the bird is making
+    deltaT = 0.0001; %[s]; how many subdivisions through time are needed to get a good amount of granularity of the model
+    numPoints = 100000; %[unitless]; extra value if preallocated arrays are needed. e.g. what number of points do we know we will not exceed
+    flapRate = 4.5; %[hz]; how many flaps per second the bird is making
     
-    thetaMax = pi()/3; %[radians]; minimum/maximum (depending on how you look at it) angle of wing at top of flat
+    thetaMax = pi()/4; %[radians]; minimum/maximum (depending on how you look at it) angle of wing at top of flat
     thetaMin = -thetaMax; %[radians]; minimum/maximum (depending on how you look at it) angle of wing at the bottom of flap
     omega = flapRate;%*(2*(thetaMax-thetaMin)); %[rad/s]=[hz]; angular velocity; twice the total travel of the wings (one full flap down and back) times #flaps per second
     
@@ -30,7 +30,7 @@ close all; % close all figures so we don't end up with tons of figures after run
     rho = 1.2; %[kg/m^3]; density of air 
     Cd = 1.1; %[unitless]; drag coefficient of a flat plate
 % Timing %
-    tStar = 2*(1/flapRate); %[s]; if wing is flapping at 5 hz it would take this many seconds for one half of the flap
+    tStar = 10*(1/flapRate); %[s]; if wing is flapping at 5 hz it would take this many seconds for one half of the flap
     t = zeros(numPoints,1); %[s]; preallocate array to store time values
 
 % Weight Impulse %

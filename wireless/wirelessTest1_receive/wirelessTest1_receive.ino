@@ -6,7 +6,7 @@
 * Modified by Kirk Boyd, kirkboyd.xyz; Apr 9, 2021
 * Library: TMRh20/RF24, https://github.com/tmrh20/RF24/
 */
-
+//Arduino Nano Side
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
@@ -25,8 +25,14 @@ void setup() {
 
 void loop() {
   if (radio.available()) {
-    char text[32] = "";
-    radio.read(&text, sizeof(text));
-    Serial.println(text);
+    int data1[2];
+    radio.read(&data1[0], sizeof(data1[0]));
+    radio.read(&data1[1], sizeof(data1[1]));
+    Serial.print(data1[0]);
+    Serial.print(" ");
+    Serial.println(data1[1]);
+//    char text[32] = "";
+//    radio.read(&text, sizeof(text));
+//    Serial.println(text);
   }
 }

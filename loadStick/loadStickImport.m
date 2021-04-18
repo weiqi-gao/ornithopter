@@ -1,4 +1,5 @@
-%% Load Stick Analysis
+%% Load Stick Import
+% Attempt #1
 % Created by Kirk Boyd - March 25, 2021
 % Last Modified by Kirk Boyd - April 12, 2021
 clc;
@@ -47,19 +48,21 @@ function fiveplot(colnum,dat0,dat1,dat2,dat3,dat4)
     A3 = dat3;
     A4 = dat4;
     figure;
-    subplot(2,3,1);
-    plot(A0.data(:,colnum));
-    title('Calibration');
-    subplot(2,3,2);
-    plot(A1.data(:,colnum));
-    title('Run1:NoWings?');
-    subplot(2,3,3);
+%     subplot(2,3,1);
+%     plot(A0.data(:,colnum));
+%     title('Calibration');
+%     subplot(2,3,2);
+%     plot(A1.data(:,colnum));
+%     title('Run1:NoWings?');
+%     subplot(2,3,3);
+    subplot(2,1,1);
     plot(A2.data(:,colnum));
     title('Run2:WingsOn');
-    subplot(2,3,4);
+%     subplot(2,3,4);
+    subplot(2,1,2);
     plot(A3.data(:,colnum));
     title('Run3:WingsOn');
-    subplot(2,3,5);
-    plot(A4.data(:,colnum));
-    title('Run4:WingsOn');
+%     subplot(2,3,5);
+%     plot(A4.data(:,colnum));
+%     title('Run4:WingsOn');
 end

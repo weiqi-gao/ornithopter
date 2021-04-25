@@ -6,24 +6,26 @@
 clc; % clear command line
 clear; % clear workspace so new values are always calculated; prevents carrying over old values if changes are made
 close all; % close all figures so we don't end up with tons of figures after running it several times in a row
+frameRate = 120;
 
 A = importJumpData('firstJumpData.csv', 3, 131);
 
 t = A(:,1)';
+t = t/8;
 y = A(:,2)';
 x = A(:,3)';
-%y = y*0.0254;
-%x = x*0.0254;
+y = y*0.0254;
+x = x*0.0254;
 fitx = fitJumpData(t,x);
-fity = fitJumpData(t,y);
+fity = fitJumpData(t(30:end),y(30:end));
 coeffsx = coeffvalues(fitx);
 coeffsy = coeffvalues(fity);
 vx = differentiate(fitx,t);
-vy = differentiate(fity,t);
+vy = differentiate(fity,t(30:end));
 
 %% Plot Results
 subplot(2,2,2);
-plot(t,y);
+plot(t(30:end),y(30:end));
 hold on;
 plot(fity);
 xlabel('Time t [s]','Interpreter','latex');
@@ -52,12 +54,12 @@ coeff2x = num2str(ax(2));
 stringx = strcat(s1,coeff1x,s2,coeff2x);
 legend(stringx,'Interpreter','latex');
 subplot(2,2,4);
-plot(t,vy);
+plot(t(30:end),vy);
 xlabel('Time t [s]','Interpreter','latex');
 ylabel('Velocity vy [m/s]','Interpreter','latex');
 title('Velocity in Vertical Direction as a Function of Time in Jumping','Interpreter','latex');
 vy = vy';
-ay = polyfit(t,vy,1);
+ay = polyfit(t(30:end),vy,1);
 
 coeff1y = num2str(ay(1));
 

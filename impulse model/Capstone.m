@@ -12,7 +12,7 @@ close all; % close all figures so we don't end up with tons of figures after run
     M = .15; %[kg]; mass of the whole ornithopter
 
 % Geometry %
-    wDown = 0.5; %[m]; width of a flat plate which would represent projected area of wing on DOWNstroke; very rough guess;  
+    wDown = 0.35; %[m]; width of a flat plate which would represent projected area of wing on DOWNstroke; very rough guess;  
     wUp = 0.21; %[m]; width of a flat plate which would represent projected area of wing on UPstroke; very rough guess;
     l = 0.45; %[m]; length of same flat plate
 

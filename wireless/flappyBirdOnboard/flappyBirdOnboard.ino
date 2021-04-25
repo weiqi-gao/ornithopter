@@ -43,18 +43,29 @@ void setup() {
 
 void loop() {
   radio.startListening();
+  delay(3);
   if(radio.available()){ //check if there is a signal coming in
-    radio.read(&pot1,sizeof(pot1)); //recieve potentiometer value
-    Serial.println(pot1);
-    ESC.write(pot1); //write potentiometer val to esc
+    //while(radio.available()){
+      radio.read(&pot1,sizeof(pot1)); //recieve potentiometer value
+      Serial.print("Pot: ");
+      Serial.println(pot1);
+      //Serial.print("\t");
+      ESC.write(pot1); //write potentiometer val to esc
+    //}
+    //radio.stopListening();
   }
-//  int data1[] = {analogRead(hallPin1),analogRead(hallPin2)};
-//  Serial.print(data1[0]);
-//  Serial.print(" ");
-//  Serial.println(data1[1]);
-//  radio.write(&data1[0], sizeof(data1[0]));
-//  radio.write(&data1[1], sizeof(data1[1]));
-//  const char text[] = "Butts!";
-//  radio.write(&text, sizeof(text));
-//  delay(1000);
+  else{ 
+    //Serial.print("\t\t");
+    //radio.stopListening();
+  }
+  
+  radio.stopListening();
+  int data1[] = {analogRead(hallPin1),analogRead(hallPin2)};
+  //Serial.print("Hall Sensors: ");
+  //Serial.print(data1[0]);
+  //Serial.print(" ");
+  //Serial.print(data1[1]);
+  radio.write(&data1[0], sizeof(data1[0]));
+  radio.write(&data1[1], sizeof(data1[1]));
+  //Serial.println();
 }

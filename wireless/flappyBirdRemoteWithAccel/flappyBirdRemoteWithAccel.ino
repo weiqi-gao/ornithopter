@@ -9,6 +9,10 @@
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
+#include <Wire.h>
+#include <Adafruit_Sensor.h>
+#include <Adafruit_BNO055.h>
+#include <utility/imumaths.h>
 
 
 /* Pins/Ports */
@@ -20,7 +24,12 @@ const byte addresses[][6] = {"10501","10502"};
 
 /* Dynamic Variables */
 int pot1 = 0;
+int pot1map = 0;
+int data1[2];
+float accelData[2];
+imu::Vector <3> accel;
 
+/* Setup Loop */
 void setup() {
   Serial.begin(9600);
   pinMode(potPin,INPUT);
@@ -32,26 +41,40 @@ void setup() {
 }
 
 void loop() {
-  
+  delay(3);
   if (map(analogRead(A0),0,1023,0,180) != pot1){
     radio.stopListening();    
     pot1 = analogRead(A0);
     pot1 = map(pot1, 0, 1023, 0, 180);
-    Serial.print("Pot: ");
-    Serial.print(pot1);
+    //Serial.print("Pot: ");
+    //Serial.print(pot1raw);
     radio.write(&pot1, sizeof(pot1));
-    Serial.print("\t\t");
+    //Serial.print("\t\t");
   }
-  else {Serial.print("\t\t");}    
+//  else {Serial.print("\t\t");}
+  //delay(5);
   radio.startListening();
-  delay(3);
   if (radio.available()) {
-    int data1[2];
     radio.read(&data1[0], sizeof(data1[0]));
+    //delay(5);
     radio.read(&data1[1], sizeof(data1[1]));
+    delay(20);
+    radio.read(&accelData[0], sizeof(accelData[0]));
+    //delay(5);
+    radio.read(&accelData[1], sizeof(accelData[1]));
+    //delay(5);
+    Serial.print("ESC: ");
+    Serial.print(pot1);
+    Serial.print(" Hall Sensors: ");
     Serial.print(data1[0]);
     Serial.print(" ");
-    Serial.println(data1[1]);
+    Serial.print(data1[1]);  
+    Serial.print(" ");   
+    Serial.print("\t\t Accel: ");
+    Serial.print(accelData[0]);
+    Serial.print(" ");
+    Serial.print(accelData[1]);  
+    Serial.println();   
   }
-  Serial.println();
+  
 }

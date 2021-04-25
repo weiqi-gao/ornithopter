@@ -10,6 +10,13 @@
 #include <nRF24L01.h>
 #include <RF24.h>
 #include <PWMServo.h>
+#include <Wire.h>
+#include <Adafruit_Sensor.h>
+#include <Adafruit_BNO055.h>
+#include <utility/imumaths.h>
+
+/* Constants */
+#define BNO055_sampleRate //delay in ms of samples
 
 /* Pins/Ports */
 #define escPin 2 //digital pin 2 for pwm signal
@@ -25,11 +32,17 @@ PWMServo ESC;
 const int pwmMin = 1000;
 const int pwmMax = 2000;
 
+/* Accelerometer Setup */
+Adafruit_BNO055 bno = Adafruit_BNO055(-1, 0x28);
+
 /* Variables */
 int pot1 = 0;
+float accelData[2];
+long allData[5];
+long yAccel;
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(115200);
   radio.begin();
   radio.openWritingPipe(addresses[1]);
   radio.openReadingPipe(1, addresses[0]);
@@ -39,9 +52,15 @@ void setup() {
   pinMode(hallPin2,INPUT); 
   //pinMode(escPin,OUTPUT); //we will write PWM signals to control the motor speed
   ESC.attach(escPin,pwmMin,pwmMax);
+  if(!bno.begin()){
+    Serial.println("No BNO055 detected.");
+    while(1);
+  }
+  bno.setExtCrystalUse(true);
 }
 
 void loop() {
+  imu::Vector<3> accel = bno.getVector(Adafruit_BNO055::VECTOR_ACCELEROMETER);
   radio.startListening();
   delay(3);
   if(radio.available()){ //check if there is a signal coming in
@@ -52,9 +71,8 @@ void loop() {
       //Serial.print("\t");
       ESC.write(pot1); //write potentiometer val to esc
     //}
-    //radio.stopListening();
+    radio.stopListening();
   }
-<<<<<<< HEAD
   else{ 
     //Serial.print("\t\t");
     //radio.stopListening();
@@ -62,30 +80,19 @@ void loop() {
   
   radio.stopListening();
   int data1[] = {analogRead(hallPin1),analogRead(hallPin2)};
-  //Serial.print("Hall Sensors: ");
-  //Serial.print(data1[0]);
-  //Serial.print(" ");
-  //Serial.print(data1[1]);
-  radio.write(&data1[0], sizeof(data1[0]));
-  radio.write(&data1[1], sizeof(data1[1]));
-  //Serial.println();
-||||||| merged common ancestors
-//  int data1[] = {analogRead(hallPin1),analogRead(hallPin2)};
-//  Serial.print(data1[0]);
-//  Serial.print(" ");
-//  Serial.println(data1[1]);
-//  radio.write(&data1[0], sizeof(data1[0]));
-//  radio.write(&data1[1], sizeof(data1[1]));
-//  const char text[] = "Butts!";
-//  radio.write(&text, sizeof(text));
-//  delay(1000);
-=======
-  radio.stopListening();
-  int data1[] = {analogRead(hallPin1),analogRead(hallPin2)};
+  accelData[0] = accel.x();
+  accelData[1] = accel.y();
   Serial.print(data1[0]);
   Serial.print(" ");
-  Serial.println(data1[1]);
+  Serial.print(data1[1]);
+  Serial.print(" ");
   radio.write(&data1[0], sizeof(data1[0]));
+  //delay(5);
   radio.write(&data1[1], sizeof(data1[1]));
->>>>>>> ea3e99832f9634960033d32fc5de214777dacb10
+  delay(20);
+  radio.write(&accelData[0],sizeof(accelData[0]));
+  //delay(5);
+  radio.write(&accelData[1],sizeof(accelData[1]));
+  //delay(5);
+  Serial.println();
 }

@@ -1,2104 +1,2085 @@
-
-Starting...
-Startup is complete
-***
-Start calibration:
-Place the load cell an a level stable surface.
-Remove any load applied to the load cell.
-Send 't' from serial monitor to set the tare offset.
-Tare complete
-Now, place your known mass on the loadcell.
-Then send the weight of this mass (i.e. 100.0) from serial monitor.
-Known mass is: 3750.00
-New calibration value has been set to: 113.35, use this as calibration value (calFactor) in your project sketch.
-Save this value to EEPROM adress 0? y/n
-Value 113.35 saved to EEPROM address: 0
-End calibration
-***
-To re-calibrate, send 'r' from serial monitor.
-For manual edit of the calibration value, send 'c' from serial monitor.
-***
-Load_cell output val: 3749.99
-Load_cell output val: 3749.98
-Load_cell output val: 3749.96
-Load_cell output val: 3749.97
-Load_cell output val: 3750.00
-Load_cell output val: 3750.04
-Load_cell output val: 3750.02
-Load_cell output val: 3749.97
-Load_cell output val: 3749.96
-Load_cell output val: 3749.98
-Load_cell output val: 3750.02
-Load_cell output val: 3750.04
-Load_cell output val: 3750.04
-Load_cell output val: 3750.04
-Load_cell output val: 3750.04
-Load_cell output val: 3750.00
-Load_cell output val: 3749.96
-Load_cell output val: 3749.93
-Load_cell output val: 3749.96
-Load_cell output val: 3749.97
-Load_cell output val: 3749.99
-Load_cell output val: 3749.98
-Load_cell output val: 3749.95
-Load_cell output val: 3749.90
-Load_cell output val: 3749.89
-Load_cell output val: 3749.90
-Load_cell output val: 3749.90
-Load_cell output val: 3749.88
-Load_cell output val: 3749.85
-Load_cell output val: 3749.84
-Load_cell output val: 3749.83
-Load_cell output val: 3749.81
-Load_cell output val: 3749.78
-Load_cell output val: 3749.80
-Load_cell output val: 3749.83
-Load_cell output val: 3749.85
-Load_cell output val: 3749.85
-Load_cell output val: 3749.85
-Load_cell output val: 3749.84
-Load_cell output val: 3749.86
-Load_cell output val: 3749.88
-Load_cell output val: 3749.89
-Load_cell output val: 3749.91
-Load_cell output val: 3749.92
-Load_cell output val: 3749.94
-Load_cell output val: 3749.94
-Load_cell output val: 3749.93
-Load_cell output val: 3749.91
-Load_cell output val: 3749.89
-Load_cell output val: 3749.91
-Load_cell output val: 3749.92
-Load_cell output val: 3749.93
-Load_cell output val: 3749.92
-Load_cell output val: 3749.91
-Load_cell output val: 3749.93
-Load_cell output val: 3749.93
-Load_cell output val: 3749.92
-Load_cell output val: 3749.89
-Load_cell output val: 3749.90
-Load_cell output val: 3749.93
-Load_cell output val: 3749.94
-Load_cell output val: 3749.93
-Load_cell output val: 3749.89
-Load_cell output val: 3749.88
-Load_cell output val: 3749.86
-Load_cell output val: 3749.89
-Load_cell output val: 3749.94
-Load_cell output val: 3749.96
-Load_cell output val: 3749.96
-Load_cell output val: 3749.89
-Load_cell output val: 3749.46
-Load_cell output val: 3749.51
-Load_cell output val: 3750.12
-Load_cell output val: 3749.52
-Load_cell output val: 3746.10
-Load_cell output val: 3737.64
-Load_cell output val: 3720.13
-Load_cell output val: 3676.09
-Load_cell output val: 3572.14
-Load_cell output val: 3413.01
-Load_cell output val: 3197.45
-Load_cell output val: 2963.81
-Load_cell output val: 2729.29
-Load_cell output val: 2494.92
-Load_cell output val: 2260.51
-Load_cell output val: 2026.10
-Load_cell output val: 1791.78
-Load_cell output val: 1558.26
-Load_cell output val: 1327.09
-Load_cell output val: 1095.32
-Load_cell output val: 864.82
-Load_cell output val: 639.00
-Load_cell output val: 422.20
-Load_cell output val: 231.89
-Load_cell output val: 101.50
-Load_cell output val: 26.30
-Load_cell output val: 7.55
-Load_cell output val: 4.35
-Load_cell output val: 3.72
-Load_cell output val: 3.93
-Load_cell output val: 3.96
-Load_cell output val: 3.93
-Load_cell output val: 3.94
-Load_cell output val: 3.96
-Load_cell output val: 3.94
-Load_cell output val: 3.56
-Load_cell output val: 0.99
-Load_cell output val: 0.57
-Load_cell output val: 0.54
-Load_cell output val: 0.49
-Load_cell output val: 0.46
-Load_cell output val: 0.45
-Load_cell output val: 0.43
-Load_cell output val: 0.43
-Load_cell output val: 0.41
-Load_cell output val: 0.41
-Load_cell output val: 0.40
-Load_cell output val: 0.37
-Load_cell output val: 0.38
-Load_cell output val: 0.38
-Load_cell output val: 0.38
-Load_cell output val: 0.38
-Load_cell output val: 0.39
-Load_cell output val: 0.36
-Load_cell output val: 0.34
-Load_cell output val: 0.34
-Load_cell output val: 0.35
-Load_cell output val: 0.38
-Load_cell output val: 0.40
-Load_cell output val: 0.38
-Load_cell output val: 0.37
-Load_cell output val: 0.35
-Load_cell output val: 0.34
-Load_cell output val: 0.33
-Load_cell output val: 0.32
-Load_cell output val: 0.30
-Load_cell output val: 0.28
-Load_cell output val: 0.29
-Load_cell output val: 0.27
-Load_cell output val: 0.26
-Load_cell output val: 0.25
-Load_cell output val: 0.23
-Load_cell output val: 0.23
-Load_cell output val: 0.24
-Load_cell output val: 0.23
-Load_cell output val: 0.20
-Load_cell output val: 0.19
-Load_cell output val: 0.20
-Load_cell output val: 0.22
-Load_cell output val: 0.24
-Load_cell output val: 0.22
-Load_cell output val: 0.20
-Load_cell output val: 0.19
-Load_cell output val: 0.19
-Load_cell output val: 0.20
-Load_cell output val: 0.19
-Load_cell output val: 0.19
-Load_cell output val: 0.17
-Load_cell output val: 0.16
-Load_cell output val: 0.19
-Load_cell output val: 0.19
-Load_cell output val: 0.16
-Load_cell output val: 0.12
-Load_cell output val: 0.13
-Load_cell output val: 0.13
-Load_cell output val: 0.12
-Load_cell output val: 0.11
-Load_cell output val: 0.09
-Load_cell output val: 0.10
-Load_cell output val: 0.11
-Load_cell output val: 0.14
-Load_cell output val: 0.16
-Load_cell output val: 0.14
-Load_cell output val: 0.15
-Load_cell output val: 0.17
-Load_cell output val: 0.18
-Load_cell output val: 0.19
-Load_cell output val: 0.19
-Load_cell output val: 0.19
-Load_cell output val: 0.20
-Load_cell output val: 0.23
-Load_cell output val: 0.22
-Load_cell output val: 0.22
-Load_cell output val: 0.22
-Load_cell output val: 0.24
-Load_cell output val: 0.24
-Load_cell output val: 0.24
-Load_cell output val: 0.23
-Load_cell output val: 0.21
-Load_cell output val: 0.20
-Load_cell output val: 0.20
-Load_cell output val: 0.19
-Load_cell output val: 0.19
-Load_cell output val: 0.19
-Load_cell output val: 0.19
-Load_cell output val: 0.19
-Load_cell output val: 0.16
-Load_cell output val: 0.14
-Load_cell output val: 0.11
-Load_cell output val: 0.10
-Load_cell output val: 0.12
-Load_cell output val: 0.12
-Load_cell output val: 0.11
-Load_cell output val: 0.09
-Load_cell output val: 0.09
-Load_cell output val: 0.10
-Load_cell output val: 0.11
-Load_cell output val: 0.10
-Load_cell output val: 0.10
-Load_cell output val: 0.10
-Load_cell output val: 0.11
-Load_cell output val: 0.14
-Load_cell output val: 0.13
-Load_cell output val: 0.12
-Load_cell output val: 0.14
-Load_cell output val: 0.16
-Load_cell output val: 0.17
-Load_cell output val: 0.16
-Load_cell output val: 0.12
-Load_cell output val: 0.11
-Load_cell output val: 0.10
-Load_cell output val: 0.10
-Load_cell output val: 0.08
-Load_cell output val: 0.07
-Load_cell output val: 0.08
-Load_cell output val: 0.08
-Load_cell output val: 0.07
-Load_cell output val: 0.08
-Load_cell output val: 0.05
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: 0.00
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: -0.02
-Load_cell output val: -0.03
-Load_cell output val: -0.03
-Load_cell output val: -0.03
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.06
-Load_cell output val: -0.05
-Load_cell output val: -0.03
-Load_cell output val: -0.02
-Load_cell output val: 0.01
-Load_cell output val: 0.02
-Load_cell output val: 0.00
-Load_cell output val: 0.02
-Load_cell output val: 0.04
-Load_cell output val: 0.09
-Load_cell output val: 0.11
-Load_cell output val: 0.11
-Load_cell output val: 0.11
-Load_cell output val: 0.14
-Load_cell output val: 0.17
-Load_cell output val: 0.18
-Load_cell output val: 0.18
-Load_cell output val: 0.19
-Load_cell output val: 0.19
-Load_cell output val: 0.17
-Load_cell output val: 0.16
-Load_cell output val: 0.15
-Load_cell output val: 0.12
-Load_cell output val: 0.11
-Load_cell output val: 0.12
-Load_cell output val: 0.13
-Load_cell output val: 0.12
-Load_cell output val: 0.12
-Load_cell output val: 0.13
-Load_cell output val: 0.13
-Load_cell output val: 0.12
-Load_cell output val: 0.12
-Load_cell output val: 0.11
-Load_cell output val: 0.11
-Load_cell output val: 0.11
-Load_cell output val: 0.11
-Load_cell output val: 0.11
-Load_cell output val: 0.10
-Load_cell output val: 0.08
-Load_cell output val: 0.08
-Load_cell output val: 0.08
-Load_cell output val: 0.06
-Load_cell output val: 0.04
-Load_cell output val: 0.02
-Load_cell output val: 0.00
-Load_cell output val: -0.02
-Load_cell output val: -0.04
-Load_cell output val: -0.06
-Load_cell output val: -0.07
-Load_cell output val: -0.09
-Load_cell output val: -0.08
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: -0.01
-Load_cell output val: -0.03
-Load_cell output val: -0.03
-Load_cell output val: 0.01
-Load_cell output val: 0.04
-Load_cell output val: 0.05
-Load_cell output val: 0.06
-Load_cell output val: 0.08
-Load_cell output val: 0.08
-Load_cell output val: 0.09
-Load_cell output val: 0.11
-Load_cell output val: 0.10
-Load_cell output val: 0.09
-Load_cell output val: 0.06
-Load_cell output val: 0.05
-Load_cell output val: 0.06
-Load_cell output val: 0.05
-Load_cell output val: 0.05
-Load_cell output val: 0.06
-Load_cell output val: 0.08
-Load_cell output val: 0.08
-Load_cell output val: 0.05
-Load_cell output val: 0.04
-Load_cell output val: 0.05
-Load_cell output val: 0.05
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.06
-Load_cell output val: 0.05
-Load_cell output val: 0.06
-Load_cell output val: 0.05
-Load_cell output val: 0.05
-Load_cell output val: 0.04
-Load_cell output val: 0.01
-Load_cell output val: 0.02
-Load_cell output val: 0.02
-Load_cell output val: -0.01
-Load_cell output val: -0.02
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.08
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.08
-Load_cell output val: -0.08
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.07
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: 0.00
-Load_cell output val: 0.02
-Load_cell output val: 0.04
-Load_cell output val: 0.07
-Load_cell output val: 0.08
-Load_cell output val: 0.07
-Load_cell output val: 0.06
-Load_cell output val: 0.06
-Load_cell output val: 0.05
-Load_cell output val: 0.04
-Load_cell output val: 0.06
-Load_cell output val: 0.07
-Load_cell output val: 0.09
-Load_cell output val: 0.10
-Load_cell output val: 0.12
-Load_cell output val: 0.15
-Load_cell output val: 0.15
-Load_cell output val: 0.15
-Load_cell output val: 0.15
-Load_cell output val: 0.14
-Load_cell output val: 0.11
-Load_cell output val: 0.10
-Load_cell output val: 0.12
-Load_cell output val: 0.14
-Load_cell output val: 0.13
-Load_cell output val: 0.14
-Load_cell output val: 0.16
-Load_cell output val: 0.18
-Load_cell output val: 0.20
-Load_cell output val: 0.20
-Load_cell output val: 0.17
-Load_cell output val: 0.12
-Load_cell output val: 0.10
-Load_cell output val: 0.08
-Load_cell output val: 0.10
-Load_cell output val: 0.11
-Load_cell output val: 0.09
-Load_cell output val: 0.08
-Load_cell output val: 0.09
-Load_cell output val: 0.07
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: 0.02
-Load_cell output val: -0.01
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.08
-Load_cell output val: -0.09
-Load_cell output val: -0.08
-Load_cell output val: -0.06
-Load_cell output val: -0.05
-Load_cell output val: -0.06
-Load_cell output val: -0.08
-Load_cell output val: -0.11
-Load_cell output val: -0.13
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.08
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: 0.02
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.06
-Load_cell output val: 0.11
-Load_cell output val: 0.15
-Load_cell output val: 0.18
-Load_cell output val: 0.20
-Load_cell output val: 0.18
-Load_cell output val: 0.15
-Load_cell output val: 0.16
-Load_cell output val: 0.15
-Load_cell output val: 0.12
-Load_cell output val: 0.14
-Load_cell output val: 0.15
-Load_cell output val: 0.12
-Load_cell output val: 0.12
-Load_cell output val: 0.10
-Load_cell output val: 0.09
-Load_cell output val: 0.09
-Load_cell output val: 0.07
-Load_cell output val: 0.06
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.02
-Load_cell output val: -0.02
-Load_cell output val: -0.01
-Load_cell output val: 0.03
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.05
-Load_cell output val: 0.06
-Load_cell output val: 0.07
-Load_cell output val: 0.07
-Load_cell output val: 0.04
-Load_cell output val: 0.06
-Load_cell output val: 0.06
-Load_cell output val: 0.04
-Load_cell output val: 0.01
-Load_cell output val: -0.02
-Load_cell output val: 0.00
-Load_cell output val: 0.03
-Load_cell output val: 0.03
-Load_cell output val: 0.04
-Load_cell output val: 0.05
-Load_cell output val: 0.05
-Load_cell output val: 0.05
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: 0.02
-Load_cell output val: -0.02
-Load_cell output val: -0.02
-Load_cell output val: -0.01
-Load_cell output val: 0.01
-Load_cell output val: 0.04
-Load_cell output val: 0.06
-Load_cell output val: 0.06
-Load_cell output val: 0.05
-Load_cell output val: 0.02
-Load_cell output val: -0.01
-Load_cell output val: -0.02
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.06
-Load_cell output val: -0.09
-Load_cell output val: -0.08
-Load_cell output val: -0.08
-Load_cell output val: -0.09
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.04
-Load_cell output val: -0.06
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.09
-Load_cell output val: -0.07
-Load_cell output val: -0.04
-Load_cell output val: -0.02
-Load_cell output val: -0.03
-Load_cell output val: -0.02
-Load_cell output val: -0.03
-Load_cell output val: -0.02
-Load_cell output val: -0.02
-Load_cell output val: -0.01
-Load_cell output val: 0.01
-Load_cell output val: 0.03
-Load_cell output val: 0.01
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: 0.00
-Load_cell output val: 0.01
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.05
-Load_cell output val: -0.07
-Load_cell output val: -0.04
-Load_cell output val: -0.01
-Load_cell output val: 0.03
-Load_cell output val: 0.03
-Load_cell output val: 0.02
-Load_cell output val: 0.02
-Load_cell output val: 0.02
-Load_cell output val: 0.01
-Load_cell output val: -0.01
-Load_cell output val: -0.03
-Load_cell output val: -0.03
-Load_cell output val: -0.01
-Load_cell output val: 0.00
-Load_cell output val: -0.01
-Load_cell output val: 0.00
-Load_cell output val: -0.01
-Load_cell output val: 0.01
-Load_cell output val: 0.04
-Load_cell output val: 0.06
-Load_cell output val: 0.03
-Load_cell output val: 0.00
-Load_cell output val: -0.02
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.07
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.10
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.09
-Load_cell output val: -0.08
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.07
-Load_cell output val: -0.05
-Load_cell output val: -0.04
-Load_cell output val: -0.06
-Load_cell output val: -0.05
-Load_cell output val: -0.02
-Load_cell output val: -0.01
-Load_cell output val: -0.01
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.01
-Load_cell output val: 0.01
-Load_cell output val: -0.01
-Load_cell output val: -0.01
-Load_cell output val: 0.01
-Load_cell output val: 0.04
-Load_cell output val: 0.05
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: 0.02
-Load_cell output val: 0.02
-Load_cell output val: 0.02
-Load_cell output val: 0.01
-Load_cell output val: -0.01
-Load_cell output val: -0.02
-Load_cell output val: 0.00
-Load_cell output val: 0.02
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.05
-Load_cell output val: 0.07
-Load_cell output val: 0.08
-Load_cell output val: 0.05
-Load_cell output val: 0.04
-Load_cell output val: 0.02
-Load_cell output val: 0.03
-Load_cell output val: 0.04
-Load_cell output val: 0.05
-Load_cell output val: 0.09
-Load_cell output val: 0.11
-Load_cell output val: 0.12
-Load_cell output val: 0.12
-Load_cell output val: 0.11
-Load_cell output val: 0.11
-Load_cell output val: 0.09
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: 0.03
-Load_cell output val: 0.02
-Load_cell output val: 0.03
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.02
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: 0.02
-Load_cell output val: 0.01
-Load_cell output val: -0.01
-Load_cell output val: 0.00
-Load_cell output val: 0.00
-Load_cell output val: -0.02
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: -0.02
-Load_cell output val: -0.04
-Load_cell output val: -0.06
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.04
-Load_cell output val: -0.01
-Load_cell output val: -0.01
-Load_cell output val: -0.01
-Load_cell output val: -0.01
-Load_cell output val: -0.04
-Load_cell output val: -0.07
-Load_cell output val: -0.08
-Load_cell output val: -0.08
-Load_cell output val: -0.06
-Load_cell output val: -0.04
-Load_cell output val: 0.00
-Load_cell output val: 0.01
-Load_cell output val: 0.03
-Load_cell output val: 0.04
-Load_cell output val: 0.06
-Load_cell output val: 0.08
-Load_cell output val: 0.08
-Load_cell output val: 0.09
-Load_cell output val: 0.08
-Load_cell output val: 0.07
-Load_cell output val: 0.07
-Load_cell output val: 0.09
-Load_cell output val: 0.11
-Load_cell output val: 0.14
-Load_cell output val: 0.17
-Load_cell output val: 0.17
-Load_cell output val: 0.17
-Load_cell output val: 0.16
-Load_cell output val: 0.17
-Load_cell output val: 0.19
-Load_cell output val: 0.19
-Load_cell output val: 0.18
-Load_cell output val: 0.16
-Load_cell output val: 0.12
-Load_cell output val: 0.11
-Load_cell output val: 0.12
-Load_cell output val: 0.13
-Load_cell output val: 0.12
-Load_cell output val: 0.10
-Load_cell output val: 0.08
-Load_cell output val: 0.08
-Load_cell output val: 0.06
-Load_cell output val: 0.04
-Load_cell output val: 0.08
-Load_cell output val: 0.09
-Load_cell output val: 0.09
-Load_cell output val: 0.09
-Load_cell output val: 0.06
-Load_cell output val: 0.05
-Load_cell output val: 0.08
-Load_cell output val: 0.12
-Load_cell output val: 0.16
-Load_cell output val: 0.15
-Load_cell output val: 0.13
-Load_cell output val: 0.09
-Load_cell output val: 0.09
-Load_cell output val: 0.11
-Load_cell output val: 0.10
-Load_cell output val: 0.11
-Load_cell output val: 0.11
-Load_cell output val: 0.12
-Load_cell output val: 0.11
-Load_cell output val: 0.09
-Load_cell output val: 0.08
-Load_cell output val: 0.06
-Load_cell output val: 0.07
-Load_cell output val: 0.06
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: -0.01
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: -0.02
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.05
-Load_cell output val: -0.06
-Load_cell output val: -0.09
-Load_cell output val: -0.10
-Load_cell output val: -0.07
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.07
-Load_cell output val: -0.07
-Load_cell output val: -0.08
-Load_cell output val: -0.08
-Load_cell output val: -0.06
-Load_cell output val: -0.05
-Load_cell output val: -0.05
-Load_cell output val: -0.05
-Load_cell output val: -0.06
-Load_cell output val: -0.05
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.02
-Load_cell output val: 0.00
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.06
-Load_cell output val: -0.08
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.05
-Load_cell output val: -0.07
-Load_cell output val: -0.09
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.13
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.17
-Load_cell output val: -0.17
-Load_cell output val: -0.17
-Load_cell output val: -0.17
-Load_cell output val: -0.17
-Load_cell output val: -0.16
-Load_cell output val: -0.16
-Load_cell output val: -0.14
-Load_cell output val: -0.13
-Load_cell output val: -0.12
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.07
-Load_cell output val: -0.08
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.08
-Load_cell output val: -0.09
-Load_cell output val: -0.11
-Load_cell output val: -0.13
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.07
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: 0.00
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: -0.01
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.05
-Load_cell output val: -0.07
-Load_cell output val: -0.08
-Load_cell output val: -0.06
-Load_cell output val: -0.03
-Load_cell output val: -0.03
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.08
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.05
-Load_cell output val: -0.04
-Load_cell output val: -0.02
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: -0.01
-Load_cell output val: -0.02
-Load_cell output val: -0.04
-Load_cell output val: -0.09
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.10
-Load_cell output val: -0.13
-Load_cell output val: -0.14
-Load_cell output val: -0.13
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.08
-Load_cell output val: -0.10
-Load_cell output val: -0.13
-Load_cell output val: -0.15
-Load_cell output val: -0.16
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.13
-Load_cell output val: -0.16
-Load_cell output val: -0.18
-Load_cell output val: -0.18
-Load_cell output val: -0.17
-Load_cell output val: -0.15
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.20
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.17
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.15
-Load_cell output val: -0.16
-Load_cell output val: -0.16
-Load_cell output val: -0.17
-Load_cell output val: -0.18
-Load_cell output val: -0.17
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.17
-Load_cell output val: -0.13
-Load_cell output val: -0.11
-Load_cell output val: -0.09
-Load_cell output val: -0.07
-Load_cell output val: -0.05
-Load_cell output val: -0.04
-Load_cell output val: -0.07
-Load_cell output val: -0.07
-Load_cell output val: -0.05
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.09
-Load_cell output val: -0.11
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.08
-Load_cell output val: -0.04
-Load_cell output val: -0.01
-Load_cell output val: -0.03
-Load_cell output val: -0.03
-Load_cell output val: -0.01
-Load_cell output val: -0.02
-Load_cell output val: -0.02
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.05
-Load_cell output val: -0.01
-Load_cell output val: 0.03
-Load_cell output val: 0.06
-Load_cell output val: 0.08
-Load_cell output val: 0.10
-Load_cell output val: 0.09
-Load_cell output val: 0.08
-Load_cell output val: 0.04
-Load_cell output val: 0.02
-Load_cell output val: 0.03
-Load_cell output val: 0.02
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: -0.02
-Load_cell output val: -0.02
-Load_cell output val: -0.02
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.09
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.08
-Load_cell output val: -0.05
-Load_cell output val: -0.03
-Load_cell output val: -0.03
-Load_cell output val: -0.05
-Load_cell output val: -0.06
-Load_cell output val: -0.04
-Load_cell output val: 0.00
-Load_cell output val: 0.02
-Load_cell output val: 0.00
-Load_cell output val: 0.01
-Load_cell output val: 0.03
-Load_cell output val: 0.02
-Load_cell output val: 0.02
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.05
-Load_cell output val: 0.05
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.01
-Load_cell output val: -0.02
-Load_cell output val: 0.01
-Load_cell output val: 0.03
-Load_cell output val: 0.00
-Load_cell output val: -0.04
-Load_cell output val: -0.06
-Load_cell output val: -0.08
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.14
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.10
-Load_cell output val: -0.08
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: 0.00
-Load_cell output val: 0.00
-Load_cell output val: -0.01
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.06
-Load_cell output val: -0.07
-Load_cell output val: -0.06
-Load_cell output val: -0.07
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.10
-Load_cell output val: -0.07
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: -0.01
-Load_cell output val: 0.01
-Load_cell output val: 0.04
-Load_cell output val: 0.02
-Load_cell output val: 0.03
-Load_cell output val: 0.05
-Load_cell output val: 0.05
-Load_cell output val: 0.06
-Load_cell output val: 0.05
-Load_cell output val: 0.05
-Load_cell output val: 0.08
-Load_cell output val: 0.10
-Load_cell output val: 0.10
-Load_cell output val: 0.09
-Load_cell output val: 0.06
-Load_cell output val: 0.04
-Load_cell output val: 0.02
-Load_cell output val: 0.00
-Load_cell output val: 0.01
-Load_cell output val: 0.02
-Load_cell output val: -0.01
-Load_cell output val: -0.01
-Load_cell output val: -0.03
-Load_cell output val: -0.06
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.08
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.15
-Load_cell output val: -0.13
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.14
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.08
-Load_cell output val: -0.06
-Load_cell output val: -0.04
-Load_cell output val: -0.06
-Load_cell output val: -0.07
-Load_cell output val: -0.07
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.07
-Load_cell output val: -0.07
-Load_cell output val: -0.05
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.08
-Load_cell output val: -0.10
-Load_cell output val: -0.15
-Load_cell output val: -0.17
-Load_cell output val: -0.19
-Load_cell output val: -0.21
-Load_cell output val: -0.21
-Load_cell output val: -0.22
-Load_cell output val: -0.21
-Load_cell output val: -0.20
-Load_cell output val: -0.21
-Load_cell output val: -0.20
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.20
-Load_cell output val: -0.19
-Load_cell output val: -0.18
-Load_cell output val: -0.17
-Load_cell output val: -0.14
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.11
-Load_cell output val: -0.13
-Load_cell output val: -0.14
-Load_cell output val: -0.16
-Load_cell output val: -0.16
-Load_cell output val: -0.17
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.20
-Load_cell output val: -0.22
-Load_cell output val: -0.22
-Load_cell output val: -0.21
-Load_cell output val: -0.20
-Load_cell output val: -0.20
-Load_cell output val: -0.20
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.18
-Load_cell output val: -0.17
-Load_cell output val: -0.16
-Load_cell output val: -0.16
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.13
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.07
-Load_cell output val: -0.07
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.06
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.07
-Load_cell output val: -0.11
-Load_cell output val: -0.14
-Load_cell output val: -0.16
-Load_cell output val: -0.16
-Load_cell output val: -0.13
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.11
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.13
-Load_cell output val: -0.14
-Load_cell output val: -0.17
-Load_cell output val: -0.19
-Load_cell output val: -0.22
-Load_cell output val: -0.23
-Load_cell output val: -0.22
-Load_cell output val: -0.24
-Load_cell output val: -0.22
-Load_cell output val: -0.21
-Load_cell output val: -0.19
-Load_cell output val: -0.18
-Load_cell output val: -0.16
-Load_cell output val: -0.16
-Load_cell output val: -0.19
-Load_cell output val: -0.20
-Load_cell output val: -0.21
-Load_cell output val: -0.21
-Load_cell output val: -0.21
-Load_cell output val: -0.20
-Load_cell output val: -0.18
-Load_cell output val: -0.16
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.14
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.07
-Load_cell output val: -0.07
-Load_cell output val: -0.07
-Load_cell output val: -0.08
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.07
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: -0.02
-Load_cell output val: -0.01
-Load_cell output val: 0.01
-Load_cell output val: 0.02
-Load_cell output val: 0.02
-Load_cell output val: 0.03
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.05
-Load_cell output val: 0.09
-Load_cell output val: 0.11
-Load_cell output val: 0.11
-Load_cell output val: 0.11
-Load_cell output val: 0.08
-Load_cell output val: 0.05
-Load_cell output val: 0.03
-Load_cell output val: 0.00
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.02
-Load_cell output val: -0.02
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.06
-Load_cell output val: -0.09
-Load_cell output val: -0.12
-Load_cell output val: -0.15
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.17
-Load_cell output val: -0.17
-Load_cell output val: -0.18
-Load_cell output val: -0.17
-Load_cell output val: -0.16
-Load_cell output val: -0.19
-Load_cell output val: -0.20
-Load_cell output val: -0.21
-Load_cell output val: -0.21
-Load_cell output val: -0.21
-Load_cell output val: -0.24
-Load_cell output val: -0.22
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.22
-Load_cell output val: -0.19
-Load_cell output val: -0.16
-Load_cell output val: -0.16
-Load_cell output val: -0.16
-Load_cell output val: -0.14
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.06
-Load_cell output val: -0.04
-Load_cell output val: -0.02
-Load_cell output val: 0.01
-Load_cell output val: 0.01
-Load_cell output val: -0.03
-Load_cell output val: -0.02
-Load_cell output val: 0.03
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: -0.01
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.10
-Load_cell output val: -0.12
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.12
-Load_cell output val: -0.14
-Load_cell output val: -0.15
-Load_cell output val: -0.15
-Load_cell output val: -0.16
-Load_cell output val: -0.16
-Load_cell output val: -0.13
-Load_cell output val: -0.10
-Load_cell output val: -0.05
-Load_cell output val: -0.04
-Load_cell output val: -0.02
-Load_cell output val: -0.02
-Load_cell output val: -0.02
-Load_cell output val: -0.01
-Load_cell output val: 0.01
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: 0.01
-Load_cell output val: 0.01
-Load_cell output val: -0.01
-Load_cell output val: -0.02
-Load_cell output val: -0.04
-Load_cell output val: -0.06
-Load_cell output val: -0.08
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.14
-Load_cell output val: -0.15
-Load_cell output val: -0.16
-Load_cell output val: -0.16
-Load_cell output val: -0.15
-Load_cell output val: -0.12
-Load_cell output val: -0.10
-Load_cell output val: -0.08
-Load_cell output val: -0.09
-Load_cell output val: -0.08
-Load_cell output val: -0.04
-Load_cell output val: -0.02
-Load_cell output val: 0.02
-Load_cell output val: 0.05
-Load_cell output val: 0.06
-Load_cell output val: 0.04
-Load_cell output val: 0.01
-Load_cell output val: 0.01
-Load_cell output val: 0.03
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: 0.01
-Load_cell output val: 0.01
-Load_cell output val: 0.02
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.03
-Load_cell output val: -0.01
-Load_cell output val: -0.01
-Load_cell output val: -0.04
-Load_cell output val: -0.08
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.08
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.12
-Load_cell output val: -0.13
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.15
-Load_cell output val: -0.17
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.21
-Load_cell output val: -0.21
-Load_cell output val: -0.23
-Load_cell output val: -0.24
-Load_cell output val: -0.24
-Load_cell output val: -0.22
-Load_cell output val: -0.23
-Load_cell output val: -0.24
-Load_cell output val: -0.23
-Load_cell output val: -0.22
-Load_cell output val: -0.20
-Load_cell output val: -0.19
-Load_cell output val: -0.17
-Load_cell output val: -0.14
-Load_cell output val: -0.12
-Load_cell output val: -0.10
-Load_cell output val: -0.06
-Load_cell output val: -0.03
-Load_cell output val: -0.02
-Load_cell output val: -0.03
-Load_cell output val: -0.03
-Load_cell output val: -0.02
-Load_cell output val: -0.01
-Load_cell output val: -0.01
-Load_cell output val: 0.01
-Load_cell output val: 0.01
-Load_cell output val: -0.02
-Load_cell output val: -0.06
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.06
-Load_cell output val: -0.08
-Load_cell output val: -0.09
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.16
-Load_cell output val: -0.19
-Load_cell output val: -0.22
-Load_cell output val: -0.23
-Load_cell output val: -0.23
-Load_cell output val: -0.24
-Load_cell output val: -0.24
-Load_cell output val: -0.22
-Load_cell output val: -0.20
-Load_cell output val: -0.19
-Load_cell output val: -0.16
-Load_cell output val: -0.14
-Load_cell output val: -0.11
-Load_cell output val: -0.09
-Load_cell output val: -0.08
-Load_cell output val: -0.08
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.09
-Load_cell output val: -0.07
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.05
-Load_cell output val: -0.06
-Load_cell output val: -0.09
-Load_cell output val: -0.11
-Load_cell output val: -0.15
-Load_cell output val: -0.17
-Load_cell output val: -0.18
-Load_cell output val: -0.16
-Load_cell output val: -0.14
-Load_cell output val: -0.11
-Load_cell output val: -0.09
-Load_cell output val: -0.08
-Load_cell output val: -0.05
-Load_cell output val: -0.02
-Load_cell output val: -0.01
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.07
-Load_cell output val: -0.06
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.09
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.05
-Load_cell output val: -0.06
-Load_cell output val: -0.08
-Load_cell output val: -0.09
-Load_cell output val: -0.06
-Load_cell output val: -0.07
-Load_cell output val: -0.07
-Load_cell output val: -0.06
-Load_cell output val: -0.08
-Load_cell output val: -0.08
-Load_cell output val: -0.05
-Load_cell output val: 0.00
-Load_cell output val: 0.02
-Load_cell output val: 0.04
-Load_cell output val: 0.04
-Load_cell output val: 0.01
-Load_cell output val: -0.01
-Load_cell output val: -0.02
-Load_cell output val: -0.04
-Load_cell output val: -0.06
-Load_cell output val: -0.09
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.15
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.15
-Load_cell output val: -0.19
-Load_cell output val: -0.24
-Load_cell output val: -0.26
-Load_cell output val: -0.27
-Load_cell output val: -0.29
-Load_cell output val: -0.31
-Load_cell output val: -0.30
-Load_cell output val: -0.25
-Load_cell output val: -0.20
-Load_cell output val: -0.20
-Load_cell output val: -0.18
-Load_cell output val: -0.17
-Load_cell output val: -0.19
-Load_cell output val: -0.18
-Load_cell output val: -0.14
-Load_cell output val: -0.13
-Load_cell output val: -0.15
-Load_cell output val: -0.17
-Load_cell output val: -0.15
-Load_cell output val: -0.13
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.13
-Load_cell output val: -0.17
-Load_cell output val: -0.18
-Load_cell output val: -0.17
-Load_cell output val: -0.16
-Load_cell output val: -0.17
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.20
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.22
-Load_cell output val: -0.24
-Load_cell output val: -0.23
-Load_cell output val: -0.22
-Load_cell output val: -0.21
-Load_cell output val: -0.22
-Load_cell output val: -0.22
-Load_cell output val: -0.21
-Load_cell output val: -0.18
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.15
-Load_cell output val: -0.16
-Load_cell output val: -0.14
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.06
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.07
-Load_cell output val: -0.09
-Load_cell output val: -0.12
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.13
-Load_cell output val: -0.16
-Load_cell output val: -0.17
-Load_cell output val: -0.18
-Load_cell output val: -0.20
-Load_cell output val: -0.20
-Load_cell output val: -0.19
-Load_cell output val: -0.16
-Load_cell output val: -0.19
-Load_cell output val: -0.20
-Load_cell output val: -0.19
-Load_cell output val: -0.17
-Load_cell output val: -0.14
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.13
-Load_cell output val: -0.15
-Load_cell output val: -0.16
-Load_cell output val: -0.13
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.13
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.13
-Load_cell output val: -0.14
-Load_cell output val: -0.16
-Load_cell output val: -0.19
-Load_cell output val: -0.20
-Load_cell output val: -0.21
-Load_cell output val: -0.23
-Load_cell output val: -0.23
-Load_cell output val: -0.22
-Load_cell output val: -0.23
-Load_cell output val: -0.25
-Load_cell output val: -0.25
-Load_cell output val: -0.24
-Load_cell output val: -0.23
-Load_cell output val: -0.24
-Load_cell output val: -0.25
-Load_cell output val: -0.25
-Load_cell output val: -0.25
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.27
-Load_cell output val: -0.28
-Load_cell output val: -0.27
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.29
-Load_cell output val: -0.28
-Load_cell output val: -0.27
-Load_cell output val: -0.28
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.25
-Load_cell output val: -0.24
-Load_cell output val: -0.22
-Load_cell output val: -0.21
-Load_cell output val: -0.19
-Load_cell output val: -0.17
-Load_cell output val: -0.16
-Load_cell output val: -0.16
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.15
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.16
-Load_cell output val: -0.18
-Load_cell output val: -0.18
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.17
-Load_cell output val: -0.16
-Load_cell output val: -0.13
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.15
-Load_cell output val: -0.17
-Load_cell output val: -0.14
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.12
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.15
-Load_cell output val: -0.16
-Load_cell output val: -0.16
-Load_cell output val: -0.15
-Load_cell output val: -0.13
-Load_cell output val: -0.12
-Load_cell output val: -0.14
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.15
-Load_cell output val: -0.16
-Load_cell output val: -0.17
-Load_cell output val: -0.19
-Load_cell output val: -0.21
-Load_cell output val: -0.22
-Load_cell output val: -0.22
-Load_cell output val: -0.21
-Load_cell output val: -0.20
-Load_cell output val: -0.20
-Load_cell output val: -0.21
-Load_cell output val: -0.24
-Load_cell output val: -0.25
-Load_cell output val: -0.25
-Load_cell output val: -0.24
-Load_cell output val: -0.23
-Load_cell output val: -0.22
-Load_cell output val: -0.22
-Load_cell output val: -0.20
-Load_cell output val: -0.18
-Load_cell output val: -0.15
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.08
-Load_cell output val: -0.10
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.09
-Load_cell output val: -0.10
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.05
-Load_cell output val: -0.06
-Load_cell output val: -0.05
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.05
-Load_cell output val: -0.05
-Load_cell output val: -0.05
-Load_cell output val: -0.06
-Load_cell output val: -0.07
-Load_cell output val: -0.09
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.13
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.13
-Load_cell output val: -0.15
-Load_cell output val: -0.16
-Load_cell output val: -0.16
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.10
-Load_cell output val: -0.12
-Load_cell output val: -0.12
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.11
-Load_cell output val: -0.12
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.16
-Load_cell output val: -0.18
-Load_cell output val: -0.17
-Load_cell output val: -0.13
-Load_cell output val: -0.15
-Load_cell output val: -0.17
-Load_cell output val: -0.17
-Load_cell output val: -0.19
-Load_cell output val: -0.18
-Load_cell output val: -0.17
-Load_cell output val: -0.18
-Load_cell output val: -0.18
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.18
-Load_cell output val: -0.14
-Load_cell output val: -0.13
-Load_cell output val: -0.11
-Load_cell output val: -0.08
-Load_cell output val: -0.06
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.04
-Load_cell output val: -0.02
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.03
-Load_cell output val: -0.04
-Load_cell output val: -0.04
-Load_cell output val: -0.05
-Load_cell output val: -0.08
-Load_cell output val: -0.08
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.13
-Load_cell output val: -0.14
-Load_cell output val: -0.12
-Load_cell output val: -0.13
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.15
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.14
-Load_cell output val: -0.13
-Load_cell output val: -0.11
-Load_cell output val: -0.14
-Load_cell output val: -0.15
-Load_cell output val: -0.17
-Load_cell output val: -0.18
-Load_cell output val: -0.15
-Load_cell output val: -0.14
-Load_cell output val: -0.15
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.22
-Load_cell output val: -0.21
-Load_cell output val: -0.21
-Load_cell output val: -0.22
-Load_cell output val: -0.25
-Load_cell output val: -0.26
-Load_cell output val: -0.25
-Load_cell output val: -0.25
-Load_cell output val: -0.26
-Load_cell output val: -0.28
-Load_cell output val: -0.30
-Load_cell output val: -0.30
-Load_cell output val: -0.30
-Load_cell output val: -0.32
-Load_cell output val: -0.32
-Load_cell output val: -0.29
-Load_cell output val: -0.27
-Load_cell output val: -0.26
-Load_cell output val: -0.23
-Load_cell output val: -0.22
-Load_cell output val: -0.21
-Load_cell output val: -0.21
-Load_cell output val: -0.21
-Load_cell output val: -0.20
-Load_cell output val: -0.24
-Load_cell output val: -0.26
-Load_cell output val: -0.27
-Load_cell output val: -0.26
-Load_cell output val: -0.23
-Load_cell output val: -0.25
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.23
-Load_cell output val: -0.22
-Load_cell output val: -0.21
-Load_cell output val: -0.23
-Load_cell output val: -0.22
-Load_cell output val: -0.22
-Load_cell output val: -0.22
-Load_cell output val: -0.21
-Load_cell output val: -0.18
-Load_cell output val: -0.15
-Load_cell output val: -0.12
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.14
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.20
-Load_cell output val: -0.20
-Load_cell output val: -0.18
-Load_cell output val: -0.16
-Load_cell output val: -0.18
-Load_cell output val: -0.22
-Load_cell output val: -0.27
-Load_cell output val: -0.29
-Load_cell output val: -0.26
-Load_cell output val: -0.23
-Load_cell output val: -0.22
-Load_cell output val: -0.22
-Load_cell output val: -0.22
-Load_cell output val: -0.21
-Load_cell output val: -0.23
-Load_cell output val: -0.23
-Load_cell output val: -0.21
-Load_cell output val: -0.21
-Load_cell output val: -0.22
-Load_cell output val: -0.19
-Load_cell output val: -0.21
-Load_cell output val: -0.26
-Load_cell output val: -0.24
-Load_cell output val: -0.19
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.20
-Load_cell output val: -0.23
-Load_cell output val: -0.24
-Load_cell output val: -0.25
-Load_cell output val: -0.26
-Load_cell output val: -0.28
-Load_cell output val: -0.28
-Load_cell output val: -0.28
-Load_cell output val: -0.28
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.27
-Load_cell output val: -0.29
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.23
-Load_cell output val: -0.20
-Load_cell output val: -0.20
-Load_cell output val: -0.21
-Load_cell output val: -0.22
-Load_cell output val: -0.20
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.16
-Load_cell output val: -0.12
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.07
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.05
-Load_cell output val: -0.07
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.09
-Load_cell output val: -0.07
-Load_cell output val: -0.08
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.13
-Load_cell output val: -0.17
-Load_cell output val: -0.17
-Load_cell output val: -0.16
-Load_cell output val: -0.15
-Load_cell output val: -0.17
-Load_cell output val: -0.20
-Load_cell output val: -0.23
-Load_cell output val: -0.25
-Load_cell output val: -0.25
-Load_cell output val: -0.27
-Load_cell output val: -0.24
-Load_cell output val: -0.24
-Load_cell output val: -0.24
-Load_cell output val: -0.23
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.30
-Load_cell output val: -0.30
-Load_cell output val: -0.29
-Load_cell output val: -0.27
-Load_cell output val: -0.27
-Load_cell output val: -0.27
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.28
-Load_cell output val: -0.26
-Load_cell output val: -0.28
-Load_cell output val: -0.30
-Load_cell output val: -0.30
-Load_cell output val: -0.33
-Load_cell output val: -0.29
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.25
-Load_cell output val: -0.25
-Load_cell output val: -0.26
-Load_cell output val: -0.26
-Load_cell output val: -0.27
-Load_cell output val: -0.27
-Load_cell output val: -0.26
-Load_cell output val: -0.28
-Load_cell output val: -0.26
-Load_cell output val: -0.22
-Load_cell output val: -0.22
-Load_cell output val: -0.20
-Load_cell output val: -0.18
-Load_cell output val: -0.18
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.18
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.20
-Load_cell output val: -0.19
-Load_cell output val: -0.16
-Load_cell output val: -0.14
-Load_cell output val: -0.17
-Load_cell output val: -0.17
-Load_cell output val: -0.17
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.17
-Load_cell output val: -0.16
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.20
-Load_cell output val: -0.21
-Load_cell output val: -0.22
-Load_cell output val: -0.22
-Load_cell output val: -0.23
-Load_cell output val: -0.25
-Load_cell output val: -0.26
-Load_cell output val: -0.24
-Load_cell output val: -0.22
-Load_cell output val: -0.21
-Load_cell output val: -0.19
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.20
-Load_cell output val: -0.19
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.21
-Load_cell output val: -0.19
-Load_cell output val: -0.16
-Load_cell output val: -0.15
-Load_cell output val: -0.13
-Load_cell output val: -0.13
-Load_cell output val: -0.10
-Load_cell output val: -0.07
-Load_cell output val: -0.08
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.11
-Load_cell output val: -0.10
-Load_cell output val: -0.08
-Load_cell output val: -0.07
-Load_cell output val: -0.07
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.06
-Load_cell output val: -0.08
-Load_cell output val: -0.10
-Load_cell output val: -0.10
-Load_cell output val: -0.11
-Load_cell output val: -0.13
-Load_cell output val: -0.16
-Load_cell output val: -0.17
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.18
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.19
-Load_cell output val: -0.17
-Load_cell output val: -0.15
-Load_cell output val: -0.13
-Load_cell output val: -0.10
-Load_cell output val: -0.07
-Load_cell output val: -0.04
-Load_cell output val: -0.03
+g
+3749.99
+3749.98
+3749.96
+3749.97
+3750.00
+3750.04
+3750.02
+3749.97
+3749.96
+3749.98
+3750.02
+3750.04
+3750.04
+3750.04
+3750.04
+3750.00
+3749.96
+3749.93
+3749.96
+3749.97
+3749.99
+3749.98
+3749.95
+3749.90
+3749.89
+3749.90
+3749.90
+3749.88
+3749.85
+3749.84
+3749.83
+3749.81
+3749.78
+3749.80
+3749.83
+3749.85
+3749.85
+3749.85
+3749.84
+3749.86
+3749.88
+3749.89
+3749.91
+3749.92
+3749.94
+3749.94
+3749.93
+3749.91
+3749.89
+3749.91
+3749.92
+3749.93
+3749.92
+3749.91
+3749.93
+3749.93
+3749.92
+3749.89
+3749.90
+3749.93
+3749.94
+3749.93
+3749.89
+3749.88
+3749.86
+3749.89
+3749.94
+3749.96
+3749.96
+3749.89
+3749.46
+3749.51
+3750.12
+3749.52
+3746.10
+3737.64
+3720.13
+3676.09
+3572.14
+3413.01
+3197.45
+2963.81
+2729.29
+2494.92
+2260.51
+2026.10
+1791.78
+1558.26
+1327.09
+1095.32
+864.82
+639.00
+422.20
+231.89
+101.50
+26.30
+7.55
+4.35
+3.72
+3.93
+3.96
+3.93
+3.94
+3.96
+3.94
+3.56
+0.99
+0.57
+0.54
+0.49
+0.46
+0.45
+0.43
+0.43
+0.41
+0.41
+0.40
+0.37
+0.38
+0.38
+0.38
+0.38
+0.39
+0.36
+0.34
+0.34
+0.35
+0.38
+0.40
+0.38
+0.37
+0.35
+0.34
+0.33
+0.32
+0.30
+0.28
+0.29
+0.27
+0.26
+0.25
+0.23
+0.23
+0.24
+0.23
+0.20
+0.19
+0.20
+0.22
+0.24
+0.22
+0.20
+0.19
+0.19
+0.20
+0.19
+0.19
+0.17
+0.16
+0.19
+0.19
+0.16
+0.12
+0.13
+0.13
+0.12
+0.11
+0.09
+0.10
+0.11
+0.14
+0.16
+0.14
+0.15
+0.17
+0.18
+0.19
+0.19
+0.19
+0.20
+0.23
+0.22
+0.22
+0.22
+0.24
+0.24
+0.24
+0.23
+0.21
+0.20
+0.20
+0.19
+0.19
+0.19
+0.19
+0.19
+0.16
+0.14
+0.11
+0.10
+0.12
+0.12
+0.11
+0.09
+0.09
+0.10
+0.11
+0.10
+0.10
+0.10
+0.11
+0.14
+0.13
+0.12
+0.14
+0.16
+0.17
+0.16
+0.12
+0.11
+0.10
+0.10
+0.08
+0.07
+0.08
+0.08
+0.07
+0.08
+0.05
+0.04
+0.04
+0.03
+0.00
+-0.03
+-0.04
+-0.03
+-0.02
+-0.03
+-0.03
+-0.03
+-0.03
+-0.04
+-0.06
+-0.05
+-0.03
+-0.02
+0.01
+0.02
+0.00
+0.02
+0.04
+0.09
+0.11
+0.11
+0.11
+0.14
+0.17
+0.18
+0.18
+0.19
+0.19
+0.17
+0.16
+0.15
+0.12
+0.11
+0.12
+0.13
+0.12
+0.12
+0.13
+0.13
+0.12
+0.12
+0.11
+0.11
+0.11
+0.11
+0.11
+0.10
+0.08
+0.08
+0.08
+0.06
+0.04
+0.02
+0.00
+-0.02
+-0.04
+-0.06
+-0.07
+-0.09
+-0.08
+-0.06
+-0.06
+-0.06
+-0.04
+-0.03
+-0.01
+-0.03
+-0.03
+0.01
+0.04
+0.05
+0.06
+0.08
+0.08
+0.09
+0.11
+0.10
+0.09
+0.06
+0.05
+0.06
+0.05
+0.05
+0.06
+0.08
+0.08
+0.05
+0.04
+0.05
+0.05
+0.04
+0.04
+0.06
+0.05
+0.06
+0.05
+0.05
+0.04
+0.01
+0.02
+0.02
+-0.01
+-0.02
+-0.04
+-0.04
+-0.05
+-0.08
+-0.09
+-0.09
+-0.10
+-0.10
+-0.10
+-0.10
+-0.09
+-0.10
+-0.10
+-0.08
+-0.08
+-0.08
+-0.07
+-0.07
+-0.04
+-0.03
+0.00
+0.02
+0.04
+0.07
+0.08
+0.07
+0.06
+0.06
+0.05
+0.04
+0.06
+0.07
+0.09
+0.10
+0.12
+0.15
+0.15
+0.15
+0.15
+0.14
+0.11
+0.10
+0.12
+0.14
+0.13
+0.14
+0.16
+0.18
+0.20
+0.20
+0.17
+0.12
+0.10
+0.08
+0.10
+0.11
+0.09
+0.08
+0.09
+0.07
+0.04
+0.03
+0.02
+-0.01
+-0.04
+-0.05
+-0.08
+-0.09
+-0.08
+-0.06
+-0.05
+-0.06
+-0.08
+-0.11
+-0.13
+-0.12
+-0.12
+-0.11
+-0.11
+-0.11
+-0.08
+-0.04
+-0.04
+-0.04
+-0.04
+-0.03
+0.02
+0.04
+0.04
+0.04
+0.06
+0.11
+0.15
+0.18
+0.20
+0.18
+0.15
+0.16
+0.15
+0.12
+0.14
+0.15
+0.12
+0.12
+0.10
+0.09
+0.09
+0.07
+0.06
+0.04
+0.04
+0.02
+-0.02
+-0.01
+0.03
+0.04
+0.04
+0.04
+0.04
+0.04
+0.04
+0.04
+0.04
+0.04
+0.05
+0.06
+0.07
+0.07
+0.04
+0.06
+0.06
+0.04
+0.01
+-0.02
+0.00
+0.03
+0.03
+0.04
+0.05
+0.05
+0.05
+0.04
+0.03
+0.02
+-0.02
+-0.02
+-0.01
+0.01
+0.04
+0.06
+0.06
+0.05
+0.02
+-0.01
+-0.02
+-0.04
+-0.04
+-0.06
+-0.09
+-0.08
+-0.08
+-0.09
+-0.08
+-0.07
+-0.04
+-0.06
+-0.10
+-0.11
+-0.11
+-0.09
+-0.07
+-0.04
+-0.02
+-0.03
+-0.02
+-0.03
+-0.02
+-0.02
+-0.01
+0.01
+0.03
+0.01
+-0.04
+-0.04
+-0.03
+0.00
+0.01
+-0.03
+-0.04
+-0.06
+-0.06
+-0.05
+-0.07
+-0.04
+-0.01
+0.03
+0.03
+0.02
+0.02
+0.02
+0.01
+-0.01
+-0.03
+-0.03
+-0.01
+0.00
+-0.01
+0.00
+-0.01
+0.01
+0.04
+0.06
+0.03
+0.00
+-0.02
+-0.03
+-0.04
+-0.05
+-0.04
+-0.04
+-0.04
+-0.05
+-0.09
+-0.09
+-0.07
+-0.06
+-0.06
+-0.10
+-0.12
+-0.12
+-0.09
+-0.08
+-0.10
+-0.11
+-0.10
+-0.07
+-0.05
+-0.04
+-0.06
+-0.05
+-0.02
+-0.01
+-0.01
+-0.03
+-0.04
+-0.01
+0.01
+-0.01
+-0.01
+0.01
+0.04
+0.05
+0.04
+0.03
+0.02
+0.02
+0.02
+0.01
+-0.01
+-0.02
+0.00
+0.02
+0.04
+0.04
+0.05
+0.07
+0.08
+0.05
+0.04
+0.02
+0.03
+0.04
+0.05
+0.09
+0.11
+0.12
+0.12
+0.11
+0.11
+0.09
+0.04
+0.03
+0.03
+0.02
+0.03
+0.04
+0.04
+0.02
+0.04
+0.04
+0.03
+0.02
+0.01
+-0.01
+0.00
+0.00
+-0.02
+-0.04
+-0.03
+-0.02
+-0.04
+-0.06
+-0.08
+-0.07
+-0.04
+-0.01
+-0.01
+-0.01
+-0.01
+-0.04
+-0.07
+-0.08
+-0.08
+-0.06
+-0.04
+0.00
+0.01
+0.03
+0.04
+0.06
+0.08
+0.08
+0.09
+0.08
+0.07
+0.07
+0.09
+0.11
+0.14
+0.17
+0.17
+0.17
+0.16
+0.17
+0.19
+0.19
+0.18
+0.16
+0.12
+0.11
+0.12
+0.13
+0.12
+0.10
+0.08
+0.08
+0.06
+0.04
+0.08
+0.09
+0.09
+0.09
+0.06
+0.05
+0.08
+0.12
+0.16
+0.15
+0.13
+0.09
+0.09
+0.11
+0.10
+0.11
+0.11
+0.12
+0.11
+0.09
+0.08
+0.06
+0.07
+0.06
+0.04
+0.03
+-0.01
+-0.04
+-0.04
+-0.03
+-0.02
+-0.04
+-0.05
+-0.05
+-0.06
+-0.09
+-0.10
+-0.07
+-0.06
+-0.06
+-0.07
+-0.07
+-0.08
+-0.08
+-0.06
+-0.05
+-0.05
+-0.05
+-0.06
+-0.05
+-0.04
+-0.04
+-0.02
+0.00
+-0.03
+-0.04
+-0.06
+-0.08
+-0.08
+-0.07
+-0.05
+-0.07
+-0.09
+-0.10
+-0.11
+-0.13
+-0.14
+-0.14
+-0.17
+-0.17
+-0.17
+-0.17
+-0.17
+-0.16
+-0.16
+-0.14
+-0.13
+-0.12
+-0.15
+-0.14
+-0.11
+-0.11
+-0.08
+-0.07
+-0.06
+-0.06
+-0.06
+-0.07
+-0.08
+-0.10
+-0.09
+-0.08
+-0.09
+-0.11
+-0.13
+-0.12
+-0.11
+-0.11
+-0.12
+-0.12
+-0.12
+-0.11
+-0.10
+-0.09
+-0.07
+-0.06
+-0.06
+-0.06
+-0.04
+-0.04
+-0.03
+0.00
+0.04
+0.04
+0.04
+0.03
+0.04
+0.03
+-0.01
+-0.04
+-0.05
+-0.05
+-0.07
+-0.08
+-0.06
+-0.03
+-0.03
+-0.03
+-0.04
+-0.04
+-0.08
+-0.11
+-0.10
+-0.06
+-0.06
+-0.05
+-0.04
+-0.02
+-0.03
+-0.04
+-0.03
+-0.01
+-0.02
+-0.04
+-0.09
+-0.10
+-0.09
+-0.09
+-0.09
+-0.10
+-0.13
+-0.14
+-0.13
+-0.11
+-0.11
+-0.11
+-0.11
+-0.11
+-0.11
+-0.11
+-0.12
+-0.11
+-0.10
+-0.10
+-0.09
+-0.11
+-0.11
+-0.08
+-0.07
+-0.08
+-0.10
+-0.13
+-0.15
+-0.16
+-0.15
+-0.14
+-0.14
+-0.14
+-0.13
+-0.16
+-0.18
+-0.18
+-0.17
+-0.15
+-0.18
+-0.19
+-0.19
+-0.20
+-0.19
+-0.19
+-0.17
+-0.15
+-0.14
+-0.14
+-0.15
+-0.16
+-0.16
+-0.17
+-0.18
+-0.17
+-0.19
+-0.19
+-0.17
+-0.13
+-0.11
+-0.09
+-0.07
+-0.05
+-0.04
+-0.07
+-0.07
+-0.05
+-0.06
+-0.06
+-0.09
+-0.11
+-0.09
+-0.09
+-0.08
+-0.04
+-0.01
+-0.03
+-0.03
+-0.01
+-0.02
+-0.02
+-0.04
+-0.04
+-0.05
+-0.05
+-0.01
+0.03
+0.06
+0.08
+0.10
+0.09
+0.08
+0.04
+0.02
+0.03
+0.02
+-0.03
+-0.04
+-0.04
+-0.03
+-0.02
+-0.02
+-0.02
+-0.04
+-0.05
+-0.09
+-0.11
+-0.11
+-0.08
+-0.05
+-0.03
+-0.03
+-0.05
+-0.06
+-0.04
+0.00
+0.02
+0.00
+0.01
+0.03
+0.02
+0.02
+0.04
+0.04
+0.05
+0.05
+0.04
+0.04
+0.01
+-0.02
+0.01
+0.03
+0.00
+-0.04
+-0.06
+-0.08
+-0.11
+-0.12
+-0.12
+-0.13
+-0.13
+-0.13
+-0.13
+-0.14
+-0.15
+-0.14
+-0.10
+-0.08
+-0.09
+-0.09
+-0.04
+-0.04
+-0.04
+0.00
+0.00
+-0.01
+-0.03
+-0.04
+-0.04
+-0.04
+-0.04
+-0.04
+-0.06
+-0.07
+-0.06
+-0.07
+-0.09
+-0.09
+-0.10
+-0.07
+-0.04
+-0.04
+-0.03
+-0.01
+0.01
+0.04
+0.02
+0.03
+0.05
+0.05
+0.06
+0.05
+0.05
+0.08
+0.10
+0.10
+0.09
+0.06
+0.04
+0.02
+0.00
+0.01
+0.02
+-0.01
+-0.01
+-0.03
+-0.06
+-0.08
+-0.07
+-0.08
+-0.11
+-0.12
+-0.14
+-0.14
+-0.14
+-0.14
+-0.15
+-0.13
+-0.11
+-0.12
+-0.14
+-0.11
+-0.10
+-0.08
+-0.06
+-0.04
+-0.06
+-0.07
+-0.07
+-0.06
+-0.06
+-0.06
+-0.07
+-0.07
+-0.05
+-0.06
+-0.06
+-0.08
+-0.10
+-0.15
+-0.17
+-0.19
+-0.21
+-0.21
+-0.22
+-0.21
+-0.20
+-0.21
+-0.20
+-0.19
+-0.19
+-0.19
+-0.20
+-0.19
+-0.18
+-0.17
+-0.14
+-0.13
+-0.13
+-0.13
+-0.11
+-0.13
+-0.14
+-0.16
+-0.16
+-0.17
+-0.18
+-0.19
+-0.19
+-0.19
+-0.20
+-0.22
+-0.22
+-0.21
+-0.20
+-0.20
+-0.20
+-0.19
+-0.19
+-0.18
+-0.17
+-0.16
+-0.16
+-0.14
+-0.14
+-0.13
+-0.14
+-0.14
+-0.12
+-0.12
+-0.11
+-0.10
+-0.09
+-0.07
+-0.07
+-0.10
+-0.09
+-0.06
+-0.04
+-0.04
+-0.07
+-0.11
+-0.14
+-0.16
+-0.16
+-0.13
+-0.12
+-0.11
+-0.11
+-0.10
+-0.11
+-0.11
+-0.09
+-0.09
+-0.09
+-0.11
+-0.13
+-0.13
+-0.13
+-0.13
+-0.12
+-0.12
+-0.11
+-0.11
+-0.11
+-0.12
+-0.13
+-0.14
+-0.17
+-0.19
+-0.22
+-0.23
+-0.22
+-0.24
+-0.22
+-0.21
+-0.19
+-0.18
+-0.16
+-0.16
+-0.19
+-0.20
+-0.21
+-0.21
+-0.21
+-0.20
+-0.18
+-0.16
+-0.13
+-0.13
+-0.14
+-0.13
+-0.13
+-0.11
+-0.11
+-0.10
+-0.09
+-0.07
+-0.07
+-0.07
+-0.08
+-0.09
+-0.09
+-0.09
+-0.07
+-0.04
+-0.03
+-0.02
+-0.01
+0.01
+0.02
+0.02
+0.03
+0.04
+0.04
+0.05
+0.09
+0.11
+0.11
+0.11
+0.08
+0.05
+0.03
+0.00
+-0.04
+-0.04
+-0.02
+-0.02
+-0.04
+-0.05
+-0.06
+-0.09
+-0.12
+-0.15
+-0.18
+-0.19
+-0.19
+-0.19
+-0.17
+-0.17
+-0.18
+-0.17
+-0.16
+-0.19
+-0.20
+-0.21
+-0.21
+-0.21
+-0.24
+-0.22
+-0.19
+-0.19
+-0.19
+-0.22
+-0.19
+-0.16
+-0.16
+-0.16
+-0.14
+-0.11
+-0.11
+-0.08
+-0.07
+-0.06
+-0.04
+-0.02
+0.01
+0.01
+-0.03
+-0.02
+0.03
+0.04
+0.03
+0.04
+0.04
+0.04
+0.03
+-0.01
+-0.03
+-0.04
+-0.04
+-0.04
+-0.04
+-0.05
+-0.10
+-0.12
+-0.09
+-0.09
+-0.12
+-0.14
+-0.15
+-0.15
+-0.16
+-0.16
+-0.13
+-0.10
+-0.05
+-0.04
+-0.02
+-0.02
+-0.02
+-0.01
+0.01
+0.04
+0.03
+0.01
+0.01
+-0.01
+-0.02
+-0.04
+-0.06
+-0.08
+-0.10
+-0.11
+-0.12
+-0.12
+-0.12
+-0.12
+-0.14
+-0.15
+-0.16
+-0.16
+-0.15
+-0.12
+-0.10
+-0.08
+-0.09
+-0.08
+-0.04
+-0.02
+0.02
+0.05
+0.06
+0.04
+0.01
+0.01
+0.03
+0.04
+0.04
+0.03
+0.01
+0.01
+0.02
+0.04
+0.04
+0.03
+-0.01
+-0.01
+-0.04
+-0.08
+-0.11
+-0.10
+-0.09
+-0.10
+-0.10
+-0.09
+-0.06
+-0.06
+-0.08
+-0.10
+-0.10
+-0.11
+-0.10
+-0.10
+-0.10
+-0.12
+-0.13
+-0.11
+-0.11
+-0.11
+-0.11
+-0.11
+-0.12
+-0.15
+-0.17
+-0.18
+-0.19
+-0.19
+-0.21
+-0.21
+-0.23
+-0.24
+-0.24
+-0.22
+-0.23
+-0.24
+-0.23
+-0.22
+-0.20
+-0.19
+-0.17
+-0.14
+-0.12
+-0.10
+-0.06
+-0.03
+-0.02
+-0.03
+-0.03
+-0.02
+-0.01
+-0.01
+0.01
+0.01
+-0.02
+-0.06
+-0.08
+-0.07
+-0.06
+-0.08
+-0.09
+-0.11
+-0.11
+-0.14
+-0.14
+-0.12
+-0.11
+-0.10
+-0.10
+-0.10
+-0.11
+-0.11
+-0.11
+-0.11
+-0.11
+-0.14
+-0.14
+-0.14
+-0.16
+-0.19
+-0.22
+-0.23
+-0.23
+-0.24
+-0.24
+-0.22
+-0.20
+-0.19
+-0.16
+-0.14
+-0.11
+-0.09
+-0.08
+-0.08
+-0.11
+-0.12
+-0.12
+-0.11
+-0.09
+-0.07
+-0.08
+-0.07
+-0.05
+-0.06
+-0.09
+-0.11
+-0.15
+-0.17
+-0.18
+-0.16
+-0.14
+-0.11
+-0.09
+-0.08
+-0.05
+-0.02
+-0.01
+-0.04
+-0.04
+-0.04
+-0.07
+-0.06
+-0.04
+-0.04
+-0.04
+-0.04
+-0.05
+-0.09
+-0.10
+-0.11
+-0.10
+-0.05
+-0.06
+-0.08
+-0.09
+-0.06
+-0.07
+-0.07
+-0.06
+-0.08
+-0.08
+-0.05
+0.00
+0.02
+0.04
+0.04
+0.01
+-0.01
+-0.02
+-0.04
+-0.06
+-0.09
+-0.10
+-0.11
+-0.09
+-0.09
+-0.09
+-0.09
+-0.09
+-0.11
+-0.11
+-0.11
+-0.10
+-0.11
+-0.11
+-0.13
+-0.13
+-0.15
+-0.14
+-0.12
+-0.12
+-0.15
+-0.15
+-0.14
+-0.15
+-0.19
+-0.24
+-0.26
+-0.27
+-0.29
+-0.31
+-0.30
+-0.25
+-0.20
+-0.20
+-0.18
+-0.17
+-0.19
+-0.18
+-0.14
+-0.13
+-0.15
+-0.17
+-0.15
+-0.13
+-0.11
+-0.11
+-0.11
+-0.11
+-0.12
+-0.12
+-0.12
+-0.13
+-0.17
+-0.18
+-0.17
+-0.16
+-0.17
+-0.18
+-0.19
+-0.20
+-0.19
+-0.19
+-0.22
+-0.24
+-0.23
+-0.22
+-0.21
+-0.22
+-0.22
+-0.21
+-0.18
+-0.15
+-0.14
+-0.15
+-0.16
+-0.14
+-0.11
+-0.10
+-0.10
+-0.06
+-0.04
+-0.04
+-0.04
+-0.04
+-0.03
+-0.04
+-0.07
+-0.09
+-0.12
+-0.15
+-0.14
+-0.12
+-0.11
+-0.13
+-0.16
+-0.17
+-0.18
+-0.20
+-0.20
+-0.19
+-0.16
+-0.19
+-0.20
+-0.19
+-0.17
+-0.14
+-0.12
+-0.12
+-0.13
+-0.15
+-0.16
+-0.13
+-0.11
+-0.11
+-0.11
+-0.12
+-0.12
+-0.13
+-0.15
+-0.14
+-0.13
+-0.14
+-0.16
+-0.19
+-0.20
+-0.21
+-0.23
+-0.23
+-0.22
+-0.23
+-0.25
+-0.25
+-0.24
+-0.23
+-0.24
+-0.25
+-0.25
+-0.25
+-0.26
+-0.26
+-0.26
+-0.27
+-0.28
+-0.27
+-0.26
+-0.26
+-0.29
+-0.28
+-0.27
+-0.28
+-0.26
+-0.26
+-0.26
+-0.26
+-0.26
+-0.25
+-0.24
+-0.22
+-0.21
+-0.19
+-0.17
+-0.16
+-0.16
+-0.15
+-0.14
+-0.15
+-0.15
+-0.14
+-0.16
+-0.18
+-0.18
+-0.15
+-0.14
+-0.14
+-0.17
+-0.16
+-0.13
+-0.12
+-0.12
+-0.12
+-0.15
+-0.17
+-0.14
+-0.11
+-0.10
+-0.10
+-0.10
+-0.11
+-0.11
+-0.11
+-0.13
+-0.13
+-0.11
+-0.12
+-0.12
+-0.13
+-0.13
+-0.12
+-0.10
+-0.11
+-0.15
+-0.16
+-0.16
+-0.15
+-0.13
+-0.12
+-0.14
+-0.15
+-0.14
+-0.15
+-0.16
+-0.17
+-0.19
+-0.21
+-0.22
+-0.22
+-0.21
+-0.20
+-0.20
+-0.21
+-0.24
+-0.25
+-0.25
+-0.24
+-0.23
+-0.22
+-0.22
+-0.20
+-0.18
+-0.15
+-0.11
+-0.10
+-0.08
+-0.10
+-0.12
+-0.11
+-0.09
+-0.10
+-0.08
+-0.07
+-0.05
+-0.06
+-0.05
+-0.04
+-0.05
+-0.05
+-0.05
+-0.05
+-0.06
+-0.07
+-0.09
+-0.11
+-0.11
+-0.12
+-0.13
+-0.12
+-0.11
+-0.11
+-0.10
+-0.09
+-0.11
+-0.11
+-0.11
+-0.11
+-0.13
+-0.15
+-0.16
+-0.16
+-0.12
+-0.11
+-0.12
+-0.11
+-0.10
+-0.08
+-0.07
+-0.10
+-0.12
+-0.12
+-0.10
+-0.10
+-0.09
+-0.11
+-0.12
+-0.14
+-0.14
+-0.16
+-0.18
+-0.17
+-0.13
+-0.15
+-0.17
+-0.17
+-0.19
+-0.18
+-0.17
+-0.18
+-0.18
+-0.18
+-0.19
+-0.18
+-0.14
+-0.13
+-0.11
+-0.08
+-0.06
+-0.04
+-0.05
+-0.04
+-0.04
+-0.04
+-0.05
+-0.04
+-0.02
+-0.03
+-0.04
+-0.04
+-0.03
+-0.04
+-0.04
+-0.05
+-0.08
+-0.08
+-0.11
+-0.11
+-0.10
+-0.11
+-0.13
+-0.14
+-0.12
+-0.13
+-0.14
+-0.14
+-0.14
+-0.15
+-0.15
+-0.14
+-0.14
+-0.13
+-0.11
+-0.14
+-0.15
+-0.17
+-0.18
+-0.15
+-0.14
+-0.15
+-0.18
+-0.19
+-0.22
+-0.21
+-0.21
+-0.22
+-0.25
+-0.26
+-0.25
+-0.25
+-0.26
+-0.28
+-0.30
+-0.30
+-0.30
+-0.32
+-0.32
+-0.29
+-0.27
+-0.26
+-0.23
+-0.22
+-0.21
+-0.21
+-0.21
+-0.20
+-0.24
+-0.26
+-0.27
+-0.26
+-0.23
+-0.25
+-0.26
+-0.26
+-0.26
+-0.26
+-0.23
+-0.22
+-0.21
+-0.23
+-0.22
+-0.22
+-0.22
+-0.21
+-0.18
+-0.15
+-0.12
+-0.10
+-0.10
+-0.10
+-0.10
+-0.09
+-0.09
+-0.10
+-0.11
+-0.14
+-0.18
+-0.19
+-0.20
+-0.20
+-0.18
+-0.16
+-0.18
+-0.22
+-0.27
+-0.29
+-0.26
+-0.23
+-0.22
+-0.22
+-0.22
+-0.21
+-0.23
+-0.23
+-0.21
+-0.21
+-0.22
+-0.19
+-0.21
+-0.26
+-0.24
+-0.19
+-0.18
+-0.19
+-0.20
+-0.23
+-0.24
+-0.25
+-0.26
+-0.28
+-0.28
+-0.28
+-0.28
+-0.26
+-0.26
+-0.27
+-0.29
+-0.26
+-0.26
+-0.26
+-0.23
+-0.20
+-0.20
+-0.21
+-0.22
+-0.20
+-0.19
+-0.19
+-0.16
+-0.12
+-0.11
+-0.10
+-0.09
+-0.09
+-0.07
+-0.06
+-0.06
+-0.05
+-0.07
+-0.09
+-0.09
+-0.09
+-0.07
+-0.08
+-0.08
+-0.07
+-0.10
+-0.11
+-0.13
+-0.17
+-0.17
+-0.16
+-0.15
+-0.17
+-0.20
+-0.23
+-0.25
+-0.25
+-0.27
+-0.24
+-0.24
+-0.24
+-0.23
+-0.26
+-0.26
+-0.30
+-0.30
+-0.29
+-0.27
+-0.27
+-0.27
+-0.26
+-0.26
+-0.26
+-0.26
+-0.28
+-0.26
+-0.28
+-0.30
+-0.30
+-0.33
+-0.29
+-0.26
+-0.26
+-0.25
+-0.25
+-0.26
+-0.26
+-0.27
+-0.27
+-0.26
+-0.28
+-0.26
+-0.22
+-0.22
+-0.20
+-0.18
+-0.18
+-0.18
+-0.19
+-0.19
+-0.19
+-0.19
+-0.18
+-0.18
+-0.19
+-0.19
+-0.20
+-0.19
+-0.16
+-0.14
+-0.17
+-0.17
+-0.17
+-0.18
+-0.19
+-0.17
+-0.16
+-0.18
+-0.19
+-0.18
+-0.19
+-0.20
+-0.21
+-0.22
+-0.22
+-0.23
+-0.25
+-0.26
+-0.24
+-0.22
+-0.21
+-0.19
+-0.18
+-0.19
+-0.20
+-0.19
+-0.18
+-0.19
+-0.21
+-0.19
+-0.16
+-0.15
+-0.13
+-0.13
+-0.10
+-0.07
+-0.08
+-0.10
+-0.11
+-0.11
+-0.10
+-0.08
+-0.07
+-0.07
+-0.06
+-0.06
+-0.06
+-0.08
+-0.10
+-0.10
+-0.11
+-0.13
+-0.16
+-0.17
+-0.18
+-0.19
+-0.18
+-0.19
+-0.19
+-0.19
+-0.17
+-0.15
+-0.13
+-0.10
+-0.07
+-0.04
+-0.03

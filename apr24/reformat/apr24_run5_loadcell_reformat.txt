@@ -1,797 +1,798 @@
-17:50:37.804 -> Load_cell output val: 822.81
-17:50:37.905 -> Load_cell output val: 822.80
-17:50:38.005 -> Load_cell output val: 822.80
-17:50:38.052 -> Load_cell output val: 822.80
-17:50:38.152 -> Load_cell output val: 822.81
-17:50:38.252 -> Load_cell output val: 822.82
-17:50:38.306 -> Load_cell output val: 822.83
-17:50:38.406 -> Load_cell output val: 822.84
-17:50:38.538 -> Load_cell output val: 822.84
-17:50:38.584 -> Load_cell output val: 822.83
-17:50:38.669 -> Load_cell output val: 822.82
-17:50:38.754 -> Load_cell output val: 822.80
-17:50:38.854 -> Load_cell output val: 822.79
-17:50:38.954 -> Load_cell output val: 822.79
-17:50:39.008 -> Load_cell output val: 822.80
-17:50:39.108 -> Load_cell output val: 822.82
-17:50:39.208 -> Load_cell output val: 822.81
-17:50:39.308 -> Load_cell output val: 822.83
-17:50:39.355 -> Load_cell output val: 822.82
-17:50:39.455 -> Load_cell output val: 822.83
-17:50:39.556 -> Load_cell output val: 822.86
-17:50:39.657 -> Load_cell output val: 822.84
-17:50:39.725 -> Load_cell output val: 822.81
-17:50:39.810 -> Load_cell output val: 822.82
-17:50:39.910 -> Load_cell output val: 822.81
-17:50:40.010 -> Load_cell output val: 822.80
-17:50:40.057 -> Load_cell output val: 822.82
-17:50:40.157 -> Load_cell output val: 822.85
-17:50:40.242 -> Load_cell output val: 822.84
-17:50:40.327 -> Load_cell output val: 822.83
-17:50:40.411 -> Load_cell output val: 822.84
-17:50:40.493 -> Load_cell output val: 822.87
-17:50:40.574 -> Load_cell output val: 822.88
-17:50:40.692 -> Load_cell output val: 822.88
-17:50:40.774 -> Load_cell output val: 822.91
-17:50:40.859 -> Load_cell output val: 822.91
-17:50:40.959 -> Load_cell output val: 822.94
-17:50:41.013 -> Load_cell output val: 822.95
-17:50:41.113 -> Load_cell output val: 822.92
-17:50:41.193 -> Load_cell output val: 822.92
-17:50:41.276 -> Load_cell output val: 822.94
-17:50:41.360 -> Load_cell output val: 822.93
-17:50:41.460 -> Load_cell output val: 822.92
-17:50:41.561 -> Load_cell output val: 822.90
-17:50:41.614 -> Load_cell output val: 822.88
-17:50:41.730 -> Load_cell output val: 822.88
-17:50:41.814 -> Load_cell output val: 822.89
-17:50:41.914 -> Load_cell output val: 822.90
-17:50:41.961 -> Load_cell output val: 822.90
-17:50:42.062 -> Load_cell output val: 822.90
-17:50:42.162 -> Load_cell output val: 822.90
-17:50:42.262 -> Load_cell output val: 822.87
-17:50:42.315 -> Load_cell output val: 822.85
-17:50:42.416 -> Load_cell output val: 822.82
-17:50:42.497 -> Load_cell output val: 822.82
-17:50:42.578 -> Load_cell output val: 822.81
-17:50:42.663 -> Load_cell output val: 822.81
-17:50:42.778 -> Load_cell output val: 822.82
-17:50:42.863 -> Load_cell output val: 822.83
-17:50:42.963 -> Load_cell output val: 822.82
-17:50:43.017 -> Load_cell output val: 822.83
-17:50:43.117 -> Load_cell output val: 822.82
-17:50:43.217 -> Load_cell output val: 822.83
-17:50:43.317 -> Load_cell output val: 822.83
-17:50:43.364 -> Load_cell output val: 822.80
-17:50:43.465 -> Load_cell output val: 822.82
-17:50:43.565 -> Load_cell output val: 822.85
-17:50:43.618 -> Load_cell output val: 822.83
-17:50:43.700 -> Load_cell output val: 822.83
-17:50:43.819 -> Load_cell output val: 822.82
-17:50:43.919 -> Load_cell output val: 822.82
-17:50:44.019 -> Load_cell output val: 822.85
-17:50:44.066 -> Load_cell output val: 822.81
-17:50:44.167 -> Load_cell output val: 822.81
-17:50:44.236 -> Load_cell output val: 822.85
-17:50:44.320 -> Load_cell output val: 822.83
-17:50:44.421 -> Load_cell output val: 822.74
-17:50:44.501 -> Load_cell output val: 820.97
-17:50:44.583 -> Load_cell output val: 817.93
-17:50:44.668 -> Load_cell output val: 818.15
-17:50:44.768 -> Load_cell output val: 820.48
-17:50:44.868 -> Load_cell output val: 828.34
-17:50:44.968 -> Load_cell output val: 825.50
-17:50:45.022 -> Load_cell output val: 822.37
-17:50:45.122 -> Load_cell output val: 815.26
-17:50:45.203 -> Load_cell output val: 818.22
-17:50:45.285 -> Load_cell output val: 823.17
-17:50:45.370 -> Load_cell output val: 831.15
-17:50:45.470 -> Load_cell output val: 829.91
-17:50:45.570 -> Load_cell output val: 818.06
-17:50:45.623 -> Load_cell output val: 810.50
-17:50:45.723 -> Load_cell output val: 817.68
-17:50:45.823 -> Load_cell output val: 825.16
-17:50:45.924 -> Load_cell output val: 829.28
-17:50:46.024 -> Load_cell output val: 826.46
-17:50:46.071 -> Load_cell output val: 818.16
-17:50:46.174 -> Load_cell output val: 818.10
-17:50:46.271 -> Load_cell output val: 822.36
-17:50:46.324 -> Load_cell output val: 822.60
-17:50:46.425 -> Load_cell output val: 818.24
-17:50:46.505 -> Load_cell output val: 813.59
-17:50:46.588 -> Load_cell output val: 814.70
-17:50:46.674 -> Load_cell output val: 821.18
-17:50:46.772 -> Load_cell output val: 822.95
-17:50:46.872 -> Load_cell output val: 826.52
-17:50:46.973 -> Load_cell output val: 821.31
-17:50:47.026 -> Load_cell output val: 812.31
-17:50:47.126 -> Load_cell output val: 813.19
-17:50:47.226 -> Load_cell output val: 822.88
-17:50:47.327 -> Load_cell output val: 821.61
-17:50:47.374 -> Load_cell output val: 821.33
-17:50:47.474 -> Load_cell output val: 818.87
-17:50:47.574 -> Load_cell output val: 813.36
-17:50:47.677 -> Load_cell output val: 814.14
-17:50:47.728 -> Load_cell output val: 821.34
-17:50:47.828 -> Load_cell output val: 822.28
-17:50:47.928 -> Load_cell output val: 819.88
-17:50:47.975 -> Load_cell output val: 814.57
-17:50:48.075 -> Load_cell output val: 811.35
-17:50:48.177 -> Load_cell output val: 815.21
-17:50:48.276 -> Load_cell output val: 820.24
-17:50:48.329 -> Load_cell output val: 823.10
-17:50:48.429 -> Load_cell output val: 822.65
-17:50:48.530 -> Load_cell output val: 815.98
-17:50:48.630 -> Load_cell output val: 815.17
-17:50:48.679 -> Load_cell output val: 820.65
-17:50:48.777 -> Load_cell output val: 823.43
-17:50:48.877 -> Load_cell output val: 824.45
-17:50:48.977 -> Load_cell output val: 823.41
-17:50:49.031 -> Load_cell output val: 816.87
-17:50:49.131 -> Load_cell output val: 815.24
-17:50:49.231 -> Load_cell output val: 821.98
-17:50:49.332 -> Load_cell output val: 824.23
-17:50:49.379 -> Load_cell output val: 823.66
-17:50:49.479 -> Load_cell output val: 822.83
-17:50:49.579 -> Load_cell output val: 813.81
-17:50:49.633 -> Load_cell output val: 812.12
-17:50:49.733 -> Load_cell output val: 826.57
-17:50:49.833 -> Load_cell output val: 829.80
-17:50:49.934 -> Load_cell output val: 814.60
-17:50:49.981 -> Load_cell output val: 791.98
-17:50:50.081 -> Load_cell output val: 797.55
-17:50:50.183 -> Load_cell output val: 822.28
-17:50:50.281 -> Load_cell output val: 824.81
-17:50:50.335 -> Load_cell output val: 800.94
-17:50:50.435 -> Load_cell output val: 792.49
-17:50:50.535 -> Load_cell output val: 799.89
-17:50:50.635 -> Load_cell output val: 805.28
-17:50:50.684 -> Load_cell output val: 798.26
-17:50:50.783 -> Load_cell output val: 796.54
-17:50:50.883 -> Load_cell output val: 804.05
-17:50:50.983 -> Load_cell output val: 801.42
-17:50:51.036 -> Load_cell output val: 778.40
-17:50:51.137 -> Load_cell output val: 779.57
-17:50:51.237 -> Load_cell output val: 808.57
-17:50:51.284 -> Load_cell output val: 807.15
-17:50:51.384 -> Load_cell output val: 777.02
-17:50:51.484 -> Load_cell output val: 772.14
-17:50:51.584 -> Load_cell output val: 801.77
-17:50:51.638 -> Load_cell output val: 810.97
-17:50:51.738 -> Load_cell output val: 785.12
-17:50:51.838 -> Load_cell output val: 771.03
-17:50:51.938 -> Load_cell output val: 799.64
-17:50:51.985 -> Load_cell output val: 813.37
-17:50:52.085 -> Load_cell output val: 789.04
-17:50:52.188 -> Load_cell output val: 771.56
-17:50:52.286 -> Load_cell output val: 793.84
-17:50:52.339 -> Load_cell output val: 812.16
-17:50:52.439 -> Load_cell output val: 793.92
-17:50:52.540 -> Load_cell output val: 771.87
-17:50:52.640 -> Load_cell output val: 790.37
-17:50:52.673 -> Load_cell output val: 813.46
-17:50:52.803 -> Load_cell output val: 798.10
-17:50:52.887 -> Load_cell output val: 772.38
-17:50:52.988 -> Load_cell output val: 785.38
-17:50:53.041 -> Load_cell output val: 811.81
-17:50:53.141 -> Load_cell output val: 804.59
-17:50:53.242 -> Load_cell output val: 774.94
-17:50:53.342 -> Load_cell output val: 779.01
-17:50:53.389 -> Load_cell output val: 809.98
-17:50:53.489 -> Load_cell output val: 806.21
-17:50:53.589 -> Load_cell output val: 776.14
-17:50:53.643 -> Load_cell output val: 776.57
-17:50:53.743 -> Load_cell output val: 805.43
-17:50:53.843 -> Load_cell output val: 810.63
-17:50:53.890 -> Load_cell output val: 783.09
-17:50:53.990 -> Load_cell output val: 773.68
-17:50:54.090 -> Load_cell output val: 804.12
-17:50:54.192 -> Load_cell output val: 814.83
-17:50:54.291 -> Load_cell output val: 787.63
-17:50:54.344 -> Load_cell output val: 773.88
-17:50:54.460 -> Load_cell output val: 798.64
-17:50:54.507 -> Load_cell output val: 815.38
-17:50:54.645 -> Load_cell output val: 793.66
-17:50:54.726 -> Load_cell output val: 771.55
-17:50:54.808 -> Load_cell output val: 794.32
-17:50:54.892 -> Load_cell output val: 817.48
-17:50:54.946 -> Load_cell output val: 796.30
-17:50:55.046 -> Load_cell output val: 772.46
-17:50:55.146 -> Load_cell output val: 791.95
-17:50:55.247 -> Load_cell output val: 817.01
-17:50:55.294 -> Load_cell output val: 803.98
-17:50:55.394 -> Load_cell output val: 775.18
-17:50:55.494 -> Load_cell output val: 787.24
-17:50:55.594 -> Load_cell output val: 817.05
-17:50:55.648 -> Load_cell output val: 804.30
-17:50:55.729 -> Load_cell output val: 773.66
-17:50:55.848 -> Load_cell output val: 783.57
-17:50:55.948 -> Load_cell output val: 813.97
-17:50:55.995 -> Load_cell output val: 809.81
-17:50:56.095 -> Load_cell output val: 776.03
-17:50:56.197 -> Load_cell output val: 779.01
-17:50:56.296 -> Load_cell output val: 815.14
-17:50:56.349 -> Load_cell output val: 811.27
-17:50:56.450 -> Load_cell output val: 775.11
-17:50:56.550 -> Load_cell output val: 777.14
-17:50:56.650 -> Load_cell output val: 809.91
-17:50:56.731 -> Load_cell output val: 812.25
-17:50:56.813 -> Load_cell output val: 777.43
-17:50:56.897 -> Load_cell output val: 773.34
-17:50:56.951 -> Load_cell output val: 810.04
-17:50:57.051 -> Load_cell output val: 813.26
-17:50:57.151 -> Load_cell output val: 775.36
-17:50:57.200 -> Load_cell output val: 771.66
-17:50:57.298 -> Load_cell output val: 806.52
-17:50:57.399 -> Load_cell output val: 814.54
-17:50:57.499 -> Load_cell output val: 780.45
-17:50:57.552 -> Load_cell output val: 770.31
-17:50:57.653 -> Load_cell output val: 807.37
-17:50:57.734 -> Load_cell output val: 814.67
-17:50:57.816 -> Load_cell output val: 778.21
-17:50:57.954 -> Load_cell output val: 772.04
-17:50:58.001 -> Load_cell output val: 804.74
-17:50:58.101 -> Load_cell output val: 817.55
-17:50:58.202 -> Load_cell output val: 785.43
-17:50:58.254 -> Load_cell output val: 773.59
-17:50:58.355 -> Load_cell output val: 811.32
-17:50:58.435 -> Load_cell output val: 819.26
-17:50:58.518 -> Load_cell output val: 781.02
-17:50:58.602 -> Load_cell output val: 771.69
-17:50:58.690 -> Load_cell output val: 803.26
-17:50:58.818 -> Load_cell output val: 818.78
-17:50:58.903 -> Load_cell output val: 785.04
-17:50:58.956 -> Load_cell output val: 769.33
-17:50:59.057 -> Load_cell output val: 807.21
-17:50:59.157 -> Load_cell output val: 820.57
-17:50:59.236 -> Load_cell output val: 784.24
-17:50:59.319 -> Load_cell output val: 772.49
-17:50:59.404 -> Load_cell output val: 804.65
-17:50:59.504 -> Load_cell output val: 821.27
-17:50:59.557 -> Load_cell output val: 790.95
-17:50:59.660 -> Load_cell output val: 772.64
-17:50:59.738 -> Load_cell output val: 808.41
-17:50:59.820 -> Load_cell output val: 820.55
-17:50:59.959 -> Load_cell output val: 782.89
-17:51:00.005 -> Load_cell output val: 771.79
-17:51:00.106 -> Load_cell output val: 802.82
-17:51:00.195 -> Load_cell output val: 821.39
-17:51:00.290 -> Load_cell output val: 791.80
-17:51:00.375 -> Load_cell output val: 769.57
-17:51:00.424 -> Load_cell output val: 805.42
-17:51:00.560 -> Load_cell output val: 823.82
-17:51:00.607 -> Load_cell output val: 787.91
-17:51:00.695 -> Load_cell output val: 772.64
-17:51:00.823 -> Load_cell output val: 801.09
-17:51:00.907 -> Load_cell output val: 822.61
-17:51:00.961 -> Load_cell output val: 794.40
-17:51:01.061 -> Load_cell output val: 772.49
-17:51:01.162 -> Load_cell output val: 804.03
-17:51:01.210 -> Load_cell output val: 822.73
-17:51:01.308 -> Load_cell output val: 788.71
-17:51:01.409 -> Load_cell output val: 773.72
-17:51:01.509 -> Load_cell output val: 801.46
-17:51:01.563 -> Load_cell output val: 819.64
-17:51:01.666 -> Load_cell output val: 789.87
-17:51:01.744 -> Load_cell output val: 768.22
-17:51:01.863 -> Load_cell output val: 800.82
-17:51:01.964 -> Load_cell output val: 820.13
-17:51:02.010 -> Load_cell output val: 788.48
-17:51:02.111 -> Load_cell output val: 771.95
-17:51:02.200 -> Load_cell output val: 803.24
-17:51:02.280 -> Load_cell output val: 822.49
-17:51:02.364 -> Load_cell output val: 799.87
-17:51:02.445 -> Load_cell output val: 777.96
-17:51:02.527 -> Load_cell output val: 803.73
-17:51:02.612 -> Load_cell output val: 821.28
-17:51:02.699 -> Load_cell output val: 790.37
-17:51:02.827 -> Load_cell output val: 772.85
-17:51:02.912 -> Load_cell output val: 799.52
-17:51:02.965 -> Load_cell output val: 818.79
-17:51:03.066 -> Load_cell output val: 792.03
-17:51:03.166 -> Load_cell output val: 771.96
-17:51:03.248 -> Load_cell output val: 803.08
-17:51:03.328 -> Load_cell output val: 823.06
-17:51:03.413 -> Load_cell output val: 792.05
-17:51:03.513 -> Load_cell output val: 774.79
-17:51:03.567 -> Load_cell output val: 803.16
-17:51:03.670 -> Load_cell output val: 821.01
-17:51:03.748 -> Load_cell output val: 793.14
-17:51:03.829 -> Load_cell output val: 772.94
-17:51:03.914 -> Load_cell output val: 798.24
-17:51:04.014 -> Load_cell output val: 815.08
-17:51:04.115 -> Load_cell output val: 786.81
-17:51:04.202 -> Load_cell output val: 770.45
-17:51:04.284 -> Load_cell output val: 796.51
-17:51:04.368 -> Load_cell output val: 817.06
-17:51:04.468 -> Load_cell output val: 792.70
-17:51:04.568 -> Load_cell output val: 771.98
-17:51:04.615 -> Load_cell output val: 802.26
-17:51:04.717 -> Load_cell output val: 823.03
-17:51:04.815 -> Load_cell output val: 793.04
-17:51:04.916 -> Load_cell output val: 772.38
-17:51:04.969 -> Load_cell output val: 796.95
-17:51:05.069 -> Load_cell output val: 819.51
-17:51:05.170 -> Load_cell output val: 794.14
-17:51:05.250 -> Load_cell output val: 770.79
-17:51:05.332 -> Load_cell output val: 797.47
-17:51:05.417 -> Load_cell output val: 819.93
-17:51:05.517 -> Load_cell output val: 792.07
-17:51:05.618 -> Load_cell output val: 772.05
-17:51:05.674 -> Load_cell output val: 795.60
-17:51:05.752 -> Load_cell output val: 818.53
-17:51:05.834 -> Load_cell output val: 797.56
-17:51:05.918 -> Load_cell output val: 770.72
-17:51:06.019 -> Load_cell output val: 797.39
-17:51:06.119 -> Load_cell output val: 821.93
-17:51:06.172 -> Load_cell output val: 793.57
-17:51:06.288 -> Load_cell output val: 769.72
-17:51:06.372 -> Load_cell output val: 789.16
-17:51:06.473 -> Load_cell output val: 815.31
-17:51:06.573 -> Load_cell output val: 797.00
-17:51:06.620 -> Load_cell output val: 768.86
-17:51:06.706 -> Load_cell output val: 794.02
-17:51:06.789 -> Load_cell output val: 821.83
-17:51:06.874 -> Load_cell output val: 794.22
-17:51:06.974 -> Load_cell output val: 769.86
-17:51:07.074 -> Load_cell output val: 795.32
-17:51:07.175 -> Load_cell output val: 817.26
-17:51:07.223 -> Load_cell output val: 793.65
-17:51:07.375 -> Load_cell output val: 771.68
-17:51:07.422 -> Load_cell output val: 799.63
-17:51:07.522 -> Load_cell output val: 817.26
-17:51:07.575 -> Load_cell output val: 788.98
-17:51:07.677 -> Load_cell output val: 768.38
-17:51:07.775 -> Load_cell output val: 794.51
-17:51:07.876 -> Load_cell output val: 817.48
-17:51:07.976 -> Load_cell output val: 798.24
-17:51:08.023 -> Load_cell output val: 773.84
-17:51:08.123 -> Load_cell output val: 800.75
-17:51:08.210 -> Load_cell output val: 820.59
-17:51:08.292 -> Load_cell output val: 791.66
-17:51:08.377 -> Load_cell output val: 769.94
-17:51:08.477 -> Load_cell output val: 799.22
-17:51:08.524 -> Load_cell output val: 817.29
-17:51:08.624 -> Load_cell output val: 789.36
-17:51:08.724 -> Load_cell output val: 773.29
-17:51:08.824 -> Load_cell output val: 806.84
-17:51:08.878 -> Load_cell output val: 815.89
-17:51:08.978 -> Load_cell output val: 780.25
-17:51:09.078 -> Load_cell output val: 776.21
-17:51:09.178 -> Load_cell output val: 809.67
-17:51:09.278 -> Load_cell output val: 818.31
-17:51:09.325 -> Load_cell output val: 791.46
-17:51:09.425 -> Load_cell output val: 780.89
-17:51:09.525 -> Load_cell output val: 810.06
-17:51:09.579 -> Load_cell output val: 812.17
-17:51:09.679 -> Load_cell output val: 777.76
-17:51:09.779 -> Load_cell output val: 777.48
-17:51:09.880 -> Load_cell output val: 807.71
-17:51:09.926 -> Load_cell output val: 806.42
-17:51:10.027 -> Load_cell output val: 776.97
-17:51:10.127 -> Load_cell output val: 780.87
-17:51:10.180 -> Load_cell output val: 813.98
-17:51:10.327 -> Load_cell output val: 808.03
-17:51:10.381 -> Load_cell output val: 776.89
-17:51:10.481 -> Load_cell output val: 787.03
-17:51:10.581 -> Load_cell output val: 814.93
-17:51:10.628 -> Load_cell output val: 801.10
-17:51:10.728 -> Load_cell output val: 775.40
-17:51:10.829 -> Load_cell output val: 788.23
-17:51:10.882 -> Load_cell output val: 807.52
-17:51:10.982 -> Load_cell output val: 790.00
-17:51:11.066 -> Load_cell output val: 769.33
-17:51:11.160 -> Load_cell output val: 789.86
-17:51:11.245 -> Load_cell output val: 812.85
-17:51:11.329 -> Load_cell output val: 790.22
-17:51:11.430 -> Load_cell output val: 773.67
-17:51:11.483 -> Load_cell output val: 797.88
-17:51:11.583 -> Load_cell output val: 817.59
-17:51:11.683 -> Load_cell output val: 789.40
-17:51:11.784 -> Load_cell output val: 771.24
-17:51:11.884 -> Load_cell output val: 798.14
-17:51:11.984 -> Load_cell output val: 812.67
-17:51:12.031 -> Load_cell output val: 781.06
-17:51:12.131 -> Load_cell output val: 771.61
-17:51:12.185 -> Load_cell output val: 803.18
-17:51:12.285 -> Load_cell output val: 806.06
-17:51:12.386 -> Load_cell output val: 774.62
-17:51:12.486 -> Load_cell output val: 778.48
-17:51:12.533 -> Load_cell output val: 811.37
-17:51:12.633 -> Load_cell output val: 804.60
-17:51:12.733 -> Load_cell output val: 777.70
-17:51:12.833 -> Load_cell output val: 789.76
-17:51:12.887 -> Load_cell output val: 809.68
-17:51:12.987 -> Load_cell output val: 794.40
-17:51:13.087 -> Load_cell output val: 772.84
-17:51:13.187 -> Load_cell output val: 782.94
-17:51:13.234 -> Load_cell output val: 803.79
-17:51:13.334 -> Load_cell output val: 787.39
-17:51:13.434 -> Load_cell output val: 776.74
-17:51:13.535 -> Load_cell output val: 793.90
-17:51:13.588 -> Load_cell output val: 805.06
-17:51:13.688 -> Load_cell output val: 788.14
-17:51:13.789 -> Load_cell output val: 774.92
-17:51:13.889 -> Load_cell output val: 799.39
-17:51:13.936 -> Load_cell output val: 808.83
-17:51:14.036 -> Load_cell output val: 786.41
-17:51:14.136 -> Load_cell output val: 791.12
-17:51:14.236 -> Load_cell output val: 805.22
-17:51:14.290 -> Load_cell output val: 801.69
-17:51:14.390 -> Load_cell output val: 774.66
-17:51:14.485 -> Load_cell output val: 776.44
-17:51:14.573 -> Load_cell output val: 811.81
-17:51:14.622 -> Load_cell output val: 801.83
-17:51:14.753 -> Load_cell output val: 778.32
-17:51:14.791 -> Load_cell output val: 798.97
-17:51:14.891 -> Load_cell output val: 818.29
-17:51:14.992 -> Load_cell output val: 797.92
-17:51:15.092 -> Load_cell output val: 770.68
-17:51:15.192 -> Load_cell output val: 798.20
-17:51:15.239 -> Load_cell output val: 820.95
-17:51:15.339 -> Load_cell output val: 797.78
-17:51:15.408 -> Load_cell output val: 783.49
-17:51:15.539 -> Load_cell output val: 807.70
-17:51:15.593 -> Load_cell output val: 808.35
-17:51:15.709 -> Load_cell output val: 773.94
-17:51:15.755 -> Load_cell output val: 781.55
-17:51:15.893 -> Load_cell output val: 809.15
-17:51:15.940 -> Load_cell output val: 806.78
-17:51:16.041 -> Load_cell output val: 797.22
-17:51:16.141 -> Load_cell output val: 799.24
-17:51:16.210 -> Load_cell output val: 817.11
-17:51:16.295 -> Load_cell output val: 807.51
-17:51:16.395 -> Load_cell output val: 786.60
-17:51:16.495 -> Load_cell output val: 802.18
-17:51:16.542 -> Load_cell output val: 819.43
-17:51:16.642 -> Load_cell output val: 806.27
-17:51:16.758 -> Load_cell output val: 792.59
-17:51:16.843 -> Load_cell output val: 804.41
-17:51:16.896 -> Load_cell output val: 812.94
-17:51:16.996 -> Load_cell output val: 793.98
-17:51:17.097 -> Load_cell output val: 789.92
-17:51:17.177 -> Load_cell output val: 813.83
-17:51:17.259 -> Load_cell output val: 808.90
-17:51:17.344 -> Load_cell output val: 791.51
-17:51:17.444 -> Load_cell output val: 792.37
-17:51:17.498 -> Load_cell output val: 804.05
-17:51:17.598 -> Load_cell output val: 790.31
-17:51:17.698 -> Load_cell output val: 778.53
-17:51:17.798 -> Load_cell output val: 790.91
-17:51:17.845 -> Load_cell output val: 800.12
-17:51:17.946 -> Load_cell output val: 785.79
-17:51:18.046 -> Load_cell output val: 778.78
-17:51:18.146 -> Load_cell output val: 790.17
-17:51:18.246 -> Load_cell output val: 791.42
-17:51:18.300 -> Load_cell output val: 778.52
-17:51:18.400 -> Load_cell output val: 778.06
-17:51:18.481 -> Load_cell output val: 789.94
-17:51:18.563 -> Load_cell output val: 787.69
-17:51:18.647 -> Load_cell output val: 779.75
-17:51:18.716 -> Load_cell output val: 784.84
-17:51:18.848 -> Load_cell output val: 792.07
-17:51:18.901 -> Load_cell output val: 786.20
-17:51:19.001 -> Load_cell output val: 784.81
-17:51:19.102 -> Load_cell output val: 789.99
-17:51:19.202 -> Load_cell output val: 789.99
-17:51:19.302 -> Load_cell output val: 777.06
-17:51:19.349 -> Load_cell output val: 777.06
-17:51:19.449 -> Load_cell output val: 787.47
-17:51:19.503 -> Load_cell output val: 783.65
-17:51:19.603 -> Load_cell output val: 779.59
-17:51:19.683 -> Load_cell output val: 787.26
-17:51:19.766 -> Load_cell output val: 793.28
-17:51:19.904 -> Load_cell output val: 785.21
-17:51:19.951 -> Load_cell output val: 783.71
-17:51:20.051 -> Load_cell output val: 788.72
-17:51:20.151 -> Load_cell output val: 787.43
-17:51:20.205 -> Load_cell output val: 777.54
-17:51:20.305 -> Load_cell output val: 777.88
-17:51:20.405 -> Load_cell output val: 784.62
-17:51:20.505 -> Load_cell output val: 778.62
-17:51:20.552 -> Load_cell output val: 773.69
-17:51:20.652 -> Load_cell output val: 784.52
-17:51:20.752 -> Load_cell output val: 793.14
-17:51:20.853 -> Load_cell output val: 783.33
-17:51:20.906 -> Load_cell output val: 781.27
-17:51:21.006 -> Load_cell output val: 791.13
-17:51:21.107 -> Load_cell output val: 792.79
-17:51:21.154 -> Load_cell output val: 780.15
-17:51:21.254 -> Load_cell output val: 780.49
-17:51:21.354 -> Load_cell output val: 787.21
-17:51:21.454 -> Load_cell output val: 786.44
-17:51:21.508 -> Load_cell output val: 775.46
-17:51:21.608 -> Load_cell output val: 782.17
-17:51:21.689 -> Load_cell output val: 793.38
-17:51:21.771 -> Load_cell output val: 786.49
-17:51:21.856 -> Load_cell output val: 784.82
-17:51:21.956 -> Load_cell output val: 797.39
-17:51:22.056 -> Load_cell output val: 799.47
-17:51:22.156 -> Load_cell output val: 784.85
-17:51:22.210 -> Load_cell output val: 778.93
-17:51:22.310 -> Load_cell output val: 795.93
-17:51:22.410 -> Load_cell output val: 794.44
-17:51:22.491 -> Load_cell output val: 783.27
-17:51:22.573 -> Load_cell output val: 790.73
-17:51:22.658 -> Load_cell output val: 796.49
-17:51:22.727 -> Load_cell output val: 790.81
-17:51:22.811 -> Load_cell output val: 775.39
-17:51:22.911 -> Load_cell output val: 796.48
-17:51:23.012 -> Load_cell output val: 807.59
-17:51:23.112 -> Load_cell output val: 790.30
-17:51:23.212 -> Load_cell output val: 796.32
-17:51:23.259 -> Load_cell output val: 809.11
-17:51:23.359 -> Load_cell output val: 804.96
-17:51:23.459 -> Load_cell output val: 781.49
-17:51:23.513 -> Load_cell output val: 781.31
-17:51:23.613 -> Load_cell output val: 808.70
-17:51:23.693 -> Load_cell output val: 798.39
-17:51:23.776 -> Load_cell output val: 790.42
-17:51:23.860 -> Load_cell output val: 807.32
-17:51:23.960 -> Load_cell output val: 811.77
-17:51:24.061 -> Load_cell output val: 794.58
-17:51:24.114 -> Load_cell output val: 773.59
-17:51:24.230 -> Load_cell output val: 805.89
-17:51:24.315 -> Load_cell output val: 812.94
-17:51:24.416 -> Load_cell output val: 796.34
-17:51:24.496 -> Load_cell output val: 799.18
-17:51:24.578 -> Load_cell output val: 811.03
-17:51:24.663 -> Load_cell output val: 807.18
-17:51:24.762 -> Load_cell output val: 777.25
-17:51:24.816 -> Load_cell output val: 784.25
-17:51:24.916 -> Load_cell output val: 808.22
-17:51:25.016 -> Load_cell output val: 799.49
-17:51:25.116 -> Load_cell output val: 789.17
-17:51:25.217 -> Load_cell output val: 798.74
-17:51:25.264 -> Load_cell output val: 809.78
-17:51:25.364 -> Load_cell output val: 789.78
-17:51:25.464 -> Load_cell output val: 773.20
-17:51:25.517 -> Load_cell output val: 804.60
-17:51:25.617 -> Load_cell output val: 811.59
-17:51:25.699 -> Load_cell output val: 798.65
-17:51:25.779 -> Load_cell output val: 794.21
-17:51:25.864 -> Load_cell output val: 803.11
-17:51:25.964 -> Load_cell output val: 800.94
-17:51:26.065 -> Load_cell output val: 778.63
-17:51:26.118 -> Load_cell output val: 781.36
-17:51:26.218 -> Load_cell output val: 802.80
-17:51:26.318 -> Load_cell output val: 794.76
-17:51:26.419 -> Load_cell output val: 791.45
-17:51:26.519 -> Load_cell output val: 801.07
-17:51:26.566 -> Load_cell output val: 804.03
-17:51:26.666 -> Load_cell output val: 792.57
-17:51:26.766 -> Load_cell output val: 786.72
-17:51:26.820 -> Load_cell output val: 805.66
-17:51:26.920 -> Load_cell output val: 807.59
-17:51:27.020 -> Load_cell output val: 795.78
-17:51:27.120 -> Load_cell output val: 795.78
-17:51:27.168 -> Load_cell output val: 797.04
-17:51:27.283 -> Load_cell output val: 794.04
-17:51:27.367 -> Load_cell output val: 782.09
-17:51:27.421 -> Load_cell output val: 793.96
-17:51:27.521 -> Load_cell output val: 803.64
-17:51:27.621 -> Load_cell output val: 796.42
-17:51:27.703 -> Load_cell output val: 801.74
-17:51:27.784 -> Load_cell output val: 800.86
-17:51:27.869 -> Load_cell output val: 798.47
-17:51:27.969 -> Load_cell output val: 793.94
-17:51:28.070 -> Load_cell output val: 791.81
-17:51:28.170 -> Load_cell output val: 800.75
-17:51:28.204 -> Load_cell output val: 793.72
-17:51:28.324 -> Load_cell output val: 792.03
-17:51:28.424 -> Load_cell output val: 794.59
-17:51:28.505 -> Load_cell output val: 795.50
-17:51:28.587 -> Load_cell output val: 792.76
-17:51:28.674 -> Load_cell output val: 792.76
-17:51:28.772 -> Load_cell output val: 804.61
-17:51:28.825 -> Load_cell output val: 804.29
-17:51:28.925 -> Load_cell output val: 799.57
-17:51:29.026 -> Load_cell output val: 800.14
-17:51:29.126 -> Load_cell output val: 795.82
-17:51:29.174 -> Load_cell output val: 792.82
-17:51:29.273 -> Load_cell output val: 779.21
-17:51:29.373 -> Load_cell output val: 788.70
-17:51:29.473 -> Load_cell output val: 797.42
-17:51:29.527 -> Load_cell output val: 784.62
-17:51:29.627 -> Load_cell output val: 785.05
-17:51:29.727 -> Load_cell output val: 798.81
-17:51:29.774 -> Load_cell output val: 798.81
-17:51:29.875 -> Load_cell output val: 783.52
-17:51:29.975 -> Load_cell output val: 783.61
-17:51:30.075 -> Load_cell output val: 797.63
-17:51:30.129 -> Load_cell output val: 790.20
-17:51:30.229 -> Load_cell output val: 779.52
-17:51:30.329 -> Load_cell output val: 785.40
-17:51:30.429 -> Load_cell output val: 788.33
-17:51:30.476 -> Load_cell output val: 780.62
-17:51:30.576 -> Load_cell output val: 775.29
-17:51:30.679 -> Load_cell output val: 796.96
-17:51:30.777 -> Load_cell output val: 796.60
-17:51:30.830 -> Load_cell output val: 795.62
-17:51:30.930 -> Load_cell output val: 799.38
-17:51:31.031 -> Load_cell output val: 800.08
-17:51:31.131 -> Load_cell output val: 800.33
-17:51:31.179 -> Load_cell output val: 780.17
-17:51:31.278 -> Load_cell output val: 785.10
-17:51:31.378 -> Load_cell output val: 797.34
-17:51:31.478 -> Load_cell output val: 788.22
-17:51:31.532 -> Load_cell output val: 791.34
-17:51:31.632 -> Load_cell output val: 801.73
-17:51:31.732 -> Load_cell output val: 801.73
-17:51:31.833 -> Load_cell output val: 785.14
-17:51:31.879 -> Load_cell output val: 785.90
-17:51:31.980 -> Load_cell output val: 811.19
-17:51:32.080 -> Load_cell output val: 807.09
-17:51:32.182 -> Load_cell output val: 796.46
-17:51:32.234 -> Load_cell output val: 799.15
-17:51:32.334 -> Load_cell output val: 802.61
-17:51:32.434 -> Load_cell output val: 791.73
-17:51:32.534 -> Load_cell output val: 775.70
-17:51:32.581 -> Load_cell output val: 796.00
-17:51:32.684 -> Load_cell output val: 796.58
-17:51:32.782 -> Load_cell output val: 795.47
-17:51:32.835 -> Load_cell output val: 798.22
-17:51:32.935 -> Load_cell output val: 812.52
-17:51:33.035 -> Load_cell output val: 810.43
-17:51:33.082 -> Load_cell output val: 787.15
-17:51:33.186 -> Load_cell output val: 785.96
-17:51:33.282 -> Load_cell output val: 806.12
-17:51:33.383 -> Load_cell output val: 800.27
-17:51:33.436 -> Load_cell output val: 792.64
-17:51:33.537 -> Load_cell output val: 798.07
-17:51:33.637 -> Load_cell output val: 799.35
-17:51:33.737 -> Load_cell output val: 785.36
-17:51:33.784 -> Load_cell output val: 776.87
-17:51:33.884 -> Load_cell output val: 806.82
-17:51:33.984 -> Load_cell output val: 818.32
-17:51:34.085 -> Load_cell output val: 804.66
-17:51:34.138 -> Load_cell output val: 810.92
-17:51:34.238 -> Load_cell output val: 820.08
-17:51:34.338 -> Load_cell output val: 813.63
-17:51:34.439 -> Load_cell output val: 790.60
-17:51:34.485 -> Load_cell output val: 786.21
-17:51:34.586 -> Load_cell output val: 813.08
-17:51:34.688 -> Load_cell output val: 809.97
-17:51:34.786 -> Load_cell output val: 796.47
-17:51:34.840 -> Load_cell output val: 811.06
-17:51:34.940 -> Load_cell output val: 826.59
-17:51:35.040 -> Load_cell output val: 807.14
-17:51:35.087 -> Load_cell output val: 778.10
-17:51:35.188 -> Load_cell output val: 803.87
-17:51:35.287 -> Load_cell output val: 829.98
-17:51:35.388 -> Load_cell output val: 809.21
-17:51:35.488 -> Load_cell output val: 788.17
-17:51:35.541 -> Load_cell output val: 812.09
-17:51:35.642 -> Load_cell output val: 817.09
-17:51:35.742 -> Load_cell output val: 783.42
-17:51:35.788 -> Load_cell output val: 778.16
-17:51:35.889 -> Load_cell output val: 811.19
-17:51:35.989 -> Load_cell output val: 823.34
-17:51:36.042 -> Load_cell output val: 798.05
-17:51:36.143 -> Load_cell output val: 788.16
-17:51:36.243 -> Load_cell output val: 821.86
-17:51:36.343 -> Load_cell output val: 821.12
-17:51:36.424 -> Load_cell output val: 781.02
-17:51:36.506 -> Load_cell output val: 775.62
-17:51:36.590 -> Load_cell output val: 810.94
-17:51:36.677 -> Load_cell output val: 822.70
-17:51:36.759 -> Load_cell output val: 787.36
-17:51:36.844 -> Load_cell output val: 778.53
-17:51:36.944 -> Load_cell output val: 821.22
-17:51:37.045 -> Load_cell output val: 816.29
-17:51:37.145 -> Load_cell output val: 781.21
-17:51:37.193 -> Load_cell output val: 785.18
-17:51:37.292 -> Load_cell output val: 819.71
-17:51:37.392 -> Load_cell output val: 823.20
-17:51:37.446 -> Load_cell output val: 786.89
-17:51:37.546 -> Load_cell output val: 792.89
-17:51:37.646 -> Load_cell output val: 824.23
-17:51:37.746 -> Load_cell output val: 811.65
-17:51:37.793 -> Load_cell output val: 783.35
-17:51:37.893 -> Load_cell output val: 788.09
-17:51:37.994 -> Load_cell output val: 816.90
-17:51:38.094 -> Load_cell output val: 816.17
-17:51:38.147 -> Load_cell output val: 790.39
-17:51:38.228 -> Load_cell output val: 801.73
-17:51:38.348 -> Load_cell output val: 821.95
-17:51:38.448 -> Load_cell output val: 810.33
-17:51:38.495 -> Load_cell output val: 786.51
-17:51:38.595 -> Load_cell output val: 798.44
-17:51:38.682 -> Load_cell output val: 815.81
-17:51:38.764 -> Load_cell output val: 808.13
-17:51:38.849 -> Load_cell output val: 795.06
-17:51:38.949 -> Load_cell output val: 810.00
-17:51:39.049 -> Load_cell output val: 815.58
-17:51:39.096 -> Load_cell output val: 798.60
-17:51:39.183 -> Load_cell output val: 785.74
-17:51:39.266 -> Load_cell output val: 808.01
-17:51:39.397 -> Load_cell output val: 811.49
-17:51:39.451 -> Load_cell output val: 803.88
-17:51:39.551 -> Load_cell output val: 801.17
-17:51:39.651 -> Load_cell output val: 814.60
-17:51:39.732 -> Load_cell output val: 812.22
-17:51:39.814 -> Load_cell output val: 793.56
-17:51:39.899 -> Load_cell output val: 789.24
-17:51:39.999 -> Load_cell output val: 808.87
-17:51:40.053 -> Load_cell output val: 807.15
-17:51:40.153 -> Load_cell output val: 795.29
-17:51:40.253 -> Load_cell output val: 804.46
-17:51:40.353 -> Load_cell output val: 819.02
-17:51:40.434 -> Load_cell output val: 807.62
-17:51:40.516 -> Load_cell output val: 786.68
-17:51:40.601 -> Load_cell output val: 802.58
-17:51:40.702 -> Load_cell output val: 814.34
-17:51:40.754 -> Load_cell output val: 804.31
-17:51:40.854 -> Load_cell output val: 795.80
-17:51:40.955 -> Load_cell output val: 815.42
-17:51:41.055 -> Load_cell output val: 815.51
-17:51:41.102 -> Load_cell output val: 795.58
-17:51:41.189 -> Load_cell output val: 785.07
-17:51:41.318 -> Load_cell output val: 813.09
-17:51:41.403 -> Load_cell output val: 816.94
-17:51:41.456 -> Load_cell output val: 803.39
-17:51:41.556 -> Load_cell output val: 803.82
-17:51:41.657 -> Load_cell output val: 823.31
-17:51:41.737 -> Load_cell output val: 816.32
-17:51:41.819 -> Load_cell output val: 794.06
-17:51:41.904 -> Load_cell output val: 790.83
-17:51:42.004 -> Load_cell output val: 814.64
-17:51:42.057 -> Load_cell output val: 811.82
-17:51:42.158 -> Load_cell output val: 793.36
-17:51:42.258 -> Load_cell output val: 804.49
-17:51:42.358 -> Load_cell output val: 824.93
-17:51:42.405 -> Load_cell output val: 809.67
-17:51:42.521 -> Load_cell output val: 786.01
-17:51:42.605 -> Load_cell output val: 805.50
-17:51:42.707 -> Load_cell output val: 821.69
-17:51:42.759 -> Load_cell output val: 810.57
-17:51:42.859 -> Load_cell output val: 794.05
-17:51:42.959 -> Load_cell output val: 811.28
-17:51:43.060 -> Load_cell output val: 817.34
-17:51:43.107 -> Load_cell output val: 799.24
-17:51:43.193 -> Load_cell output val: 783.22
-17:51:43.276 -> Load_cell output val: 810.91
-17:51:43.407 -> Load_cell output val: 819.70
-17:51:43.460 -> Load_cell output val: 807.54
-17:51:43.561 -> Load_cell output val: 795.87
-17:51:43.662 -> Load_cell output val: 820.43
-17:51:43.761 -> Load_cell output val: 832.18
-17:51:43.808 -> Load_cell output val: 814.06
-17:51:43.908 -> Load_cell output val: 801.65
-17:51:44.009 -> Load_cell output val: 815.60
-17:51:44.109 -> Load_cell output val: 827.62
-17:51:44.162 -> Load_cell output val: 817.81
-17:51:44.263 -> Load_cell output val: 809.05
-17:51:44.363 -> Load_cell output val: 821.77
-17:51:44.410 -> Load_cell output val: 826.25
-17:51:44.509 -> Load_cell output val: 812.67
-17:51:44.609 -> Load_cell output val: 818.09
-17:51:44.711 -> Load_cell output val: 825.75
-17:51:44.763 -> Load_cell output val: 833.70
-17:51:44.863 -> Load_cell output val: 821.31
-17:51:44.964 -> Load_cell output val: 819.14
-17:51:45.011 -> Load_cell output val: 825.28
-17:51:45.111 -> Load_cell output val: 826.21
-17:51:45.213 -> Load_cell output val: 822.52
-17:51:45.311 -> Load_cell output val: 819.88
-17:51:45.412 -> Load_cell output val: 822.99
-17:51:45.512 -> Load_cell output val: 826.28
-17:51:45.565 -> Load_cell output val: 825.74
-17:51:45.666 -> Load_cell output val: 822.57
-17:51:45.747 -> Load_cell output val: 822.64
-17:51:45.828 -> Load_cell output val: 825.70
-17:51:45.913 -> Load_cell output val: 825.67
-17:51:46.013 -> Load_cell output val: 823.25
-17:51:46.067 -> Load_cell output val: 822.95
-17:51:46.167 -> Load_cell output val: 823.90
-17:51:46.248 -> Load_cell output val: 824.49
-17:51:46.329 -> Load_cell output val: 823.35
-17:51:46.414 -> Load_cell output val: 822.67
-17:51:46.530 -> Load_cell output val: 823.22
-17:51:46.615 -> Load_cell output val: 823.83
-17:51:46.717 -> Load_cell output val: 823.59
-17:51:46.768 -> Load_cell output val: 823.11
-17:51:46.868 -> Load_cell output val: 823.49
-17:51:46.968 -> Load_cell output val: 823.92
-17:51:47.068 -> Load_cell output val: 823.47
-17:51:47.115 -> Load_cell output val: 823.06
+min:s.ms grams
+0:37.804 822.81
+0:37.905 822.80
+0:38.005 822.80
+0:38.052 822.80
+0:38.152 822.81
+0:38.252 822.82
+0:38.306 822.83
+0:38.406 822.84
+0:38.538 822.84
+0:38.584 822.83
+0:38.669 822.82
+0:38.754 822.80
+0:38.854 822.79
+0:38.954 822.79
+0:39.008 822.80
+0:39.108 822.82
+0:39.208 822.81
+0:39.308 822.83
+0:39.355 822.82
+0:39.455 822.83
+0:39.556 822.86
+0:39.657 822.84
+0:39.725 822.81
+0:39.810 822.82
+0:39.910 822.81
+0:40.010 822.80
+0:40.057 822.82
+0:40.157 822.85
+0:40.242 822.84
+0:40.327 822.83
+0:40.411 822.84
+0:40.493 822.87
+0:40.574 822.88
+0:40.692 822.88
+0:40.774 822.91
+0:40.859 822.91
+0:40.959 822.94
+0:41.013 822.95
+0:41.113 822.92
+0:41.193 822.92
+0:41.276 822.94
+0:41.360 822.93
+0:41.460 822.92
+0:41.561 822.90
+0:41.614 822.88
+0:41.730 822.88
+0:41.814 822.89
+0:41.914 822.90
+0:41.961 822.90
+0:42.062 822.90
+0:42.162 822.90
+0:42.262 822.87
+0:42.315 822.85
+0:42.416 822.82
+0:42.497 822.82
+0:42.578 822.81
+0:42.663 822.81
+0:42.778 822.82
+0:42.863 822.83
+0:42.963 822.82
+0:43.017 822.83
+0:43.117 822.82
+0:43.217 822.83
+0:43.317 822.83
+0:43.364 822.80
+0:43.465 822.82
+0:43.565 822.85
+0:43.618 822.83
+0:43.700 822.83
+0:43.819 822.82
+0:43.919 822.82
+0:44.019 822.85
+0:44.066 822.81
+0:44.167 822.81
+0:44.236 822.85
+0:44.320 822.83
+0:44.421 822.74
+0:44.501 820.97
+0:44.583 817.93
+0:44.668 818.15
+0:44.768 820.48
+0:44.868 828.34
+0:44.968 825.50
+0:45.022 822.37
+0:45.122 815.26
+0:45.203 818.22
+0:45.285 823.17
+0:45.370 831.15
+0:45.470 829.91
+0:45.570 818.06
+0:45.623 810.50
+0:45.723 817.68
+0:45.823 825.16
+0:45.924 829.28
+0:46.024 826.46
+0:46.071 818.16
+0:46.174 818.10
+0:46.271 822.36
+0:46.324 822.60
+0:46.425 818.24
+0:46.505 813.59
+0:46.588 814.70
+0:46.674 821.18
+0:46.772 822.95
+0:46.872 826.52
+0:46.973 821.31
+0:47.026 812.31
+0:47.126 813.19
+0:47.226 822.88
+0:47.327 821.61
+0:47.374 821.33
+0:47.474 818.87
+0:47.574 813.36
+0:47.677 814.14
+0:47.728 821.34
+0:47.828 822.28
+0:47.928 819.88
+0:47.975 814.57
+0:48.075 811.35
+0:48.177 815.21
+0:48.276 820.24
+0:48.329 823.10
+0:48.429 822.65
+0:48.530 815.98
+0:48.630 815.17
+0:48.679 820.65
+0:48.777 823.43
+0:48.877 824.45
+0:48.977 823.41
+0:49.031 816.87
+0:49.131 815.24
+0:49.231 821.98
+0:49.332 824.23
+0:49.379 823.66
+0:49.479 822.83
+0:49.579 813.81
+0:49.633 812.12
+0:49.733 826.57
+0:49.833 829.80
+0:49.934 814.60
+0:49.981 791.98
+0:50.081 797.55
+0:50.183 822.28
+0:50.281 824.81
+0:50.335 800.94
+0:50.435 792.49
+0:50.535 799.89
+0:50.635 805.28
+0:50.684 798.26
+0:50.783 796.54
+0:50.883 804.05
+0:50.983 801.42
+0:51.036 778.40
+0:51.137 779.57
+0:51.237 808.57
+0:51.284 807.15
+0:51.384 777.02
+0:51.484 772.14
+0:51.584 801.77
+0:51.638 810.97
+0:51.738 785.12
+0:51.838 771.03
+0:51.938 799.64
+0:51.985 813.37
+0:52.085 789.04
+0:52.188 771.56
+0:52.286 793.84
+0:52.339 812.16
+0:52.439 793.92
+0:52.540 771.87
+0:52.640 790.37
+0:52.673 813.46
+0:52.803 798.10
+0:52.887 772.38
+0:52.988 785.38
+0:53.041 811.81
+0:53.141 804.59
+0:53.242 774.94
+0:53.342 779.01
+0:53.389 809.98
+0:53.489 806.21
+0:53.589 776.14
+0:53.643 776.57
+0:53.743 805.43
+0:53.843 810.63
+0:53.890 783.09
+0:53.990 773.68
+0:54.090 804.12
+0:54.192 814.83
+0:54.291 787.63
+0:54.344 773.88
+0:54.460 798.64
+0:54.507 815.38
+0:54.645 793.66
+0:54.726 771.55
+0:54.808 794.32
+0:54.892 817.48
+0:54.946 796.30
+0:55.046 772.46
+0:55.146 791.95
+0:55.247 817.01
+0:55.294 803.98
+0:55.394 775.18
+0:55.494 787.24
+0:55.594 817.05
+0:55.648 804.30
+0:55.729 773.66
+0:55.848 783.57
+0:55.948 813.97
+0:55.995 809.81
+0:56.095 776.03
+0:56.197 779.01
+0:56.296 815.14
+0:56.349 811.27
+0:56.450 775.11
+0:56.550 777.14
+0:56.650 809.91
+0:56.731 812.25
+0:56.813 777.43
+0:56.897 773.34
+0:56.951 810.04
+0:57.051 813.26
+0:57.151 775.36
+0:57.200 771.66
+0:57.298 806.52
+0:57.399 814.54
+0:57.499 780.45
+0:57.552 770.31
+0:57.653 807.37
+0:57.734 814.67
+0:57.816 778.21
+0:57.954 772.04
+0:58.001 804.74
+0:58.101 817.55
+0:58.202 785.43
+0:58.254 773.59
+0:58.355 811.32
+0:58.435 819.26
+0:58.518 781.02
+0:58.602 771.69
+0:58.690 803.26
+0:58.818 818.78
+0:58.903 785.04
+0:58.956 769.33
+0:59.057 807.21
+0:59.157 820.57
+0:59.236 784.24
+0:59.319 772.49
+0:59.404 804.65
+0:59.504 821.27
+0:59.557 790.95
+0:59.660 772.64
+0:59.738 808.41
+0:59.820 820.55
+0:59.959 782.89
+1:00.005 771.79
+1:00.106 802.82
+1:00.195 821.39
+1:00.290 791.80
+1:00.375 769.57
+1:00.424 805.42
+1:00.560 823.82
+1:00.607 787.91
+1:00.695 772.64
+1:00.823 801.09
+1:00.907 822.61
+1:00.961 794.40
+1:01.061 772.49
+1:01.162 804.03
+1:01.210 822.73
+1:01.308 788.71
+1:01.409 773.72
+1:01.509 801.46
+1:01.563 819.64
+1:01.666 789.87
+1:01.744 768.22
+1:01.863 800.82
+1:01.964 820.13
+1:02.010 788.48
+1:02.111 771.95
+1:02.200 803.24
+1:02.280 822.49
+1:02.364 799.87
+1:02.445 777.96
+1:02.527 803.73
+1:02.612 821.28
+1:02.699 790.37
+1:02.827 772.85
+1:02.912 799.52
+1:02.965 818.79
+1:03.066 792.03
+1:03.166 771.96
+1:03.248 803.08
+1:03.328 823.06
+1:03.413 792.05
+1:03.513 774.79
+1:03.567 803.16
+1:03.670 821.01
+1:03.748 793.14
+1:03.829 772.94
+1:03.914 798.24
+1:04.014 815.08
+1:04.115 786.81
+1:04.202 770.45
+1:04.284 796.51
+1:04.368 817.06
+1:04.468 792.70
+1:04.568 771.98
+1:04.615 802.26
+1:04.717 823.03
+1:04.815 793.04
+1:04.916 772.38
+1:04.969 796.95
+1:05.069 819.51
+1:05.170 794.14
+1:05.250 770.79
+1:05.332 797.47
+1:05.417 819.93
+1:05.517 792.07
+1:05.618 772.05
+1:05.674 795.60
+1:05.752 818.53
+1:05.834 797.56
+1:05.918 770.72
+1:06.019 797.39
+1:06.119 821.93
+1:06.172 793.57
+1:06.288 769.72
+1:06.372 789.16
+1:06.473 815.31
+1:06.573 797.00
+1:06.620 768.86
+1:06.706 794.02
+1:06.789 821.83
+1:06.874 794.22
+1:06.974 769.86
+1:07.074 795.32
+1:07.175 817.26
+1:07.223 793.65
+1:07.375 771.68
+1:07.422 799.63
+1:07.522 817.26
+1:07.575 788.98
+1:07.677 768.38
+1:07.775 794.51
+1:07.876 817.48
+1:07.976 798.24
+1:08.023 773.84
+1:08.123 800.75
+1:08.210 820.59
+1:08.292 791.66
+1:08.377 769.94
+1:08.477 799.22
+1:08.524 817.29
+1:08.624 789.36
+1:08.724 773.29
+1:08.824 806.84
+1:08.878 815.89
+1:08.978 780.25
+1:09.078 776.21
+1:09.178 809.67
+1:09.278 818.31
+1:09.325 791.46
+1:09.425 780.89
+1:09.525 810.06
+1:09.579 812.17
+1:09.679 777.76
+1:09.779 777.48
+1:09.880 807.71
+1:09.926 806.42
+1:10.027 776.97
+1:10.127 780.87
+1:10.180 813.98
+1:10.327 808.03
+1:10.381 776.89
+1:10.481 787.03
+1:10.581 814.93
+1:10.628 801.10
+1:10.728 775.40
+1:10.829 788.23
+1:10.882 807.52
+1:10.982 790.00
+1:11.066 769.33
+1:11.160 789.86
+1:11.245 812.85
+1:11.329 790.22
+1:11.430 773.67
+1:11.483 797.88
+1:11.583 817.59
+1:11.683 789.40
+1:11.784 771.24
+1:11.884 798.14
+1:11.984 812.67
+1:12.031 781.06
+1:12.131 771.61
+1:12.185 803.18
+1:12.285 806.06
+1:12.386 774.62
+1:12.486 778.48
+1:12.533 811.37
+1:12.633 804.60
+1:12.733 777.70
+1:12.833 789.76
+1:12.887 809.68
+1:12.987 794.40
+1:13.087 772.84
+1:13.187 782.94
+1:13.234 803.79
+1:13.334 787.39
+1:13.434 776.74
+1:13.535 793.90
+1:13.588 805.06
+1:13.688 788.14
+1:13.789 774.92
+1:13.889 799.39
+1:13.936 808.83
+1:14.036 786.41
+1:14.136 791.12
+1:14.236 805.22
+1:14.290 801.69
+1:14.390 774.66
+1:14.485 776.44
+1:14.573 811.81
+1:14.622 801.83
+1:14.753 778.32
+1:14.791 798.97
+1:14.891 818.29
+1:14.992 797.92
+1:15.092 770.68
+1:15.192 798.20
+1:15.239 820.95
+1:15.339 797.78
+1:15.408 783.49
+1:15.539 807.70
+1:15.593 808.35
+1:15.709 773.94
+1:15.755 781.55
+1:15.893 809.15
+1:15.940 806.78
+1:16.041 797.22
+1:16.141 799.24
+1:16.210 817.11
+1:16.295 807.51
+1:16.395 786.60
+1:16.495 802.18
+1:16.542 819.43
+1:16.642 806.27
+1:16.758 792.59
+1:16.843 804.41
+1:16.896 812.94
+1:16.996 793.98
+1:17.097 789.92
+1:17.177 813.83
+1:17.259 808.90
+1:17.344 791.51
+1:17.444 792.37
+1:17.498 804.05
+1:17.598 790.31
+1:17.698 778.53
+1:17.798 790.91
+1:17.845 800.12
+1:17.946 785.79
+1:18.046 778.78
+1:18.146 790.17
+1:18.246 791.42
+1:18.300 778.52
+1:18.400 778.06
+1:18.481 789.94
+1:18.563 787.69
+1:18.647 779.75
+1:18.716 784.84
+1:18.848 792.07
+1:18.901 786.20
+1:19.001 784.81
+1:19.102 789.99
+1:19.202 789.99
+1:19.302 777.06
+1:19.349 777.06
+1:19.449 787.47
+1:19.503 783.65
+1:19.603 779.59
+1:19.683 787.26
+1:19.766 793.28
+1:19.904 785.21
+1:19.951 783.71
+1:20.051 788.72
+1:20.151 787.43
+1:20.205 777.54
+1:20.305 777.88
+1:20.405 784.62
+1:20.505 778.62
+1:20.552 773.69
+1:20.652 784.52
+1:20.752 793.14
+1:20.853 783.33
+1:20.906 781.27
+1:21.006 791.13
+1:21.107 792.79
+1:21.154 780.15
+1:21.254 780.49
+1:21.354 787.21
+1:21.454 786.44
+1:21.508 775.46
+1:21.608 782.17
+1:21.689 793.38
+1:21.771 786.49
+1:21.856 784.82
+1:21.956 797.39
+1:22.056 799.47
+1:22.156 784.85
+1:22.210 778.93
+1:22.310 795.93
+1:22.410 794.44
+1:22.491 783.27
+1:22.573 790.73
+1:22.658 796.49
+1:22.727 790.81
+1:22.811 775.39
+1:22.911 796.48
+1:23.012 807.59
+1:23.112 790.30
+1:23.212 796.32
+1:23.259 809.11
+1:23.359 804.96
+1:23.459 781.49
+1:23.513 781.31
+1:23.613 808.70
+1:23.693 798.39
+1:23.776 790.42
+1:23.860 807.32
+1:23.960 811.77
+1:24.061 794.58
+1:24.114 773.59
+1:24.230 805.89
+1:24.315 812.94
+1:24.416 796.34
+1:24.496 799.18
+1:24.578 811.03
+1:24.663 807.18
+1:24.762 777.25
+1:24.816 784.25
+1:24.916 808.22
+1:25.016 799.49
+1:25.116 789.17
+1:25.217 798.74
+1:25.264 809.78
+1:25.364 789.78
+1:25.464 773.20
+1:25.517 804.60
+1:25.617 811.59
+1:25.699 798.65
+1:25.779 794.21
+1:25.864 803.11
+1:25.964 800.94
+1:26.065 778.63
+1:26.118 781.36
+1:26.218 802.80
+1:26.318 794.76
+1:26.419 791.45
+1:26.519 801.07
+1:26.566 804.03
+1:26.666 792.57
+1:26.766 786.72
+1:26.820 805.66
+1:26.920 807.59
+1:27.020 795.78
+1:27.120 795.78
+1:27.168 797.04
+1:27.283 794.04
+1:27.367 782.09
+1:27.421 793.96
+1:27.521 803.64
+1:27.621 796.42
+1:27.703 801.74
+1:27.784 800.86
+1:27.869 798.47
+1:27.969 793.94
+1:28.070 791.81
+1:28.170 800.75
+1:28.204 793.72
+1:28.324 792.03
+1:28.424 794.59
+1:28.505 795.50
+1:28.587 792.76
+1:28.674 792.76
+1:28.772 804.61
+1:28.825 804.29
+1:28.925 799.57
+1:29.026 800.14
+1:29.126 795.82
+1:29.174 792.82
+1:29.273 779.21
+1:29.373 788.70
+1:29.473 797.42
+1:29.527 784.62
+1:29.627 785.05
+1:29.727 798.81
+1:29.774 798.81
+1:29.875 783.52
+1:29.975 783.61
+1:30.075 797.63
+1:30.129 790.20
+1:30.229 779.52
+1:30.329 785.40
+1:30.429 788.33
+1:30.476 780.62
+1:30.576 775.29
+1:30.679 796.96
+1:30.777 796.60
+1:30.830 795.62
+1:30.930 799.38
+1:31.031 800.08
+1:31.131 800.33
+1:31.179 780.17
+1:31.278 785.10
+1:31.378 797.34
+1:31.478 788.22
+1:31.532 791.34
+1:31.632 801.73
+1:31.732 801.73
+1:31.833 785.14
+1:31.879 785.90
+1:31.980 811.19
+1:32.080 807.09
+1:32.182 796.46
+1:32.234 799.15
+1:32.334 802.61
+1:32.434 791.73
+1:32.534 775.70
+1:32.581 796.00
+1:32.684 796.58
+1:32.782 795.47
+1:32.835 798.22
+1:32.935 812.52
+1:33.035 810.43
+1:33.082 787.15
+1:33.186 785.96
+1:33.282 806.12
+1:33.383 800.27
+1:33.436 792.64
+1:33.537 798.07
+1:33.637 799.35
+1:33.737 785.36
+1:33.784 776.87
+1:33.884 806.82
+1:33.984 818.32
+1:34.085 804.66
+1:34.138 810.92
+1:34.238 820.08
+1:34.338 813.63
+1:34.439 790.60
+1:34.485 786.21
+1:34.586 813.08
+1:34.688 809.97
+1:34.786 796.47
+1:34.840 811.06
+1:34.940 826.59
+1:35.040 807.14
+1:35.087 778.10
+1:35.188 803.87
+1:35.287 829.98
+1:35.388 809.21
+1:35.488 788.17
+1:35.541 812.09
+1:35.642 817.09
+1:35.742 783.42
+1:35.788 778.16
+1:35.889 811.19
+1:35.989 823.34
+1:36.042 798.05
+1:36.143 788.16
+1:36.243 821.86
+1:36.343 821.12
+1:36.424 781.02
+1:36.506 775.62
+1:36.590 810.94
+1:36.677 822.70
+1:36.759 787.36
+1:36.844 778.53
+1:36.944 821.22
+1:37.045 816.29
+1:37.145 781.21
+1:37.193 785.18
+1:37.292 819.71
+1:37.392 823.20
+1:37.446 786.89
+1:37.546 792.89
+1:37.646 824.23
+1:37.746 811.65
+1:37.793 783.35
+1:37.893 788.09
+1:37.994 816.90
+1:38.094 816.17
+1:38.147 790.39
+1:38.228 801.73
+1:38.348 821.95
+1:38.448 810.33
+1:38.495 786.51
+1:38.595 798.44
+1:38.682 815.81
+1:38.764 808.13
+1:38.849 795.06
+1:38.949 810.00
+1:39.049 815.58
+1:39.096 798.60
+1:39.183 785.74
+1:39.266 808.01
+1:39.397 811.49
+1:39.451 803.88
+1:39.551 801.17
+1:39.651 814.60
+1:39.732 812.22
+1:39.814 793.56
+1:39.899 789.24
+1:39.999 808.87
+1:40.053 807.15
+1:40.153 795.29
+1:40.253 804.46
+1:40.353 819.02
+1:40.434 807.62
+1:40.516 786.68
+1:40.601 802.58
+1:40.702 814.34
+1:40.754 804.31
+1:40.854 795.80
+1:40.955 815.42
+1:41.055 815.51
+1:41.102 795.58
+1:41.189 785.07
+1:41.318 813.09
+1:41.403 816.94
+1:41.456 803.39
+1:41.556 803.82
+1:41.657 823.31
+1:41.737 816.32
+1:41.819 794.06
+1:41.904 790.83
+1:42.004 814.64
+1:42.057 811.82
+1:42.158 793.36
+1:42.258 804.49
+1:42.358 824.93
+1:42.405 809.67
+1:42.521 786.01
+1:42.605 805.50
+1:42.707 821.69
+1:42.759 810.57
+1:42.859 794.05
+1:42.959 811.28
+1:43.060 817.34
+1:43.107 799.24
+1:43.193 783.22
+1:43.276 810.91
+1:43.407 819.70
+1:43.460 807.54
+1:43.561 795.87
+1:43.662 820.43
+1:43.761 832.18
+1:43.808 814.06
+1:43.908 801.65
+1:44.009 815.60
+1:44.109 827.62
+1:44.162 817.81
+1:44.263 809.05
+1:44.363 821.77
+1:44.410 826.25
+1:44.509 812.67
+1:44.609 818.09
+1:44.711 825.75
+1:44.763 833.70
+1:44.863 821.31
+1:44.964 819.14
+1:45.011 825.28
+1:45.111 826.21
+1:45.213 822.52
+1:45.311 819.88
+1:45.412 822.99
+1:45.512 826.28
+1:45.565 825.74
+1:45.666 822.57
+1:45.747 822.64
+1:45.828 825.70
+1:45.913 825.67
+1:46.013 823.25
+1:46.067 822.95
+1:46.167 823.90
+1:46.248 824.49
+1:46.329 823.35
+1:46.414 822.67
+1:46.530 823.22
+1:46.615 823.83
+1:46.717 823.59
+1:46.768 823.11
+1:46.868 823.49
+1:46.968 823.92
+1:47.068 823.47
+1:47.115 823.06

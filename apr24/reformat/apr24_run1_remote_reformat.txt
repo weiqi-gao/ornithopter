@@ -1,1169 +1,615 @@
-t: 414817620 ESC: 7 Hall Sensors: 770 769 		 Accel: 0.20 0.00
-t: 414895016 ESC: 6 Hall Sensors: -10486 23593 		 Accel: 0.00 0.00
-t: 414921948 ESC: 6 Hall Sensors: -13107 5243 		 Accel: 0.00 0.00
-t: 415043552 ESC: 6 Hall Sensors: -10486 31457 		 Accel: 0.00 7.61
-t: 415070480 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.05 7.56
-t: 415137040 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.54
-t: 415203604 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.13 7.50
-t: 415270160 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.15 7.48
-t: 415388640 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.18 0.00
-t: 415414152 ESC: 6 Hall Sensors: 23593 2621 		 Accel: 0.00 0.00
-t: 415480048 ESC: 6 Hall Sensors: 18350 20972 		 Accel: 0.00 -0.12
-t: 415602692 ESC: 6 Hall Sensors: -26214 769 		 Accel: 0.00 0.00
-t: 415628272 ESC: 6 Hall Sensors: 769 -15729 		 Accel: 7.61 0.00
-t: 415696176 ESC: 6 Hall Sensors: 769 23593 		 Accel: 7.64 0.00
-t: 415763776 ESC: 6 Hall Sensors: 18350 -15729 		 Accel: 0.00 0.14
-t: 415834488 ESC: 6 Hall Sensors: 26214 769 		 Accel: 0.00 0.17
-t: 415902088 ESC: 6 Hall Sensors: 26214 769 		 Accel: 0.00 0.18
-t: 415969688 ESC: 6 Hall Sensors: 0 769 		 Accel: 0.00 0.15
-t: 416085044 ESC: 6 Hall Sensors: -18350 769 		 Accel: 0.00 0.00
-t: 416110632 ESC: 6 Hall Sensors: 769 0 		 Accel: 7.61 0.00
-t: 416173336 ESC: 6 Hall Sensors: 768 -10486 		 Accel: 7.59 0.00
-t: 416293904 ESC: 6 Hall Sensors: 769 -10486 		 Accel: 7.55 -0.11
-t: 416319784 ESC: 6 Hall Sensors: -2621 769 		 Accel: 0.00 -0.15
-t: 416440348 ESC: 6 Hall Sensors: 2621 769 		 Accel: 0.00 0.00
-t: 416517740 ESC: 7 Hall Sensors: 769 5243 		 Accel: 7.48 0.00
-t: 416543292 ESC: 7 Hall Sensors: -26214 0 		 Accel: 0.00 0.00
-t: 416607076 ESC: 7 Hall Sensors: 20972 -2621 		 Accel: 0.00 -0.07
-t: 416729696 ESC: 6 Hall Sensors: 15729 769 		 Accel: 0.00 0.00
-t: 416755268 ESC: 6 Hall Sensors: 769 -10486 		 Accel: 7.64 0.00
-t: 416822144 ESC: 6 Hall Sensors: 769 23593 		 Accel: 7.67 0.00
-t: 416889748 ESC: 6 Hall Sensors: -13107 5243 		 Accel: 0.00 0.13
-t: 417011304 ESC: 6 Hall Sensors: 26214 769 		 Accel: 0.00 0.00
-t: 417036876 ESC: 6 Hall Sensors: 769 0 		 Accel: 0.15 7.72
-t: 417098540 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.13 7.68
-t: 417164060 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.10 7.66
-t: 417229580 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.05 7.65
-t: 417295100 ESC: 6 Hall Sensors: 770 769 		 Accel: -0.02 7.58
-t: 417413556 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.10 0.00
-t: 417439060 ESC: 6 Hall Sensors: -26214 -20972 		 Accel: 0.00 0.00
-t: 417508084 ESC: 6 Hall Sensors: 20972 2621 		 Accel: 0.00 -0.17
-t: 417577768 ESC: 6 Hall Sensors: 26214 769 		 Accel: 0.00 -0.17
-t: 417646412 ESC: 6 Hall Sensors: 23593 769 		 Accel: 0.00 -0.15
-t: 417715048 ESC: 6 Hall Sensors: 23593 769 		 Accel: 0.00 -0.10
-t: 417783684 ESC: 6 Hall Sensors: 20972 769 		 Accel: 0.00 -0.03
-t: 417852328 ESC: 6 Hall Sensors: -28836 769 		 Accel: 0.00 0.00
-t: 417920972 ESC: 6 Hall Sensors: -10486 769 		 Accel: 0.00 0.08
-t: 417989608 ESC: 6 Hall Sensors: 28836 769 		 Accel: 0.00 0.12
-t: 418057208 ESC: 6 Hall Sensors: 5243 769 		 Accel: 0.00 0.13
-t: 418123768 ESC: 6 Hall Sensors: -18350 769 		 Accel: 0.00 0.13
-t: 418244320 ESC: 6 Hall Sensors: 26214 769 		 Accel: 0.00 0.00
-t: 418276484 ESC: 6 Hall Sensors: 23593 0 		 Accel: 7.64 0.00
-t: 418385540 ESC: 6 Hall Sensors: 769 -10486 		 Accel: 7.62 0.02
-t: 418411156 ESC: 6 Hall Sensors: 13107 769 		 Accel: 0.00 -0.04
-t: 418479036 ESC: 6 Hall Sensors: -26214 769 		 Accel: 0.00 -0.11
-t: 418548716 ESC: 6 Hall Sensors: -2621 769 		 Accel: 0.00 -0.13
-t: 418617360 ESC: 6 Hall Sensors: 20972 769 		 Accel: 0.00 -0.18
-t: 418737904 ESC: 6 Hall Sensors: 2621 769 		 Accel: 0.00 0.00
-t: 418763440 ESC: 6 Hall Sensors: 769 0 		 Accel: -0.13 7.49
-t: 418825160 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.09 7.53
-t: 418891720 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.03 7.56
-t: 419010188 ESC: 7 Hall Sensors: 769 769 		 Accel: 0.03 0.00
-t: 419087584 ESC: 6 Hall Sensors: 20972 5243 		 Accel: 0.00 0.00
-t: 419113200 ESC: 6 Hall Sensors: -15729 5243 		 Accel: 0.00 0.00
-t: 419182108 ESC: 6 Hall Sensors: -10486 5243 		 Accel: 0.00 0.15
-t: 419251788 ESC: 6 Hall Sensors: 26214 769 		 Accel: 0.00 0.15
-t: 419319388 ESC: 6 Hall Sensors: 2621 769 		 Accel: 0.00 0.11
-t: 419385948 ESC: 6 Hall Sensors: 5243 769 		 Accel: 0.00 0.07
-t: 419452508 ESC: 6 Hall Sensors: 7864 769 		 Accel: 0.00 0.01
-t: 419570960 ESC: 6 Hall Sensors: -10486 769 		 Accel: 0.00 0.00
-t: 419596540 ESC: 6 Hall Sensors: 768 -13107 		 Accel: 7.51 0.00
-t: 419664444 ESC: 6 Hall Sensors: 769 7864 		 Accel: 7.49 0.00
-t: 419731004 ESC: 6 Hall Sensors: 23593 -23593 		 Accel: 0.00 -0.16
-t: 419802764 ESC: 6 Hall Sensors: -20972 769 		 Accel: 0.00 -0.16
-t: 419872448 ESC: 6 Hall Sensors: 23593 769 		 Accel: 0.00 -0.15
-t: 419941088 ESC: 6 Hall Sensors: 0 769 		 Accel: 0.00 -0.11
-t: 420057452 ESC: 6 Hall Sensors: 18350 769 		 Accel: 0.00 0.00
-t: 420083020 ESC: 6 Hall Sensors: 769 0 		 Accel: 0.07 7.64
-t: 420196608 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.08 0.00
-t: 420222104 ESC: 6 Hall Sensors: 7864 5243 		 Accel: 0.00 0.00
-t: 420337856 ESC: 6 Hall Sensors: -26214 2621 		 Accel: 0.00 7.73
-t: 420415664 ESC: 6 Hall Sensors: 769 770 		 Accel: 7.69 0.00
-t: 420441172 ESC: 6 Hall Sensors: 770 0 		 Accel: 0.10 7.68
-t: 420500832 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.05 7.65
-t: 420566352 ESC: 6 Hall Sensors: 769 768 		 Accel: 0.00 7.61
-t: 420631868 ESC: 6 Hall Sensors: 768 769 		 Accel: -0.04 7.58
-t: 420750348 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.07 0.00
-t: 420775848 ESC: 6 Hall Sensors: 23593 -23593 		 Accel: 0.00 0.00
-t: 420843832 ESC: 6 Hall Sensors: -26214 0 		 Accel: 0.00 -0.18
-t: 420963364 ESC: 6 Hall Sensors: 2621 769 		 Accel: 0.00 0.00
-t: 420988888 ESC: 6 Hall Sensors: 769 0 		 Accel: -0.12 7.51
-t: 421050616 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.09 7.54
-t: 421117176 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.04 7.55
-t: 421235640 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 0.00
-t: 421313016 ESC: 6 Hall Sensors: 23593 28836 		 Accel: 0.00 0.00
-t: 421338896 ESC: 6 Hall Sensors: 18350 -18350 		 Accel: 0.00 0.00
-t: 421461508 ESC: 6 Hall Sensors: 23593 23593 		 Accel: 0.00 7.72
-t: 421487400 ESC: 6 Hall Sensors: 770 769 		 Accel: 0.14 7.67
-t: 421552916 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.09 7.68
-t: 421618440 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.08 7.65
-t: 421683960 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.01 7.61
-t: 421749480 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.03 7.58
-t: 421867924 ESC: 7 Hall Sensors: 769 768 		 Accel: -0.11 0.00
-t: 421945336 ESC: 6 Hall Sensors: -26214 0 		 Accel: 0.00 0.00
-t: 422022692 ESC: 7 Hall Sensors: 5243 0 		 Accel: 0.00 0.00
-t: 422100040 ESC: 7 Hall Sensors: -26214 -20972 		 Accel: 0.00 0.00
-t: 422179928 ESC: 6 Hall Sensors: -13107 0 		 Accel: 0.00 0.00
-t: 422205408 ESC: 6 Hall Sensors: 23593 15729 		 Accel: 0.00 0.00
-t: 422272384 ESC: 6 Hall Sensors: 0 13107 		 Accel: 0.00 0.02
-t: 422337896 ESC: 6 Hall Sensors: 13107 769 		 Accel: 0.00 0.07
-t: 422405496 ESC: 6 Hall Sensors: -13107 769 		 Accel: 0.00 0.11
-t: 422474144 ESC: 6 Hall Sensors: 28836 769 		 Accel: 0.00 0.12
-t: 422541740 ESC: 6 Hall Sensors: 5243 769 		 Accel: 0.00 0.14
-t: 422608300 ESC: 6 Hall Sensors: -18350 769 		 Accel: 0.00 0.14
-t: 422728856 ESC: 6 Hall Sensors: 26214 769 		 Accel: 0.00 0.00
-t: 422754432 ESC: 6 Hall Sensors: 769 0 		 Accel: 0.05 7.62
-t: 422816104 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.01 7.58
-t: 422882660 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.07 7.56
-t: 422949224 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.51
-t: 423015784 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.16 7.50
-t: 423082344 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.17 7.48
-t: 423148904 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.17 7.47
-t: 423215464 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.12 7.48
-t: 423282024 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.08 7.54
-t: 423348580 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.02 7.57
-t: 423415144 ESC: 6 Hall Sensors: 769 768 		 Accel: 0.04 7.63
-t: 423480664 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.09 7.67
-t: 423546180 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.12 7.69
-t: 423611704 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.13 7.69
-t: 423729144 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.12 0.00
-t: 423754648 ESC: 6 Hall Sensors: 20972 -15729 		 Accel: 0.00 0.00
-t: 423821592 ESC: 6 Hall Sensors: -10486 7864 		 Accel: 0.00 0.05
-t: 423891268 ESC: 6 Hall Sensors: 31457 769 		 Accel: 0.00 0.02
-t: 424010780 ESC: 6 Hall Sensors: -10486 769 		 Accel: 0.00 0.00
-t: 424036368 ESC: 6 Hall Sensors: 769 -13107 		 Accel: 7.52 0.00
-t: 424104272 ESC: 6 Hall Sensors: 769 -15729 		 Accel: 7.50 0.00
-t: 424224832 ESC: 6 Hall Sensors: -10486 -23593 		 Accel: 0.00 7.47
-t: 424304716 ESC: 6 Hall Sensors: 769 769 		 Accel: 7.47 0.00
-t: 424330224 ESC: 6 Hall Sensors: 769 0 		 Accel: -0.10 7.52
-t: 424390928 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.10 7.54
-t: 424457492 ESC: 6 Hall Sensors: 768 768 		 Accel: -0.04 7.58
-t: 424524048 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.03 7.64
-t: 424589572 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.10 7.67
-t: 424707000 ESC: 6 Hall Sensors: 770 769 		 Accel: 0.12 0.00
-t: 424732504 ESC: 6 Hall Sensors: 23593 26214 		 Accel: 0.00 0.00
-t: 424850304 ESC: 6 Hall Sensors: -15729 5243 		 Accel: 0.00 7.68
-t: 424928096 ESC: 6 Hall Sensors: 769 768 		 Accel: 7.65 0.00
-t: 424953604 ESC: 6 Hall Sensors: 769 0 		 Accel: 0.05 7.65
-t: 425013280 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.01 7.60
-t: 425078800 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.05 7.58
-t: 425145360 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.08 7.55
-t: 425211920 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.13 7.51
-t: 425278480 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.17 7.46
-t: 425345040 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.17 7.48
-t: 425463484 ESC: 7 Hall Sensors: 769 769 		 Accel: -0.16 0.00
-t: 425521924 ESC: 6 Hall Sensors: 18350 0 		 Accel: 0.00 0.00
-t: 425551776 ESC: 6 Hall Sensors: -10486 15729 		 Accel: 0.00 0.00
-t: 425674380 ESC: 6 Hall Sensors: 0 -10486 		 Accel: 0.00 7.61
-t: 425751796 ESC: 6 Hall Sensors: 769 769 		 Accel: 7.69 0.00
-t: 425777304 ESC: 6 Hall Sensors: 769 0 		 Accel: 0.13 7.71
-t: 425836968 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.13 7.71
-t: 425902488 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.14 7.71
-t: 425968004 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.13 7.69
-t: 426033528 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.08 7.67
-t: 426099048 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.02 7.62
-t: 426164568 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.03 7.59
-t: 426283060 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.07 0.00
-t: 426308552 ESC: 6 Hall Sensors: 23593 -23593 		 Accel: 0.00 0.00
-t: 426428468 ESC: 7 Hall Sensors: 23593 20972 		 Accel: 0.00 7.47
-t: 426506292 ESC: 7 Hall Sensors: 769 769 		 Accel: 7.51 0.00
-t: 426531800 ESC: 7 Hall Sensors: 768 0 		 Accel: -0.11 7.52
-t: 426644408 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.10 0.00
-t: 426669904 ESC: 6 Hall Sensors: -10486 15729 		 Accel: 0.00 0.00
-t: 426737892 ESC: 6 Hall Sensors: 0 13107 		 Accel: 0.00 0.03
-t: 426803420 ESC: 6 Hall Sensors: -31457 769 		 Accel: 0.00 0.08
-t: 426872048 ESC: 6 Hall Sensors: 7864 769 		 Accel: 0.00 0.11
-t: 426938612 ESC: 6 Hall Sensors: 5243 769 		 Accel: 0.00 0.14
-t: 427005168 ESC: 6 Hall Sensors: 5243 769 		 Accel: 0.00 0.14
-t: 427071732 ESC: 6 Hall Sensors: -18350 769 		 Accel: 0.00 0.14
-t: 427140372 ESC: 6 Hall Sensors: 5243 769 		 Accel: 0.00 0.09
-t: 427258840 ESC: 6 Hall Sensors: 7864 770 		 Accel: 0.00 0.00
-t: 427336244 ESC: 6 Hall Sensors: 769 0 		 Accel: 7.57 0.00
-t: 427361656 ESC: 6 Hall Sensors: 769 0 		 Accel: -0.11 7.54
-t: 427472288 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.12 0.00
-t: 427497804 ESC: 6 Hall Sensors: -10486 20972 		 Accel: 0.00 0.00
-t: 427565784 ESC: 6 Hall Sensors: -10486 0 		 Accel: 0.00 -0.14
-t: 427633380 ESC: 6 Hall Sensors: 23593 769 		 Accel: 0.00 -0.12
-t: 427702020 ESC: 6 Hall Sensors: 20972 769 		 Accel: 0.00 -0.08
-t: 427770664 ESC: 6 Hall Sensors: 18350 769 		 Accel: 0.00 -0.04
-t: 427891188 ESC: 6 Hall Sensors: -5243 770 		 Accel: 0.00 0.00
-t: 427968636 ESC: 6 Hall Sensors: 769 0 		 Accel: 7.66 0.00
-t: 427994048 ESC: 6 Hall Sensors: 769 0 		 Accel: 0.13 7.68
-t: 428051728 ESC: 6 Hall Sensors: 769 768 		 Accel: 0.13 7.72
-t: 428117248 ESC: 6 Hall Sensors: 769 768 		 Accel: 0.13 7.71
-t: 428182764 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.12 7.71
-t: 428248292 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.10 7.66
-t: 428365696 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.07 0.00
-t: 428391192 ESC: 6 Hall Sensors: -10486 -7864 		 Accel: 0.00 0.00
-t: 428458152 ESC: 6 Hall Sensors: 23593 -5243 		 Accel: 0.00 -0.11
-t: 428528864 ESC: 6 Hall Sensors: -23593 769 		 Accel: 0.00 -0.14
-t: 428650464 ESC: 6 Hall Sensors: 0 769 		 Accel: 0.00 0.00
-t: 428727724 ESC: 6 Hall Sensors: 769 0 		 Accel: 7.48 0.00
-t: 428805048 ESC: 6 Hall Sensors: 769 0 		 Accel: 7.52 0.00
-t: 428882340 ESC: 6 Hall Sensors: 769 0 		 Accel: 7.55 0.00
-t: 428907752 ESC: 6 Hall Sensors: 769 0 		 Accel: 0.01 7.61
-t: 428965424 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.04 7.62
-t: 429030944 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.06 7.65
-t: 429096464 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.11 7.69
-t: 429161984 ESC: 6 Hall Sensors: 769 768 		 Accel: 0.14 7.68
-t: 429227504 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.14 7.69
-t: 429293028 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.12 7.68
-t: 429358544 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.08 7.66
-t: 429424064 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.04 7.64
-t: 429489584 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.60
-t: 429555104 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.05 7.58
-t: 429621664 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.12 7.53
-t: 429688224 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.15 7.49
-t: 429754784 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.17 7.47
-t: 429821344 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.16 7.47
-t: 429887908 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.15 7.51
-t: 430006376 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.09 0.00
-t: 430031880 ESC: 6 Hall Sensors: 0 13107 		 Accel: 0.00 0.00
-t: 430094660 ESC: 6 Hall Sensors: -10486 -10486 		 Accel: 0.00 0.00
-t: 430166416 ESC: 6 Hall Sensors: 23593 31457 		 Accel: 0.00 0.11
-t: 430236096 ESC: 6 Hall Sensors: -15729 769 		 Accel: 0.00 0.12
-t: 430304736 ESC: 6 Hall Sensors: -18350 769 		 Accel: 0.00 0.12
-t: 430373376 ESC: 6 Hall Sensors: 5243 769 		 Accel: 0.00 0.13
-t: 430439936 ESC: 6 Hall Sensors: -15729 769 		 Accel: 0.00 0.10
-t: 430508576 ESC: 6 Hall Sensors: -15729 769 		 Accel: 0.00 0.07
-t: 430577216 ESC: 6 Hall Sensors: 10486 769 		 Accel: 0.00 0.00
-t: 430696724 ESC: 6 Hall Sensors: 13107 769 		 Accel: 0.00 0.00
-t: 430722300 ESC: 6 Hall Sensors: 769 0 		 Accel: -0.11 7.52
-t: 430785008 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.15 7.50
-t: 430851568 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.14 7.51
-t: 430918128 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.15 7.47
-t: 430984688 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.12 7.52
-t: 431051248 ESC: 6 Hall Sensors: 769 770 		 Accel: -0.08 7.55
-t: 431117808 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.05 7.56
-t: 431184368 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.01 7.62
-t: 431301808 ESC: 7 Hall Sensors: 769 769 		 Accel: 0.05 0.00
-t: 431327308 ESC: 7 Hall Sensors: 18350 -15729 		 Accel: 0.00 0.00
-t: 431446168 ESC: 6 Hall Sensors: 18350 2621 		 Accel: 0.00 7.73
-t: 431471808 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.11 7.69
-t: 431536540 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.10 7.70
-t: 431653984 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.09 0.00
-t: 431679484 ESC: 6 Hall Sensors: -10486 -10486 		 Accel: 0.00 0.00
-t: 431747480 ESC: 6 Hall Sensors: -10486 -28836 		 Accel: 0.00 -0.06
-t: 431820276 ESC: 6 Hall Sensors: -5243 769 		 Accel: 0.00 7.55
-t: 431939792 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.13 0.00
-t: 432017180 ESC: 6 Hall Sensors: 23593 20972 		 Accel: 0.00 0.00
-t: 432094992 ESC: 6 Hall Sensors: -26214 0 		 Accel: 0.00 0.00
-t: 432120484 ESC: 6 Hall Sensors: 18350 -2621 		 Accel: 0.00 0.00
-t: 432187448 ESC: 6 Hall Sensors: -10486 -26214 		 Accel: 0.00 -0.05
-t: 432312160 ESC: 6 Hall Sensors: 15729 768 		 Accel: 0.00 0.00
-t: 432389640 ESC: 6 Hall Sensors: -10486 -13107 		 Accel: 0.00 0.00
-t: 432469492 ESC: 6 Hall Sensors: 20972 -10486 		 Accel: 0.00 0.00
-t: 432548308 ESC: 6 Hall Sensors: -15729 -15729 		 Accel: 0.00 0.00
-t: 432576288 ESC: 6 Hall Sensors: 7864 -18350 		 Accel: 0.00 0.00
-t: 432645968 ESC: 6 Hall Sensors: 18350 5243 		 Accel: 0.00 0.11
-t: 432714612 ESC: 6 Hall Sensors: 7864 769 		 Accel: 0.00 0.07
-t: 432833072 ESC: 6 Hall Sensors: -13107 769 		 Accel: 0.00 0.00
-t: 432910564 ESC: 6 Hall Sensors: 769 -10486 		 Accel: 7.55 0.00
-t: 432936160 ESC: 6 Hall Sensors: -10486 18350 		 Accel: 0.00 0.00
-t: 433006124 ESC: 6 Hall Sensors: 7864 20972 		 Accel: 0.00 -0.15
-t: 433075808 ESC: 6 Hall Sensors: 20972 769 		 Accel: 0.00 -0.15
-t: 433144448 ESC: 6 Hall Sensors: 23593 769 		 Accel: 0.00 -0.14
-t: 433264972 ESC: 6 Hall Sensors: 0 769 		 Accel: 0.00 0.00
-t: 433342272 ESC: 6 Hall Sensors: 769 -15729 		 Accel: 7.56 0.00
-t: 433367880 ESC: 6 Hall Sensors: -10486 -28836 		 Accel: 0.00 0.00
-t: 433490784 ESC: 6 Hall Sensors: -15729 -31457 		 Accel: 0.00 7.62
-t: 433570656 ESC: 6 Hall Sensors: 769 769 		 Accel: 7.68 0.00
-t: 433596168 ESC: 6 Hall Sensors: 769 0 		 Accel: 0.12 7.70
-t: 433655832 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.12 7.70
-t: 433721352 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.14 7.71
-t: 433786868 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.10 7.68
-t: 433852388 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.05 7.61
-t: 433917916 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.62
-t: 433983428 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.06 7.56
-t: 434049992 ESC: 6 Hall Sensors: 768 769 		 Accel: -0.11 7.53
-t: 434116548 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.52
-t: 434183108 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.14 7.49
-t: 434249668 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.14 7.49
-t: 434368128 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.12 0.00
-t: 434393640 ESC: 6 Hall Sensors: 20972 -5243 		 Accel: 0.00 0.00
-t: 434512488 ESC: 6 Hall Sensors: -15729 -28836 		 Accel: 0.00 7.60
-t: 434540452 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.05 7.63
-t: 434605972 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.07 7.67
-t: 434671496 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.09 7.66
-t: 434788912 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.11 0.00
-t: 434814412 ESC: 6 Hall Sensors: -13107 -18350 		 Accel: 0.00 0.00
-t: 434882404 ESC: 6 Hall Sensors: 20972 5243 		 Accel: 0.00 0.09
-t: 434951048 ESC: 6 Hall Sensors: 7864 769 		 Accel: 0.00 0.03
-t: 435017608 ESC: 6 Hall Sensors: -13107 769 		 Accel: 0.00 0.01
-t: 435138144 ESC: 6 Hall Sensors: -31457 769 		 Accel: 0.00 0.00
-t: 435163728 ESC: 6 Hall Sensors: 769 0 		 Accel: -0.08 7.56
-t: 435279364 ESC: 7 Hall Sensors: 769 769 		 Accel: -0.12 0.00
-t: 435356780 ESC: 6 Hall Sensors: -26214 -20972 		 Accel: 0.00 0.00
-t: 435384752 ESC: 6 Hall Sensors: -26214 2621 		 Accel: 0.00 0.00
-t: 435454428 ESC: 6 Hall Sensors: 18350 -23593 		 Accel: 0.00 -0.11
-t: 435526188 ESC: 6 Hall Sensors: 18350 770 		 Accel: 0.00 7.56
-t: 435593788 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.60
-t: 435659308 ESC: 6 Hall Sensors: 769 768 		 Accel: 0.03 7.64
-t: 435776744 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.07 0.00
-t: 435802240 ESC: 6 Hall Sensors: 18350 5243 		 Accel: 0.00 0.00
-t: 435867108 ESC: 6 Hall Sensors: 23593 5243 		 Accel: 0.00 0.13
-t: 435935748 ESC: 6 Hall Sensors: 5243 769 		 Accel: 0.00 0.11
-t: 436002308 ESC: 6 Hall Sensors: -15729 769 		 Accel: 0.00 0.09
-t: 436070948 ESC: 6 Hall Sensors: -13107 769 		 Accel: 0.00 0.07
-t: 436191488 ESC: 6 Hall Sensors: 10486 769 		 Accel: 0.00 0.00
-t: 436268936 ESC: 7 Hall Sensors: 769 -13107 		 Accel: 7.55 0.00
-t: 436294548 ESC: 7 Hall Sensors: 20972 -5243 		 Accel: 0.00 0.00
-t: 436415392 ESC: 6 Hall Sensors: 7864 -23593 		 Accel: 0.00 7.51
-t: 436441300 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.14 7.50
-t: 436559744 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 0.00
-t: 436585252 ESC: 6 Hall Sensors: 18350 -2621 		 Accel: 0.00 0.00
-t: 436652208 ESC: 6 Hall Sensors: -10486 -26214 		 Accel: 0.00 -0.03
-t: 436725008 ESC: 6 Hall Sensors: -28836 769 		 Accel: 0.00 0.00
-t: 436845560 ESC: 6 Hall Sensors: -10486 769 		 Accel: 0.00 0.00
-t: 436871144 ESC: 6 Hall Sensors: 769 0 		 Accel: 0.10 7.68
-t: 436933852 ESC: 6 Hall Sensors: 770 769 		 Accel: 0.11 7.70
-t: 436999372 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.11 7.70
-t: 437064892 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.10 7.69
-t: 437130408 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.08 7.66
-t: 437195932 ESC: 6 Hall Sensors: 770 769 		 Accel: 0.05 7.64
-t: 437261452 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.58
-t: 437326972 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.06 7.56
-t: 437393532 ESC: 6 Hall Sensors: 770 769 		 Accel: -0.08 7.55
-t: 437460092 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.50
-t: 437526652 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.13 7.50
-t: 437645092 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.13 0.00
-t: 437722476 ESC: 6 Hall Sensors: 18350 18350 		 Accel: 0.00 0.00
-t: 437748368 ESC: 6 Hall Sensors: -10486 18350 		 Accel: 0.00 0.00
-t: 437870980 ESC: 6 Hall Sensors: -10486 -7864 		 Accel: 0.00 7.58
-t: 437897912 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.06 7.64
-t: 438015336 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.10 0.00
-t: 438092736 ESC: 6 Hall Sensors: 18350 5243 		 Accel: 0.00 0.00
-t: 438118360 ESC: 6 Hall Sensors: 7864 5243 		 Accel: 0.00 0.00
-t: 438237072 ESC: 6 Hall Sensors: -13107 28836 		 Accel: 0.00 7.68
-t: 438264012 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.03 7.64
-t: 438381416 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.02 0.00
-t: 438406908 ESC: 6 Hall Sensors: 0 -7864 		 Accel: 0.00 0.00
-t: 438468676 ESC: 6 Hall Sensors: 23593 -26214 		 Accel: 0.00 0.00
-t: 438539396 ESC: 6 Hall Sensors: -10486 -26214 		 Accel: 0.00 -0.11
-t: 438612192 ESC: 6 Hall Sensors: 20972 769 		 Accel: 0.00 7.52
-t: 438679780 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.13 7.50
-t: 438746344 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.12 7.51
-t: 438864820 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.09 0.00
-t: 438890324 ESC: 6 Hall Sensors: -10486 -28836 		 Accel: 0.00 0.00
-t: 439011256 ESC: 6 Hall Sensors: 0 -10486 		 Accel: 0.00 7.62
-t: 439036776 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.07 7.65
-t: 439099548 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.09 7.67
-t: 439165068 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.11 7.69
-t: 439282468 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.11 0.00
-t: 439307976 ESC: 6 Hall Sensors: 20972 -13107 		 Accel: 0.00 0.00
-t: 439426812 ESC: 7 Hall Sensors: -10486 10486 		 Accel: 0.00 7.65
-t: 439453748 ESC: 7 Hall Sensors: 770 769 		 Accel: 0.00 7.59
-t: 439571168 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.03 0.00
-t: 439648548 ESC: 6 Hall Sensors: 23593 18350 		 Accel: 0.00 0.00
-t: 439674436 ESC: 6 Hall Sensors: 18350 20972 		 Accel: 0.00 0.00
-t: 439796024 ESC: 6 Hall Sensors: 23593 -23593 		 Accel: 0.00 7.51
-t: 439874856 ESC: 7 Hall Sensors: 769 769 		 Accel: 7.51 0.00
-t: 439952248 ESC: 6 Hall Sensors: 769 0 		 Accel: 7.55 0.00
-t: 439977664 ESC: 6 Hall Sensors: 769 0 		 Accel: -0.05 7.58
-t: 440036380 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.60
-t: 440101900 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.04 7.66
-t: 440167416 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.05 7.64
-t: 440232936 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.09 7.67
-t: 440350340 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.11 0.00
-t: 440375848 ESC: 6 Hall Sensors: 18350 28836 		 Accel: 0.00 0.00
-t: 440493656 ESC: 6 Hall Sensors: -10486 7864 		 Accel: 0.00 7.65
-t: 440519548 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.04 7.61
-t: 440585064 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.58
-t: 440650588 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.04 7.57
-t: 440769056 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.07 0.00
-t: 440846464 ESC: 6 Hall Sensors: -15729 -23593 		 Accel: 0.00 0.00
-t: 440874432 ESC: 6 Hall Sensors: 23593 20972 		 Accel: 0.00 0.00
-t: 440944108 ESC: 6 Hall Sensors: -15729 20972 		 Accel: 0.00 -0.11
-t: 441015872 ESC: 6 Hall Sensors: -23593 769 		 Accel: 0.00 -0.09
-t: 441085552 ESC: 6 Hall Sensors: -2621 769 		 Accel: 0.00 -0.05
-t: 441154188 ESC: 6 Hall Sensors: -26214 769 		 Accel: 0.00 0.00
-t: 441222832 ESC: 6 Hall Sensors: 13107 769 		 Accel: 0.00 0.04
-t: 441342316 ESC: 6 Hall Sensors: -13107 769 		 Accel: 0.00 0.00
-t: 441367900 ESC: 6 Hall Sensors: 768 18350 		 Accel: 7.69 0.00
-t: 441434768 ESC: 6 Hall Sensors: 769 -13107 		 Accel: 7.68 0.00
-t: 441503404 ESC: 6 Hall Sensors: 18350 -15729 		 Accel: 0.00 0.09
-t: 441574128 ESC: 6 Hall Sensors: 28836 769 		 Accel: 0.00 0.08
-t: 441641728 ESC: 6 Hall Sensors: -13107 770 		 Accel: 0.00 0.02
-t: 441762272 ESC: 6 Hall Sensors: 31457 769 		 Accel: 0.00 0.00
-t: 441787844 ESC: 6 Hall Sensors: 769 0 		 Accel: -0.07 7.55
-t: 441850560 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.08 7.53
-t: 441917120 ESC: 6 Hall Sensors: 770 769 		 Accel: -0.10 7.54
-t: 441983680 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.53
-t: 442050240 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.53
-t: 442116800 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.11 7.55
-t: 442183360 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.07 7.55
-t: 442249920 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.01 7.58
-t: 442316476 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.04 7.63
-t: 442382000 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.06 7.66
-t: 442499404 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.10 0.00
-t: 442576780 ESC: 6 Hall Sensors: -13107 -15729 		 Accel: 0.00 0.00
-t: 442604756 ESC: 6 Hall Sensors: 18350 5243 		 Accel: 0.00 0.00
-t: 442673384 ESC: 6 Hall Sensors: -15729 31457 		 Accel: 0.00 0.06
-t: 442744104 ESC: 6 Hall Sensors: 7864 769 		 Accel: 0.00 0.04
-t: 442862576 ESC: 6 Hall Sensors: -13107 769 		 Accel: 0.00 0.00
-t: 442888160 ESC: 6 Hall Sensors: 769 -15729 		 Accel: 7.56 0.00
-t: 443007984 ESC: 6 Hall Sensors: 769 20972 		 Accel: 7.55 -0.11
-t: 443033616 ESC: 6 Hall Sensors: 18350 769 		 Accel: 0.00 -0.12
-t: 443101472 ESC: 6 Hall Sensors: 20972 769 		 Accel: 0.00 -0.11
-t: 443170120 ESC: 6 Hall Sensors: 20972 769 		 Accel: 0.00 -0.12
-t: 443238752 ESC: 6 Hall Sensors: -23593 770 		 Accel: 0.00 -0.06
-t: 443308428 ESC: 6 Hall Sensors: -2621 769 		 Accel: 0.00 -0.02
-t: 443377068 ESC: 6 Hall Sensors: -5243 769 		 Accel: 0.00 0.00
-t: 443496592 ESC: 6 Hall Sensors: -28836 769 		 Accel: 0.00 0.00
-t: 443522176 ESC: 6 Hall Sensors: 769 -10486 		 Accel: 7.65 0.00
-t: 443590076 ESC: 6 Hall Sensors: 769 18350 		 Accel: 7.68 0.00
-t: 443709600 ESC: 6 Hall Sensors: 18350 28836 		 Accel: 0.00 7.69
-t: 443735492 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.06 7.68
-t: 443801012 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.04 7.64
-t: 443866532 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.61
-t: 443932052 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.58
-t: 444049496 ESC: 6 Hall Sensors: 770 769 		 Accel: -0.04 0.00
-t: 444074992 ESC: 6 Hall Sensors: 20972 -2621 		 Accel: 0.00 0.00
-t: 444141936 ESC: 6 Hall Sensors: -15729 -2621 		 Accel: 0.00 -0.13
-t: 444265604 ESC: 6 Hall Sensors: 18350 769 		 Accel: 0.00 0.00
-t: 444291184 ESC: 6 Hall Sensors: 769 0 		 Accel: -0.10 7.52
-t: 444405828 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.08 0.00
-t: 444483204 ESC: 7 Hall Sensors: -15729 -28836 		 Accel: 0.00 0.00
-t: 444563068 ESC: 7 Hall Sensors: -10486 13107 		 Accel: 0.00 0.00
-t: 444641908 ESC: 6 Hall Sensors: -15729 -13107 		 Accel: 0.00 0.00
-t: 444721772 ESC: 6 Hall Sensors: -15729 -13107 		 Accel: 0.00 0.11
-t: 444749748 ESC: 6 Hall Sensors: 5243 769 		 Accel: 0.00 0.11
-t: 444816308 ESC: 6 Hall Sensors: 5243 769 		 Accel: 0.00 0.09
-t: 444934768 ESC: 6 Hall Sensors: 28836 769 		 Accel: 0.00 0.00
-t: 445012244 ESC: 7 Hall Sensors: 769 0 		 Accel: 7.62 0.00
-t: 445089564 ESC: 6 Hall Sensors: 769 0 		 Accel: 7.58 0.00
-t: 445114972 ESC: 6 Hall Sensors: 768 0 		 Accel: -0.08 7.55
-t: 445173700 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.10 7.54
-t: 445240260 ESC: 6 Hall Sensors: 768 769 		 Accel: -0.13 7.52
-t: 445306820 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.12 7.51
-t: 445373388 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.12 7.48
-t: 445439948 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.09 7.54
-t: 445558380 ESC: 7 Hall Sensors: 769 769 		 Accel: -0.05 0.00
-t: 445635780 ESC: 6 Hall Sensors: -15729 -28836 		 Accel: 0.00 0.00
-t: 445663752 ESC: 6 Hall Sensors: -10486 -10486 		 Accel: 0.00 0.00
-t: 445735500 ESC: 6 Hall Sensors: 23593 -13107 		 Accel: 0.00 0.06
-t: 445806228 ESC: 6 Hall Sensors: -13107 769 		 Accel: 0.00 0.07
-t: 445874872 ESC: 6 Hall Sensors: -13107 769 		 Accel: 0.00 0.09
-t: 445995416 ESC: 6 Hall Sensors: -15729 768 		 Accel: 0.00 0.00
-t: 446020996 ESC: 6 Hall Sensors: -15729 31457 		 Accel: 0.00 0.00
-t: 446090988 ESC: 6 Hall Sensors: -15729 -10486 		 Accel: 0.00 0.01
-t: 446162752 ESC: 6 Hall Sensors: -7864 769 		 Accel: 0.00 7.58
-t: 446230356 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.05 7.58
-t: 446348828 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.09 0.00
-t: 446374324 ESC: 6 Hall Sensors: -15729 -23593 		 Accel: 0.00 0.00
-t: 446443356 ESC: 6 Hall Sensors: 18350 -2621 		 Accel: 0.00 -0.12
-t: 446514076 ESC: 6 Hall Sensors: -20972 769 		 Accel: 0.00 -0.10
-t: 446583756 ESC: 6 Hall Sensors: -23593 769 		 Accel: 0.00 -0.09
-t: 446653452 ESC: 6 Hall Sensors: 18350 769 		 Accel: 0.00 -0.02
-t: 446722080 ESC: 6 Hall Sensors: -28836 769 		 Accel: 0.00 0.00
-t: 446790724 ESC: 6 Hall Sensors: 13107 769 		 Accel: 0.00 0.04
-t: 446858320 ESC: 6 Hall Sensors: 31457 769 		 Accel: 0.00 0.08
-t: 446925924 ESC: 6 Hall Sensors: 28836 769 		 Accel: 0.00 0.11
-t: 446993524 ESC: 6 Hall Sensors: 5243 769 		 Accel: 0.00 0.11
-t: 447111972 ESC: 6 Hall Sensors: 7864 769 		 Accel: 0.00 0.00
-t: 447199276 ESC: 6 Hall Sensors: 31457 0 		 Accel: 0.00 0.00
-t: 447224760 ESC: 6 Hall Sensors: -10486 0 		 Accel: 7.60 0.00
-t: 447287568 ESC: 6 Hall Sensors: 769 -15729 		 Accel: 7.58 0.00
-t: 447356196 ESC: 6 Hall Sensors: -15729 -5243 		 Accel: 0.00 -0.08
-t: 447427956 ESC: 6 Hall Sensors: 15729 770 		 Accel: 0.00 -0.11
-t: 447496596 ESC: 6 Hall Sensors: -26214 769 		 Accel: 0.00 -0.12
-t: 447566276 ESC: 6 Hall Sensors: 18350 769 		 Accel: 0.00 -0.12
-t: 447634916 ESC: 6 Hall Sensors: -23593 769 		 Accel: 0.00 -0.09
-t: 447704596 ESC: 6 Hall Sensors: 18350 769 		 Accel: 0.00 -0.06
-t: 447773236 ESC: 6 Hall Sensors: -26214 769 		 Accel: 0.00 -0.03
-t: 447842916 ESC: 6 Hall Sensors: 15729 769 		 Accel: 0.00 0.01
-t: 447910516 ESC: 6 Hall Sensors: -31457 770 		 Accel: 0.00 0.04
-t: 447979156 ESC: 6 Hall Sensors: 10486 770 		 Accel: 0.00 0.06
-t: 448046756 ESC: 6 Hall Sensors: 7864 769 		 Accel: 0.00 0.11
-t: 448165236 ESC: 7 Hall Sensors: -13107 770 		 Accel: 0.00 0.00
-t: 448242736 ESC: 6 Hall Sensors: 769 0 		 Accel: 7.65 0.00
-t: 448268148 ESC: 6 Hall Sensors: 768 0 		 Accel: 0.03 7.62
-t: 448325836 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.62
-t: 448391356 ESC: 6 Hall Sensors: 770 769 		 Accel: -0.01 7.58
-t: 448457916 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.06 7.58
-t: 448524476 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.09 7.54
-t: 448591036 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.51
-t: 448657596 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.09 7.53
-t: 448724156 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.10 7.51
-t: 448790716 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.08 7.55
-t: 448857276 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.04 7.57
-t: 448923836 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.01 7.60
-t: 448990396 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.63
-t: 449055912 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.04 7.66
-t: 449121436 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.09 7.66
-t: 449186952 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.10 7.69
-t: 449252476 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.09 7.67
-t: 449317996 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.07 7.65
-t: 449383516 ESC: 6 Hall Sensors: 770 769 		 Accel: 0.04 7.63
-t: 449449036 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.62
-t: 449514556 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.01 7.59
-t: 449581112 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.08 7.57
-t: 449647672 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.52
-t: 449714232 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.13 7.54
-t: 449780792 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.09 7.54
-t: 449847352 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.53
-t: 449913912 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.08 7.53
-t: 449980472 ESC: 6 Hall Sensors: 769 770 		 Accel: -0.05 7.57
-t: 450047032 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.61
-t: 450112556 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.05 7.61
-t: 450178072 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.07 7.66
-t: 450243596 ESC: 6 Hall Sensors: 770 769 		 Accel: 0.07 7.68
-t: 450309104 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.11 7.69
-t: 450374624 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.09 7.66
-t: 450440144 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.07 7.67
-t: 450505664 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.06 7.64
-t: 450571188 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.59
-t: 450636708 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.02 7.57
-t: 450703268 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.09 7.53
-t: 450769828 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.08 7.55
-t: 450836388 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.52
-t: 450902948 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.51
-t: 450969508 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.09 7.54
-t: 451036064 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.07 7.56
-t: 451102628 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.03 7.58
-t: 451169188 ESC: 6 Hall Sensors: 769 770 		 Accel: 0.00 7.62
-t: 451234708 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.04 7.63
-t: 451300224 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.09 7.67
-t: 451365748 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.09 7.64
-t: 451431264 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.09 7.68
-t: 451496784 ESC: 6 Hall Sensors: 769 768 		 Accel: 0.08 7.67
-t: 451562308 ESC: 6 Hall Sensors: 770 769 		 Accel: 0.06 7.63
-t: 451627820 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.02 7.64
-t: 451693344 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.61
-t: 451758864 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.03 7.59
-t: 451825424 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.07 7.58
-t: 451891984 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.53
-t: 451958544 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.52
-t: 452025104 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.52
-t: 452091664 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.08 7.54
-t: 452158224 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.08 7.55
-t: 452224784 ESC: 6 Hall Sensors: 769 768 		 Accel: -0.04 7.59
-t: 452291344 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.02 7.62
-t: 452356864 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.05 7.63
-t: 452422384 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.08 7.65
-t: 452487904 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.09 7.67
-t: 452553420 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.07 7.68
-t: 452618940 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.08 7.69
-t: 452684460 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.07 7.65
-t: 452749980 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.00 7.61
-t: 452815500 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.02 7.60
-t: 452882064 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.05 7.56
-t: 452948620 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.08 7.57
-t: 453015180 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.10 7.55
-t: 453081744 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.51
-t: 453148300 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.51
-t: 453214864 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.11 7.55
-t: 453281420 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.06 7.56
-t: 453347980 ESC: 6 Hall Sensors: 769 769 		 Accel: -0.02 7.58
-t: 453414540 ESC: 6 Hall Sensors: 770 770 		 Accel: 0.00 7.62
-t: 453480060 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.04 7.65
-t: 453545584 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.08 7.63
-t: 453611100 ESC: 6 Hall Sensors: 770 769 		 Accel: 0.09 7.66
-t: 453676624 ESC: 6 Hall Sensors: 769 770 		 Accel: 0.10 7.67
-t: 453742140 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.07 7.66
-t: 453807660 ESC: 6 Hall Sensors: 769 769 		 Accel: 0.02 7.66
-t: 453925096 ESC: 7 Hall Sensors: 769 769 		 Accel: 0.01 0.00
-t: 454002496 ESC: 10 Hall Sensors: 0 -7864 		 Accel: 0.00 0.00
-t: 454079860 ESC: 13 Hall Sensors: -10486 -26214 		 Accel: 0.00 0.00
-t: 454160756 ESC: 16 Hall Sensors: -10486 20972 		 Accel: 0.00 -0.11
-t: 454241680 ESC: 19 Hall Sensors: -23593 769 		 Accel: 0.00 7.53
-t: 454319460 ESC: 22 Hall Sensors: 769 769 		 Accel: 7.53 0.00
-t: 454396920 ESC: 25 Hall Sensors: 769 0 		 Accel: 7.57 0.00
-t: 454474260 ESC: 29 Hall Sensors: 769 0 		 Accel: 7.59 0.00
-t: 454551616 ESC: 30 Hall Sensors: 769 0 		 Accel: 7.60 0.00
-t: 454628940 ESC: 32 Hall Sensors: 769 0 		 Accel: 7.66 0.00
-t: 454706316 ESC: 33 Hall Sensors: 767 0 		 Accel: 7.66 0.00
-t: 454783668 ESC: 34 Hall Sensors: 769 0 		 Accel: 7.67 0.00
-t: 454809128 ESC: 34 Hall Sensors: 769 0 		 Accel: 0.08 7.66
-t: 454868840 ESC: 34 Hall Sensors: 769 769 		 Accel: 0.06 7.65
-t: 454935400 ESC: 34 Hall Sensors: 769 769 		 Accel: 0.04 7.62
-t: 455001960 ESC: 34 Hall Sensors: 769 769 		 Accel: 0.00 7.61
-t: 455068520 ESC: 34 Hall Sensors: 769 769 		 Accel: -0.04 7.58
-t: 455136120 ESC: 34 Hall Sensors: 769 769 		 Accel: -0.06 7.55
-t: 455203724 ESC: 34 Hall Sensors: 769 769 		 Accel: -0.10 7.55
-t: 455271320 ESC: 34 Hall Sensors: 769 769 		 Accel: -0.11 7.51
-t: 455338924 ESC: 34 Hall Sensors: 769 769 		 Accel: -0.11 7.52
-t: 455406520 ESC: 34 Hall Sensors: 769 769 		 Accel: -0.10 7.54
-t: 455474120 ESC: 34 Hall Sensors: 769 769 		 Accel: -0.08 7.56
-t: 455541720 ESC: 34 Hall Sensors: 769 769 		 Accel: -0.05 7.58
-t: 455661204 ESC: 34 Hall Sensors: 769 769 		 Accel: 0.00 0.00
-t: 455686736 ESC: 34 Hall Sensors: -10486 10486 		 Accel: 0.00 0.00
-t: 455755740 ESC: 34 Hall Sensors: -15729 31457 		 Accel: 0.00 0.07
-t: 455879388 ESC: 35 Hall Sensors: -13107 769 		 Accel: 0.00 0.00
-t: 455957176 ESC: 34 Hall Sensors: 769 0 		 Accel: 7.66 0.00
-t: 455982636 ESC: 34 Hall Sensors: 769 0 		 Accel: 0.05 7.64
-t: 456042348 ESC: 34 Hall Sensors: 769 769 		 Accel: 0.64 8.36
-t: 456108908 ESC: 34 Hall Sensors: 768 767 		 Accel: 0.68 7.85
-t: 456175472 ESC: 34 Hall Sensors: 765 766 		 Accel: -0.16 7.88
-t: 456243068 ESC: 34 Hall Sensors: 761 762 		 Accel: -0.69 7.19
-t: 456310668 ESC: 34 Hall Sensors: 752 756 		 Accel: -0.34 7.72
-t: 456378268 ESC: 34 Hall Sensors: 733 737 		 Accel: -1.13 6.67
-t: 456445868 ESC: 34 Hall Sensors: 702 685 		 Accel: 0.00 7.94
-t: 456512432 ESC: 34 Hall Sensors: 684 576 		 Accel: -0.23 6.78
-t: 456631916 ESC: 35 Hall Sensors: 733 548 		 Accel: 0.53 0.00
-t: 456764548 ESC: 43 Hall Sensors: -15729 0 		 Accel: 0.00 0.00
-t: 456824984 ESC: 51 Hall Sensors: 0 0 		 Accel: 0.00 0.00
-t: 456902688 ESC: 56 Hall Sensors: 766 766 		 Accel: 8.79 0.00
-t: 456980128 ESC: 59 Hall Sensors: 769 0 		 Accel: 7.83 0.00
-t: 457005580 ESC: 59 Hall Sensors: 769 0 		 Accel: 0.33 6.09
-t: 457065292 ESC: 59 Hall Sensors: 766 768 		 Accel: 0.62 5.75
-t: 457131852 ESC: 59 Hall Sensors: 762 763 		 Accel: 0.39 5.12
-t: 457198412 ESC: 59 Hall Sensors: 733 723 		 Accel: 1.50 3.70
-t: 457264972 ESC: 59 Hall Sensors: 566 493 		 Accel: 1.63 1.70
-t: 457331532 ESC: 59 Hall Sensors: 591 532 		 Accel: 0.03 4.74
-t: 457398092 ESC: 59 Hall Sensors: 749 735 		 Accel: 0.41 0.11
-t: 457464652 ESC: 59 Hall Sensors: 768 767 		 Accel: 6.11 -0.20
-t: 457532252 ESC: 59 Hall Sensors: 770 770 		 Accel: 5.07 -3.25
-t: 457599852 ESC: 59 Hall Sensors: 768 767 		 Accel: 7.55 1.72
-t: 457666420 ESC: 59 Hall Sensors: 756 753 		 Accel: 1.66 8.08
-t: 457732972 ESC: 59 Hall Sensors: 679 633 		 Accel: 0.23 3.59
-t: 457799532 ESC: 59 Hall Sensors: 438 398 		 Accel: 0.40 -0.50
-t: 457867132 ESC: 59 Hall Sensors: 687 675 		 Accel: -1.72 0.21
-t: 457934732 ESC: 59 Hall Sensors: 762 760 		 Accel: 3.18 0.11
-t: 458001292 ESC: 59 Hall Sensors: 770 769 		 Accel: 5.46 4.03
-t: 458067860 ESC: 59 Hall Sensors: 769 769 		 Accel: 5.62 1.90
-t: 458134420 ESC: 59 Hall Sensors: 766 764 		 Accel: 11.05 -2.04
-t: 458203052 ESC: 59 Hall Sensors: 742 725 		 Accel: 3.12 7.75
-t: 458269612 ESC: 59 Hall Sensors: 784 484 		 Accel: 0.35 3.90
-t: 458336172 ESC: 59 Hall Sensors: 560 583 		 Accel: 1.22 1.91
-t: 458402740 ESC: 59 Hall Sensors: 744 746 		 Accel: 1.04 -0.90
-t: 458470340 ESC: 59 Hall Sensors: 768 768 		 Accel: 4.84 -0.93
-t: 458537932 ESC: 59 Hall Sensors: 770 770 		 Accel: 1.81 1.03
-t: 458656380 ESC: 60 Hall Sensors: 767 766 		 Accel: 5.25 0.00
-t: 458733836 ESC: 61 Hall Sensors: -10486 0 		 Accel: 0.00 0.00
-t: 458759380 ESC: 61 Hall Sensors: 7864 31457 		 Accel: 0.00 0.00
-t: 458879244 ESC: 62 Hall Sensors: 13107 -31457 		 Accel: 0.00 5.14
-t: 458959100 ESC: 64 Hall Sensors: 765 764 		 Accel: 3.59 0.00
-t: 458984656 ESC: 64 Hall Sensors: 770 0 		 Accel: 5.19 -0.45
-t: 459099312 ESC: 66 Hall Sensors: 770 769 		 Accel: 3.91 0.00
-t: 459124872 ESC: 66 Hall Sensors: 20972 -31457 		 Accel: 0.00 0.00
-t: 459245760 ESC: 69 Hall Sensors: -28836 -26214 		 Accel: 0.00 2.05
-t: 459326688 ESC: 73 Hall Sensors: 423 398 		 Accel: -0.37 0.00
-t: 459404112 ESC: 75 Hall Sensors: 729 0 		 Accel: -0.38 0.00
-t: 459429576 ESC: 75 Hall Sensors: 767 0 		 Accel: 5.81 -0.19
-t: 459491380 ESC: 75 Hall Sensors: 769 769 		 Accel: 6.85 4.11
-t: 459557940 ESC: 75 Hall Sensors: 769 769 		 Accel: 5.33 -1.17
-t: 459625540 ESC: 75 Hall Sensors: 768 765 		 Accel: 5.57 -3.09
-t: 459693140 ESC: 75 Hall Sensors: 748 738 		 Accel: 1.50 3.93
-t: 459759700 ESC: 75 Hall Sensors: 691 556 		 Accel: 0.90 1.85
-t: 459826260 ESC: 75 Hall Sensors: 390 510 		 Accel: 6.86 -0.40
-t: 459893860 ESC: 75 Hall Sensors: 731 728 		 Accel: -1.51 -0.67
-t: 459962500 ESC: 75 Hall Sensors: 767 765 		 Accel: 4.52 -1.78
-t: 460030100 ESC: 75 Hall Sensors: 770 769 		 Accel: 5.99 -1.08
-t: 460097700 ESC: 75 Hall Sensors: 768 768 		 Accel: 2.87 1.51
-t: 460164260 ESC: 75 Hall Sensors: 756 756 		 Accel: 7.01 0.06
-t: 460282704 ESC: 78 Hall Sensors: 735 667 		 Accel: -0.23 0.00
-t: 460360132 ESC: 81 Hall Sensors: -13107 2621 		 Accel: 0.00 0.00
-t: 460438972 ESC: 85 Hall Sensors: -15729 10486 		 Accel: 0.00 0.00
-t: 460518844 ESC: 86 Hall Sensors: -5243 -31457 		 Accel: 0.00 0.00
-t: 460598716 ESC: 89 Hall Sensors: -15729 -20972 		 Accel: 0.00 6.77
-t: 460679628 ESC: 92 Hall Sensors: -23593 756 		 Accel: 0.00 8.85
-t: 460757416 ESC: 95 Hall Sensors: 725 616 		 Accel: 2.57 0.00
-t: 460834876 ESC: 98 Hall Sensors: 471 0 		 Accel: -1.01 0.00
-t: 460912236 ESC: 101 Hall Sensors: 731 0 		 Accel: -0.80 0.00
-t: 460989644 ESC: 102 Hall Sensors: 768 0 		 Accel: 0.23 0.00
-t: 461015156 ESC: 102 Hall Sensors: 769 0 		 Accel: 6.11 -1.02
-t: 461077936 ESC: 102 Hall Sensors: 769 769 		 Accel: 4.36 1.35
-t: 461145532 ESC: 102 Hall Sensors: 765 763 		 Accel: 6.63 0.08
-t: 461213136 ESC: 102 Hall Sensors: 744 718 		 Accel: -2.02 3.87
-t: 461281776 ESC: 102 Hall Sensors: 791 485 		 Accel: -0.93 3.84
-t: 461350416 ESC: 102 Hall Sensors: 515 546 		 Accel: 3.88 0.45
-t: 461418016 ESC: 102 Hall Sensors: 751 743 		 Accel: -1.39 -0.65
-t: 461487692 ESC: 102 Hall Sensors: 769 768 		 Accel: 3.71 -1.05
-t: 461608220 ESC: 103 Hall Sensors: 770 769 		 Accel: 3.22 0.00
-t: 461685732 ESC: 107 Hall Sensors: -26214 15729 		 Accel: 0.00 0.00
-t: 461766676 ESC: 111 Hall Sensors: 18350 -13107 		 Accel: 0.00 0.00
-t: 461847608 ESC: 115 Hall Sensors: -7864 0 		 Accel: 0.00 0.00
-t: 461925012 ESC: 118 Hall Sensors: 5243 -10486 		 Accel: 0.00 0.00
-t: 462004868 ESC: 120 Hall Sensors: 10486 5243 		 Accel: 0.00 0.00
-t: 462062780 ESC: 122 Hall Sensors: -5243 0 		 Accel: 0.00 0.00
-t: 462151292 ESC: 124 Hall Sensors: 761 764 		 Accel: 1.37 0.00
-t: 462228772 ESC: 127 Hall Sensors: 716 0 		 Accel: 1.85 0.00
-t: 462306152 ESC: 128 Hall Sensors: 411 0 		 Accel: 0.26 0.00
-t: 462383556 ESC: 129 Hall Sensors: 752 0 		 Accel: -1.75 0.00
-t: 462409068 ESC: 129 Hall Sensors: 769 0 		 Accel: -4.06 -1.78
-t: 462473928 ESC: 129 Hall Sensors: 770 768 		 Accel: 1.06 1.94
-t: 462541528 ESC: 129 Hall Sensors: 737 734 		 Accel: -1.93 5.81
-t: 462610168 ESC: 129 Hall Sensors: 563 333 		 Accel: -2.26 1.90
-t: 462678808 ESC: 129 Hall Sensors: 749 744 		 Accel: -2.04 6.09
-t: 462747452 ESC: 129 Hall Sensors: 771 769 		 Accel: 0.81 -0.88
-t: 462816088 ESC: 129 Hall Sensors: 761 763 		 Accel: 0.00 3.51
-t: 462883688 ESC: 129 Hall Sensors: 800 526 		 Accel: 1.80 0.49
-t: 462951288 ESC: 129 Hall Sensors: 623 645 		 Accel: 3.83 2.03
-t: 463018888 ESC: 129 Hall Sensors: 770 766 		 Accel: 2.37 2.22
-t: 463086488 ESC: 129 Hall Sensors: 770 769 		 Accel: 2.05 4.19
-t: 463154092 ESC: 129 Hall Sensors: 738 739 		 Accel: 2.82 -1.88
-t: 463222728 ESC: 129 Hall Sensors: 490 336 		 Accel: -1.23 -4.72
-t: 463292408 ESC: 129 Hall Sensors: 746 743 		 Accel: -2.91 2.83
-t: 463361056 ESC: 129 Hall Sensors: 771 769 		 Accel: -5.43 -3.43
-t: 463430736 ESC: 129 Hall Sensors: 762 762 		 Accel: -1.27 6.35
-t: 463499376 ESC: 129 Hall Sensors: 725 578 		 Accel: 1.31 2.87
-t: 463566980 ESC: 129 Hall Sensors: 581 606 		 Accel: 5.02 -2.30
-t: 463635620 ESC: 129 Hall Sensors: 769 763 		 Accel: 2.07 0.05
-t: 463703220 ESC: 129 Hall Sensors: 771 769 		 Accel: -2.26 5.02
-t: 463771860 ESC: 129 Hall Sensors: 747 746 		 Accel: -1.59 -1.89
-t: 463841528 ESC: 129 Hall Sensors: 730 283 		 Accel: -0.58 -4.73
-t: 463911208 ESC: 129 Hall Sensors: 741 739 		 Accel: -1.49 -0.97
-t: 463980888 ESC: 129 Hall Sensors: 771 769 		 Accel: 0.86 -4.88
-t: 464049528 ESC: 129 Hall Sensors: 760 764 		 Accel: 2.23 -0.40
-t: 464118164 ESC: 129 Hall Sensors: 643 604 		 Accel: 0.92 1.21
-t: 464185768 ESC: 129 Hall Sensors: 528 555 		 Accel: 0.66 0.00
-t: 464253364 ESC: 129 Hall Sensors: 767 761 		 Accel: 0.84 4.05
-t: 464320964 ESC: 129 Hall Sensors: 771 769 		 Accel: 0.91 0.99
-t: 464388568 ESC: 129 Hall Sensors: 754 754 		 Accel: 2.11 1.26
-t: 464456164 ESC: 129 Hall Sensors: 866 288 		 Accel: -4.23 0.48
-t: 464524804 ESC: 129 Hall Sensors: 697 702 		 Accel: 2.42 -1.12
-t: 464593444 ESC: 129 Hall Sensors: 771 768 		 Accel: -1.74 -5.61
-t: 464663124 ESC: 129 Hall Sensors: 768 768 		 Accel: -5.54 -2.17
-t: 464732808 ESC: 129 Hall Sensors: 690 711 		 Accel: -3.39 3.19
-t: 464801448 ESC: 129 Hall Sensors: 348 520 		 Accel: -0.76 1.85
-t: 464870084 ESC: 129 Hall Sensors: 762 754 		 Accel: 3.52 -4.43
-t: 464938728 ESC: 129 Hall Sensors: 772 770 		 Accel: 1.43 0.04
-t: 465006328 ESC: 129 Hall Sensors: 762 761 		 Accel: 4.46 -0.14
-t: 465074964 ESC: 129 Hall Sensors: 852 438 		 Accel: 4.67 2.64
-t: 465142568 ESC: 129 Hall Sensors: 659 682 		 Accel: 0.52 -2.38
-t: 465211212 ESC: 129 Hall Sensors: 769 767 		 Accel: -4.19 -4.16
-t: 465280888 ESC: 129 Hall Sensors: 767 769 		 Accel: -1.98 1.19
-t: 465349528 ESC: 129 Hall Sensors: 714 736 		 Accel: -3.56 1.10
-t: 465418172 ESC: 129 Hall Sensors: 435 389 		 Accel: -0.50 -1.42
-t: 465487852 ESC: 129 Hall Sensors: 750 744 		 Accel: 1.62 4.16
-t: 465555448 ESC: 129 Hall Sensors: 772 770 		 Accel: -2.45 -1.55
-t: 465625140 ESC: 129 Hall Sensors: 766 763 		 Accel: 0.66 0.60
-t: 465692736 ESC: 129 Hall Sensors: 767 549 		 Accel: -0.59 3.30
-t: 465761376 ESC: 129 Hall Sensors: 562 604 		 Accel: -0.69 -0.38
-t: 465831056 ESC: 129 Hall Sensors: 768 764 		 Accel: -1.89 -3.99
-t: 465900740 ESC: 129 Hall Sensors: 769 769 		 Accel: -2.74 2.69
-t: 465969376 ESC: 129 Hall Sensors: 730 741 		 Accel: 2.49 1.03
-t: 466036968 ESC: 129 Hall Sensors: 793 356 		 Accel: 1.50 2.41
-t: 466104572 ESC: 129 Hall Sensors: 740 724 		 Accel: -0.38 -1.33
-t: 466174248 ESC: 129 Hall Sensors: 772 768 		 Accel: -4.30 -2.37
-t: 466243928 ESC: 129 Hall Sensors: 768 766 		 Accel: 3.70 -0.43
-t: 466312564 ESC: 129 Hall Sensors: 727 668 		 Accel: -1.10 0.56
-t: 466381204 ESC: 129 Hall Sensors: 478 534 		 Accel: -2.30 -3.12
-t: 466450888 ESC: 129 Hall Sensors: 760 756 		 Accel: 1.85 -3.55
-t: 466519528 ESC: 129 Hall Sensors: 770 769 		 Accel: -1.56 -0.67
-t: 466589204 ESC: 129 Hall Sensors: 749 757 		 Accel: -1.92 2.54
-t: 466657848 ESC: 129 Hall Sensors: 781 425 		 Accel: 2.60 1.01
-t: 466725444 ESC: 129 Hall Sensors: 696 679 		 Accel: 1.00 -6.65
-t: 466794084 ESC: 129 Hall Sensors: 771 766 		 Accel: 3.16 -3.49
-t: 466862728 ESC: 129 Hall Sensors: 771 768 		 Accel: -1.49 -2.87
-t: 466984312 ESC: 131 Hall Sensors: 733 725 		 Accel: 0.90 0.00
-t: 467061824 ESC: 134 Hall Sensors: -20972 -7864 		 Accel: 0.00 0.00
-t: 467119840 ESC: 136 Hall Sensors: -10486 0 		 Accel: 0.00 0.00
-t: 467211384 ESC: 139 Hall Sensors: 760 763 		 Accel: -1.52 0.00
-t: 467288860 ESC: 141 Hall Sensors: 523 0 		 Accel: 0.48 0.00
-t: 467366260 ESC: 143 Hall Sensors: 672 0 		 Accel: -1.08 0.00
-t: 467443672 ESC: 144 Hall Sensors: 769 0 		 Accel: -0.82 0.00
-t: 467469184 ESC: 144 Hall Sensors: 764 0 		 Accel: -2.10 0.11
-t: 467533000 ESC: 144 Hall Sensors: 751 748 		 Accel: -0.58 1.62
-t: 467601640 ESC: 144 Hall Sensors: 887 265 		 Accel: -0.96 1.74
-t: 467670280 ESC: 144 Hall Sensors: 720 714 		 Accel: -2.17 -0.82
-t: 467739956 ESC: 144 Hall Sensors: 771 769 		 Accel: 0.66 -2.93
-t: 467808592 ESC: 144 Hall Sensors: 763 766 		 Accel: 1.61 -1.75
-t: 467877232 ESC: 144 Hall Sensors: 640 688 		 Accel: -2.04 2.01
-t: 467945872 ESC: 144 Hall Sensors: 447 518 		 Accel: 0.53 -3.31
-t: 468014512 ESC: 144 Hall Sensors: 765 759 		 Accel: 0.73 -2.50
-t: 468083152 ESC: 144 Hall Sensors: 772 769 		 Accel: 1.39 3.35
-t: 468150752 ESC: 144 Hall Sensors: 753 756 		 Accel: 1.49 1.27
-t: 468218352 ESC: 144 Hall Sensors: 892 305 		 Accel: 2.22 2.49
-t: 468285952 ESC: 144 Hall Sensors: 701 677 		 Accel: -1.46 -1.91
-t: 468355632 ESC: 144 Hall Sensors: 770 768 		 Accel: -1.45 -4.38
-t: 468425312 ESC: 144 Hall Sensors: 768 768 		 Accel: -5.42 -0.21
-t: 468494992 ESC: 144 Hall Sensors: 672 702 		 Accel: -1.39 1.42
-t: 468563632 ESC: 144 Hall Sensors: 355 534 		 Accel: -2.40 -0.66
-t: 468633312 ESC: 144 Hall Sensors: 766 759 		 Accel: -1.81 1.76
-t: 468701952 ESC: 144 Hall Sensors: 771 769 		 Accel: 0.31 2.49
-t: 468769552 ESC: 144 Hall Sensors: 750 755 		 Accel: 5.53 -0.97
-t: 468838192 ESC: 144 Hall Sensors: 811 274 		 Accel: -4.06 -1.96
-t: 468907876 ESC: 144 Hall Sensors: 715 700 		 Accel: -1.72 -3.43
-t: 468977556 ESC: 144 Hall Sensors: 771 768 		 Accel: -3.96 -0.30
-t: 469047236 ESC: 144 Hall Sensors: 765 766 		 Accel: 1.30 2.31
-t: 469114836 ESC: 144 Hall Sensors: 646 702 		 Accel: 2.27 1.31
-t: 469182440 ESC: 144 Hall Sensors: 348 503 		 Accel: 3.97 -5.37
-t: 469251084 ESC: 144 Hall Sensors: 762 754 		 Accel: 0.89 3.86
-t: 469318688 ESC: 144 Hall Sensors: 772 770 		 Accel: -3.34 -0.37
-t: 469388360 ESC: 144 Hall Sensors: 757 759 		 Accel: 1.13 -2.79
-t: 469508892 ESC: 144 Hall Sensors: 822 414 		 Accel: -1.85 0.00
-t: 469534492 ESC: 144 Hall Sensors: -20972 0 		 Accel: -0.17 0.00
-t: 469603432 ESC: 144 Hall Sensors: 768 -31457 		 Accel: 2.48 0.00
-t: 469726048 ESC: 145 Hall Sensors: 28836 5243 		 Accel: 0.00 0.98
-t: 469804872 ESC: 145 Hall Sensors: 307 417 		 Accel: -2.31 0.00
-t: 469830484 ESC: 145 Hall Sensors: 756 0 		 Accel: 0.45 0.70
-t: 469895252 ESC: 145 Hall Sensors: 770 766 		 Accel: -1.13 2.07
-t: 470015772 ESC: 144 Hall Sensors: 769 769 		 Accel: -1.10 0.00
-t: 470093260 ESC: 144 Hall Sensors: -31457 -2621 		 Accel: 0.00 0.00
-t: 470122272 ESC: 144 Hall Sensors: 28836 5243 		 Accel: 0.00 0.00
-t: 470192996 ESC: 144 Hall Sensors: -2621 20972 		 Accel: 0.00 -1.50
-t: 470317676 ESC: 144 Hall Sensors: -10486 770 		 Accel: 0.00 0.00
-t: 470344612 ESC: 144 Hall Sensors: 533 0 		 Accel: 0.81 4.77
-t: 470410136 ESC: 144 Hall Sensors: 338 344 		 Accel: -4.55 -2.10
-t: 470479812 ESC: 144 Hall Sensors: 743 733 		 Accel: -1.29 -1.98
-t: 470601372 ESC: 145 Hall Sensors: 772 769 		 Accel: -5.22 0.00
-t: 470626980 ESC: 145 Hall Sensors: 18350 -13107 		 Accel: 0.00 0.00
-t: 470699028 ESC: 145 Hall Sensors: 15729 23593 		 Accel: 0.00 -2.47
-t: 470771828 ESC: 145 Hall Sensors: -18350 713 		 Accel: 0.00 -1.46
-t: 470843588 ESC: 145 Hall Sensors: 772 768 		 Accel: -4.93 -3.62
-t: 470913256 ESC: 145 Hall Sensors: 766 768 		 Accel: 1.58 -1.45
-t: 470981904 ESC: 145 Hall Sensors: 602 708 		 Accel: -2.20 0.05
-t: 471050532 ESC: 145 Hall Sensors: 268 483 		 Accel: -3.91 0.30
-t: 471119172 ESC: 145 Hall Sensors: 764 757 		 Accel: 0.33 0.12
-t: 471186776 ESC: 145 Hall Sensors: 771 769 		 Accel: 1.92 3.53
-t: 471254376 ESC: 145 Hall Sensors: 754 759 		 Accel: 0.87 0.76
-t: 471321976 ESC: 145 Hall Sensors: 587 425 		 Accel: -3.39 2.17
-t: 471390612 ESC: 145 Hall Sensors: 640 644 		 Accel: 1.53 -2.71
-t: 471459252 ESC: 145 Hall Sensors: 770 766 		 Accel: 2.29 -2.00
-t: 471527896 ESC: 145 Hall Sensors: 769 768 		 Accel: -3.93 -1.75
-t: 471597572 ESC: 145 Hall Sensors: 699 734 		 Accel: 0.75 0.28
-t: 471665172 ESC: 145 Hall Sensors: 268 458 		 Accel: -0.43 0.26
-t: 471733812 ESC: 145 Hall Sensors: 754 747 		 Accel: 4.51 -3.20
-t: 471802456 ESC: 145 Hall Sensors: 772 769 		 Accel: -4.75 -1.21
-t: 471872136 ESC: 145 Hall Sensors: 760 762 		 Accel: 0.55 2.49
-t: 471939736 ESC: 145 Hall Sensors: 464 510 		 Accel: 1.68 -1.00
-t: 472008372 ESC: 145 Hall Sensors: 596 609 		 Accel: 1.39 2.14
-t: 472075976 ESC: 145 Hall Sensors: 770 765 		 Accel: -0.48 -1.59
-t: 472145656 ESC: 145 Hall Sensors: 769 768 		 Accel: 1.40 2.90
-t: 472213256 ESC: 145 Hall Sensors: 692 738 		 Accel: 2.20 -3.53
-t: 472281896 ESC: 145 Hall Sensors: 312 384 		 Accel: -5.39 0.45
-t: 472350540 ESC: 145 Hall Sensors: 749 740 		 Accel: -5.66 1.91
-t: 472419176 ESC: 145 Hall Sensors: 772 769 		 Accel: -4.14 -1.83
-t: 472488856 ESC: 145 Hall Sensors: 761 764 		 Accel: 6.30 1.76
-t: 472556460 ESC: 145 Hall Sensors: 430 575 		 Accel: 0.57 -0.88
-t: 472625100 ESC: 145 Hall Sensors: 478 576 		 Accel: 0.33 -0.59
-t: 472693740 ESC: 145 Hall Sensors: 768 763 		 Accel: -1.79 -2.86
-t: 472763424 ESC: 145 Hall Sensors: 770 769 		 Accel: -0.87 1.05
-t: 472832068 ESC: 145 Hall Sensors: 718 743 		 Accel: 1.34 -1.29
-t: 472900708 ESC: 145 Hall Sensors: 358 328 		 Accel: -4.55 0.18
-t: 472969348 ESC: 145 Hall Sensors: 745 736 		 Accel: -3.47 -2.70
-t: 473039028 ESC: 145 Hall Sensors: 772 769 		 Accel: -4.41 -2.57
-t: 473108704 ESC: 145 Hall Sensors: 763 764 		 Accel: -2.37 2.47
-t: 473177336 ESC: 145 Hall Sensors: 531 613 		 Accel: -4.50 -3.90
-t: 473247016 ESC: 145 Hall Sensors: 435 547 		 Accel: -0.80 0.10
-t: 473315652 ESC: 145 Hall Sensors: 768 764 		 Accel: -1.98 1.60
-t: 473384296 ESC: 145 Hall Sensors: 771 769 		 Accel: -3.87 -1.27
-t: 473453976 ESC: 145 Hall Sensors: 723 747 		 Accel: 0.38 -3.71
-t: 473522612 ESC: 145 Hall Sensors: 351 325 		 Accel: -2.82 -0.10
-t: 473592292 ESC: 145 Hall Sensors: 738 724 		 Accel: -3.97 3.09
-t: 473660936 ESC: 145 Hall Sensors: 772 769 		 Accel: -0.56 -1.69
-t: 473730612 ESC: 145 Hall Sensors: 764 766 		 Accel: 2.59 1.16
-t: 473850104 ESC: 147 Hall Sensors: 546 650 		 Accel: -2.11 0.00
-t: 473927608 ESC: 150 Hall Sensors: -13107 26214 		 Accel: 0.00 0.00
-t: 474008544 ESC: 153 Hall Sensors: 7864 7864 		 Accel: 0.00 0.00
-t: 474086360 ESC: 158 Hall Sensors: -31457 18350 		 Accel: 0.00 0.00
-t: 474167288 ESC: 163 Hall Sensors: -20972 2621 		 Accel: 0.00 2.71
-t: 474247200 ESC: 168 Hall Sensors: -2621 761 		 Accel: 0.00 2.83
-t: 474273096 ESC: 168 Hall Sensors: 772 770 		 Accel: -1.59 2.81
-t: 474341736 ESC: 168 Hall Sensors: 763 765 		 Accel: 6.62 -1.08
-t: 474410376 ESC: 168 Hall Sensors: 640 716 		 Accel: 0.98 1.35
-t: 474477976 ESC: 168 Hall Sensors: 266 459 		 Accel: -1.07 -0.28
-t: 474547656 ESC: 168 Hall Sensors: 756 753 		 Accel: -2.04 2.86
-t: 474616296 ESC: 168 Hall Sensors: 772 768 		 Accel: -2.78 -2.69
-t: 474685976 ESC: 168 Hall Sensors: 752 759 		 Accel: 2.59 0.39
-t: 474805496 ESC: 171 Hall Sensors: 302 477 		 Accel: 2.93 0.00
-t: 474882992 ESC: 176 Hall Sensors: -10486 5243 		 Accel: 0.00 0.00
-t: 474962872 ESC: 180 Hall Sensors: -10486 -7864 		 Accel: 0.00 0.00
-t: 474991880 ESC: 180 Hall Sensors: -23593 26214 		 Accel: 0.00 0.00
-t: 475064672 ESC: 180 Hall Sensors: -28836 -18350 		 Accel: 0.00 0.23
-t: 475138512 ESC: 180 Hall Sensors: -10486 683 		 Accel: 0.00 -3.85
-t: 475210280 ESC: 180 Hall Sensors: 770 768 		 Accel: -3.28 0.10
-t: 475278912 ESC: 180 Hall Sensors: 766 768 		 Accel: 0.00 -1.55
-t: 475347552 ESC: 180 Hall Sensors: 617 718 		 Accel: 1.74 6.07
-t: 475415152 ESC: 180 Hall Sensors: 263 489 		 Accel: -1.87 -0.51
-t: 475484832 ESC: 180 Hall Sensors: 760 754 		 Accel: -4.31 -2.16
-t: 475554516 ESC: 180 Hall Sensors: 772 770 		 Accel: -4.60 -0.74
-t: 475624192 ESC: 180 Hall Sensors: 755 760 		 Accel: 3.94 -0.99
-t: 475692832 ESC: 180 Hall Sensors: 460 423 		 Accel: -3.77 2.08
-t: 475761476 ESC: 180 Hall Sensors: 639 655 		 Accel: -3.56 0.00
-t: 475830116 ESC: 180 Hall Sensors: 768 2621 		 Accel: -0.58 0.00
-t: 475899796 ESC: 180 Hall Sensors: 770 0 		 Accel: -2.74 0.00
-t: 475966356 ESC: 180 Hall Sensors: 0 18350 		 Accel: 0.00 3.05
-t: 476033956 ESC: 180 Hall Sensors: 26214 276 		 Accel: 0.00 -0.75
-t: 476104680 ESC: 180 Hall Sensors: -5243 754 		 Accel: 0.00 0.90
-t: 476174364 ESC: 180 Hall Sensors: 7864 772 		 Accel: 0.00 0.34
-t: 476243000 ESC: 180 Hall Sensors: -20972 755 		 Accel: 0.00 3.79
-t: 476313724 ESC: 180 Hall Sensors: 5243 342 		 Accel: 0.00 1.89
-t: 476382364 ESC: 180 Hall Sensors: 7864 637 		 Accel: 0.00 -2.10
-t: 476452044 ESC: 180 Hall Sensors: -10486 770 		 Accel: 0.00 -5.79
-t: 476575724 ESC: 180 Hall Sensors: -23593 768 		 Accel: 0.00 0.00
-t: 476602656 ESC: 180 Hall Sensors: 324 0 		 Accel: -1.68 3.02
-t: 476669216 ESC: 180 Hall Sensors: 322 530 		 Accel: 2.97 -5.69
-t: 476737864 ESC: 180 Hall Sensors: 763 758 		 Accel: 0.94 1.27
-t: 476805452 ESC: 180 Hall Sensors: 772 769 		 Accel: 2.67 6.07
-t: 476873052 ESC: 180 Hall Sensors: 752 754 		 Accel: 6.76 2.37
-t: 476940656 ESC: 180 Hall Sensors: 423 266 		 Accel: 4.16 -0.93
-t: 477009296 ESC: 180 Hall Sensors: 708 714 		 Accel: 2.65 -3.68
-t: 477077936 ESC: 180 Hall Sensors: 772 769 		 Accel: 0.34 -2.09
-t: 477146572 ESC: 180 Hall Sensors: 762 766 		 Accel: 0.90 2.41
-t: 477214176 ESC: 180 Hall Sensors: 316 626 		 Accel: 1.25 2.17
-t: 477281776 ESC: 180 Hall Sensors: 498 568 		 Accel: 5.42 0.37
-t: 477349376 ESC: 180 Hall Sensors: 769 764 		 Accel: -1.32 1.93
-t: 477418016 ESC: 180 Hall Sensors: 771 769 		 Accel: -3.46 1.33
-t: 477486652 ESC: 180 Hall Sensors: 691 738 		 Accel: 2.77 1.79
-t: 477554252 ESC: 180 Hall Sensors: 259 426 		 Accel: -2.58 3.02
-t: 477622896 ESC: 180 Hall Sensors: 752 749 		 Accel: -0.12 3.41
-t: 477691532 ESC: 180 Hall Sensors: 771 770 		 Accel: 0.08 -3.13
-t: 477760176 ESC: 180 Hall Sensors: 752 759 		 Accel: -2.43 4.02
-t: 477828816 ESC: 180 Hall Sensors: 345 415 		 Accel: 3.36 2.77
-t: 477896416 ESC: 180 Hall Sensors: 695 684 		 Accel: 3.25 -7.61
-t: 477965056 ESC: 180 Hall Sensors: 772 768 		 Accel: -0.14 -0.59
-t: 478034736 ESC: 180 Hall Sensors: 766 766 		 Accel: 2.09 3.60
-t: 478102340 ESC: 180 Hall Sensors: 436 627 		 Accel: 2.96 -0.27
-t: 478170984 ESC: 180 Hall Sensors: 407 553 		 Accel: -1.46 -0.20
-t: 478240660 ESC: 180 Hall Sensors: 768 764 		 Accel: -2.60 5.17
-t: 478309300 ESC: 180 Hall Sensors: 769 769 		 Accel: -0.28 -1.00
-t: 478378976 ESC: 180 Hall Sensors: 678 739 		 Accel: 1.72 5.10
-t: 478446580 ESC: 180 Hall Sensors: 260 462 		 Accel: 4.39 -2.97
-t: 478515224 ESC: 180 Hall Sensors: 752 748 		 Accel: -2.31 2.47
-t: 478583864 ESC: 180 Hall Sensors: 772 770 		 Accel: 0.00 1.50
-t: 478651468 ESC: 180 Hall Sensors: 761 761 		 Accel: -2.28 5.77
-t: 478771988 ESC: 180 Hall Sensors: 651 476 		 Accel: 2.37 0.00
-t: 478797580 ESC: 180 Hall Sensors: -18350 -10486 		 Accel: 0.00 0.00
-t: 478869640 ESC: 180 Hall Sensors: 20972 -10486 		 Accel: 0.00 3.44
-t: 478942436 ESC: 180 Hall Sensors: -31457 761 		 Accel: 0.00 2.02
-t: 479013152 ESC: 180 Hall Sensors: 280 570 		 Accel: 3.22 -0.28
-t: 479081800 ESC: 180 Hall Sensors: 614 630 		 Accel: 5.16 1.61
-t: 479149388 ESC: 180 Hall Sensors: 770 767 		 Accel: 0.13 2.52
-t: 479216992 ESC: 180 Hall Sensors: 767 768 		 Accel: 3.24 2.59
-t: 479284588 ESC: 180 Hall Sensors: 656 736 		 Accel: 1.88 1.47
-t: 479352192 ESC: 180 Hall Sensors: 261 417 		 Accel: 1.14 0.44
-t: 479419792 ESC: 180 Hall Sensors: 752 747 		 Accel: -1.10 4.09
-t: 479488432 ESC: 180 Hall Sensors: 771 769 		 Accel: 2.52 3.79
-t: 479556032 ESC: 180 Hall Sensors: 760 762 		 Accel: -0.13 1.36
-t: 479624672 ESC: 180 Hall Sensors: 709 515 		 Accel: 5.58 4.20
-t: 479692272 ESC: 180 Hall Sensors: 622 617 		 Accel: 2.26 1.51
-t: 479759868 ESC: 180 Hall Sensors: 771 767 		 Accel: 0.19 -0.18
-t: 479828512 ESC: 180 Hall Sensors: 770 768 		 Accel: 1.15 1.92
-t: 479896108 ESC: 180 Hall Sensors: 648 708 		 Accel: -1.64 3.94
-t: 479964752 ESC: 180 Hall Sensors: 266 488 		 Accel: 2.25 -0.05
-t: 480033388 ESC: 180 Hall Sensors: 766 761 		 Accel: 0.88 4.26
-t: 480100988 ESC: 180 Hall Sensors: 771 769 		 Accel: 3.11 1.13
-t: 480168588 ESC: 180 Hall Sensors: 724 754 		 Accel: 1.31 5.21
-t: 480236192 ESC: 180 Hall Sensors: 294 269 		 Accel: 0.81 2.48
-t: 480303792 ESC: 180 Hall Sensors: 730 714 		 Accel: 4.86 -2.76
-t: 480372432 ESC: 180 Hall Sensors: 771 769 		 Accel: -0.24 2.92
-t: 480441068 ESC: 180 Hall Sensors: 766 766 		 Accel: 4.08 -0.30
-t: 480509712 ESC: 180 Hall Sensors: 681 628 		 Accel: 5.36 2.85
-t: 480577312 ESC: 180 Hall Sensors: 481 583 		 Accel: 4.33 0.80
-t: 480644912 ESC: 180 Hall Sensors: 769 764 		 Accel: -1.71 2.28
-t: 480713556 ESC: 180 Hall Sensors: 772 768 		 Accel: -0.23 6.55
-t: 480782196 ESC: 180 Hall Sensors: 731 734 		 Accel: 1.62 -0.16
-t: 480850836 ESC: 180 Hall Sensors: 268 527 		 Accel: 2.66 2.63
-t: 480918436 ESC: 180 Hall Sensors: 760 754 		 Accel: -2.26 1.48
-t: 480987080 ESC: 180 Hall Sensors: 772 768 		 Accel: 0.19 0.58
-t: 481054676 ESC: 180 Hall Sensors: 738 760 		 Accel: 0.65 3.32
-t: 481122276 ESC: 180 Hall Sensors: 257 308 		 Accel: 0.03 -0.94
-t: 481190924 ESC: 180 Hall Sensors: 747 683 		 Accel: 1.56 2.86
-t: 481258524 ESC: 180 Hall Sensors: 769 769 		 Accel: 1.02 3.59
-t: 481378004 ESC: 163 Hall Sensors: 764 766 		 Accel: 6.72 0.00
-t: 481455476 ESC: 154 Hall Sensors: 0 23593 		 Accel: 0.00 0.00
-t: 481532972 ESC: 146 Hall Sensors: -23593 10486 		 Accel: 0.00 0.00
-t: 481613908 ESC: 140 Hall Sensors: -26214 18350 		 Accel: 0.00 0.00
-t: 481694828 ESC: 135 Hall Sensors: -10486 18350 		 Accel: 0.00 1.76
-t: 481775744 ESC: 132 Hall Sensors: 26214 340 		 Accel: 0.00 -1.59
-t: 481802680 ESC: 132 Hall Sensors: 773 768 		 Accel: -3.55 2.26
-t: 481923240 ESC: 130 Hall Sensors: 772 770 		 Accel: -0.41 0.00
-t: 482000720 ESC: 124 Hall Sensors: -2621 15729 		 Accel: 0.00 0.00
-t: 482080584 ESC: 116 Hall Sensors: -13107 -20972 		 Accel: 0.00 1.16
-t: 482162536 ESC: 109 Hall Sensors: 18350 770 		 Accel: 0.00 5.78
-t: 482240352 ESC: 104 Hall Sensors: 750 759 		 Accel: 4.97 0.00
-t: 482317860 ESC: 98 Hall Sensors: 319 0 		 Accel: 5.42 0.00
-t: 482395236 ESC: 91 Hall Sensors: 741 0 		 Accel: -5.00 0.00
-t: 482472564 ESC: 86 Hall Sensors: 769 0 		 Accel: 2.17 0.00
-t: 482549928 ESC: 83 Hall Sensors: 748 0 		 Accel: 7.87 0.00
-t: 482627268 ESC: 80 Hall Sensors: 612 0 		 Accel: -2.66 0.00
-t: 482704644 ESC: 74 Hall Sensors: 759 0 		 Accel: -1.80 0.00
-t: 482781980 ESC: 72 Hall Sensors: 768 0 		 Accel: 3.52 0.00
-t: 482859340 ESC: 69 Hall Sensors: 734 0 		 Accel: 8.33 0.00
-t: 482936712 ESC: 67 Hall Sensors: 468 0 		 Accel: 0.22 0.00
-t: 483014072 ESC: 66 Hall Sensors: 761 0 		 Accel: 1.60 0.00
-t: 483039524 ESC: 66 Hall Sensors: 768 0 		 Accel: 1.64 1.70
-t: 483099244 ESC: 66 Hall Sensors: 764 765 		 Accel: 3.63 2.27
-t: 483165804 ESC: 66 Hall Sensors: 729 654 		 Accel: 6.44 -4.40
-t: 483233404 ESC: 66 Hall Sensors: 599 540 		 Accel: 2.14 -0.60
-t: 483301008 ESC: 66 Hall Sensors: 762 761 		 Accel: -0.09 2.00
-t: 483368608 ESC: 66 Hall Sensors: 770 770 		 Accel: 0.52 6.03
-t: 483435164 ESC: 66 Hall Sensors: 714 748 		 Accel: 3.49 8.22
-t: 483553632 ESC: 64 Hall Sensors: 312 451 		 Accel: 0.66 0.00
-t: 483631080 ESC: 61 Hall Sensors: 26214 -20972 		 Accel: 0.00 0.00
-t: 483710968 ESC: 57 Hall Sensors: 2621 28836 		 Accel: 0.00 2.48
-t: 483788776 ESC: 53 Hall Sensors: 2621 256 		 Accel: 0.00 1.96
-t: 483866260 ESC: 50 Hall Sensors: 758 730 		 Accel: 1.23 0.00
-t: 483891812 ESC: 50 Hall Sensors: 770 0 		 Accel: 2.98 -1.52
-t: 483954548 ESC: 50 Hall Sensors: 768 769 		 Accel: 0.33 5.26
-t: 484072988 ESC: 47 Hall Sensors: 742 748 		 Accel: 0.97 0.00
-t: 484150444 ESC: 43 Hall Sensors: 2621 13107 		 Accel: 0.00 0.00
-t: 484228248 ESC: 39 Hall Sensors: 0 -13107 		 Accel: 0.00 0.00
-t: 484305660 ESC: 35 Hall Sensors: -7864 2621 		 Accel: 0.00 0.00
-t: 484383436 ESC: 29 Hall Sensors: -2621 -7864 		 Accel: 0.00 0.00
-t: 484462252 ESC: 25 Hall Sensors: -7864 28836 		 Accel: 0.00 0.00
-t: 484541092 ESC: 21 Hall Sensors: -18350 28836 		 Accel: 0.00 0.00
-t: 484620980 ESC: 19 Hall Sensors: -10486 0 		 Accel: 0.00 0.00
-t: 484698388 ESC: 18 Hall Sensors: -20972 2621 		 Accel: 0.00 0.00
-t: 484777208 ESC: 17 Hall Sensors: -31457 -5243 		 Accel: 0.00 0.00
-t: 484857088 ESC: 16 Hall Sensors: 31457 0 		 Accel: 0.00 0.75
-t: 484882640 ESC: 16 Hall Sensors: -31457 628 		 Accel: 0.00 3.96
-t: 484949532 ESC: 16 Hall Sensors: -10486 779 		 Accel: 0.00 -3.97
-t: 485020260 ESC: 16 Hall Sensors: 7864 629 		 Accel: 0.00 1.94
-t: 485087856 ESC: 16 Hall Sensors: 5243 772 		 Accel: 0.00 -1.75
-t: 485208380 ESC: 15 Hall Sensors: -7864 772 		 Accel: 0.00 0.00
-t: 485285880 ESC: 13 Hall Sensors: 520 0 		 Accel: 2.29 0.00
-t: 485363244 ESC: 9 Hall Sensors: 756 0 		 Accel: 3.51 0.00
-t: 485440576 ESC: 1 Hall Sensors: 770 0 		 Accel: 6.24 0.00
-t: 485517860 ESC: 0 Hall Sensors: 766 0 		 Accel: 3.96 0.00
-t: 485543272 ESC: 0 Hall Sensors: 759 0 		 Accel: 1.52 8.62
-t: 485600952 ESC: 0 Hall Sensors: 720 756 		 Accel: 2.13 9.00
-t: 485666472 ESC: 0 Hall Sensors: 727 750 		 Accel: -1.52 6.87
-t: 485733028 ESC: 0 Hall Sensors: 737 753 		 Accel: -1.17 6.97
-t: 485799592 ESC: 0 Hall Sensors: 739 754 		 Accel: -0.95 7.58
-t: 485866148 ESC: 0 Hall Sensors: 751 754 		 Accel: -0.52 6.44
-t: 485932708 ESC: 0 Hall Sensors: 754 753 		 Accel: 0.17 6.27
-t: 485998228 ESC: 0 Hall Sensors: 758 755 		 Accel: -0.25 6.72
-t: 486064788 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.84 7.05
-t: 486131348 ESC: 0 Hall Sensors: 753 753 		 Accel: -0.96 7.44
-t: 486197908 ESC: 0 Hall Sensors: 750 753 		 Accel: -1.14 7.09
-t: 486264468 ESC: 0 Hall Sensors: 749 752 		 Accel: -1.19 6.98
-t: 486331028 ESC: 0 Hall Sensors: 751 752 		 Accel: -0.98 7.02
-t: 486397588 ESC: 0 Hall Sensors: 754 752 		 Accel: -0.49 7.45
-t: 486464148 ESC: 0 Hall Sensors: 757 753 		 Accel: 0.27 7.81
-t: 486529668 ESC: 0 Hall Sensors: 758 752 		 Accel: 0.89 8.01
-t: 486595192 ESC: 0 Hall Sensors: 759 753 		 Accel: 1.31 8.33
-t: 486660712 ESC: 0 Hall Sensors: 758 752 		 Accel: 1.64 8.41
-t: 486726228 ESC: 0 Hall Sensors: 759 753 		 Accel: 1.50 8.44
-t: 486791748 ESC: 0 Hall Sensors: 758 752 		 Accel: 0.94 8.22
-t: 486857272 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.21 7.65
-t: 486922788 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.58 7.21
-t: 486989352 ESC: 0 Hall Sensors: 757 753 		 Accel: -1.00 6.89
-t: 487055912 ESC: 0 Hall Sensors: 755 753 		 Accel: -1.06 6.60
-t: 487122472 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.84 6.77
-t: 487189032 ESC: 0 Hall Sensors: 756 753 		 Accel: -0.41 7.11
-t: 487255588 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.04 7.43
-t: 487321112 ESC: 0 Hall Sensors: 757 753 		 Accel: 0.23 7.68
-t: 487386632 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.16 7.87
-t: 487452152 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.12 7.75
-t: 487518708 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.51 7.46
-t: 487585272 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.75 7.30
-t: 487651828 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.72 7.26
-t: 487718392 ESC: 0 Hall Sensors: 757 754 		 Accel: -0.45 7.34
-t: 487784948 ESC: 0 Hall Sensors: 757 752 		 Accel: 0.08 7.78
-t: 487850472 ESC: 0 Hall Sensors: 758 752 		 Accel: 0.58 8.01
-t: 487915992 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.87 8.15
-t: 487981508 ESC: 0 Hall Sensors: 758 752 		 Accel: 0.89 8.13
-t: 488047028 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.76 8.08
-t: 488112548 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.33 7.74
-t: 488178068 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.21 7.41
-t: 488244628 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.59 7.10
-t: 488311188 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.93 6.83
-t: 488377748 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.87 6.89
-t: 488444308 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.58 7.13
-t: 488510868 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.23 7.44
-t: 488577428 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.19 7.75
-t: 488642948 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.36 7.87
-t: 488708468 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.32 7.93
-t: 488773988 ESC: 0 Hall Sensors: 759 754 		 Accel: 0.10 7.82
-t: 488839508 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.11 7.66
-t: 488906068 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.35 7.52
-t: 488972628 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.49 7.43
-t: 489039188 ESC: 0 Hall Sensors: 758 752 		 Accel: -0.42 7.44
-t: 489105748 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.16 7.64
-t: 489172308 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.07 7.81
-t: 489237828 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.30 7.82
-t: 489303348 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.28 7.78
-t: 489368868 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.14 7.65
-t: 489434392 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.06 7.43
-t: 489500952 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.34 7.22
-t: 489567512 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.59 7.10
-t: 489634072 ESC: 0 Hall Sensors: 757 752 		 Accel: -0.63 7.14
-t: 489700632 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.54 7.27
-t: 489767192 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.24 7.51
-t: 489833752 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.10 7.75
-t: 489899284 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.30 7.88
-t: 489964804 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.45 7.94
-t: 490030316 ESC: 0 Hall Sensors: 758 752 		 Accel: 0.40 7.93
-t: 490095844 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.23 7.84
-t: 490161364 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.07 7.73
-t: 490226884 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.16 7.60
-t: 490293444 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.35 7.49
-t: 490360004 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.41 7.45
-t: 490426564 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.39 7.46
-t: 490493124 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.34 7.48
-t: 490559684 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.21 7.47
-t: 490626244 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.12 7.46
-t: 490692804 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.12 7.41
-t: 490759364 ESC: 0 Hall Sensors: 757 752 		 Accel: -0.13 7.41
-t: 490825924 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.19 7.42
-t: 490892480 ESC: 0 Hall Sensors: 758 752 		 Accel: -0.20 7.45
-t: 490959044 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.15 7.54
-t: 491025604 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.05 7.64
-t: 491092164 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.07 7.73
-t: 491157684 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.22 7.82
-t: 491223204 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.33 7.90
-t: 491288724 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.35 7.87
-t: 491354244 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.32 7.82
-t: 491419764 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.16 7.77
-t: 491485284 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.05 7.62
-t: 491551844 ESC: 0 Hall Sensors: 757 752 		 Accel: -0.28 7.55
-t: 491618404 ESC: 0 Hall Sensors: 757 752 		 Accel: -0.50 7.36
-t: 491684964 ESC: 0 Hall Sensors: 757 752 		 Accel: -0.67 7.26
-t: 491751524 ESC: 0 Hall Sensors: 757 752 		 Accel: -0.67 7.24
-t: 491818084 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.57 7.26
-t: 491884644 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.38 7.34
-t: 491951204 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.13 7.45
-t: 492017764 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.04 7.56
-t: 492083284 ESC: 0 Hall Sensors: 758 752 		 Accel: 0.18 7.70
-t: 492148804 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.22 7.72
-t: 492214324 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.27 7.80
-t: 492279844 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.21 7.79
-t: 492345364 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.18 7.79
-t: 492410876 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.16 7.76
-t: 492476396 ESC: 0 Hall Sensors: 759 753 		 Accel: 0.13 7.77
-t: 492541916 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.10 7.74
-t: 492607436 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.07 7.70
-t: 492672960 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.02 7.64
-t: 492739516 ESC: 0 Hall Sensors: 758 752 		 Accel: -0.15 7.61
-t: 492806080 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.35 7.46
-t: 492872636 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.50 7.35
-t: 492939200 ESC: 0 Hall Sensors: 757 754 		 Accel: -0.67 7.24
-t: 493005756 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.69 7.19
-t: 493072320 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.61 7.25
-t: 493138876 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.37 7.37
-t: 493205436 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.09 7.53
-t: 493272000 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.22 7.69
-t: 493337516 ESC: 0 Hall Sensors: 759 753 		 Accel: 0.38 7.83
-t: 493403036 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.53 7.92
-t: 493468556 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.52 7.92
-t: 493534080 ESC: 0 Hall Sensors: 758 752 		 Accel: 0.40 7.91
-t: 493599596 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.24 7.83
-t: 493665112 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.03 7.69
-t: 493730636 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.14 7.60
-t: 493797200 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.26 7.54
-t: 493863756 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.37 7.47
-t: 493930320 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.40 7.44
-t: 493996876 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.41 7.41
-t: 494063436 ESC: 0 Hall Sensors: 758 754 		 Accel: -0.43 7.41
-t: 494130000 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.46 7.37
-t: 494196560 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.45 7.38
-t: 494263120 ESC: 0 Hall Sensors: 759 753 		 Accel: -0.39 7.41
-t: 494329676 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.32 7.45
-t: 494396240 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.11 7.55
-t: 494462796 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.10 7.69
-t: 494528320 ESC: 0 Hall Sensors: 757 752 		 Accel: 0.31 7.82
-t: 494593828 ESC: 0 Hall Sensors: 758 754 		 Accel: 0.46 7.91
-t: 494659348 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.55 7.96
-t: 494724868 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.52 7.94
-t: 494790388 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.37 7.88
-t: 494855908 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.12 7.75
-t: 494921428 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.18 7.58
-t: 494987988 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.43 7.40
-t: 495054548 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.65 7.28
-t: 495121108 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.69 7.24
-t: 495187668 ESC: 0 Hall Sensors: 757 753 		 Accel: -0.67 7.25
-t: 495254228 ESC: 0 Hall Sensors: 756 753 		 Accel: -0.55 7.32
-t: 495320788 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.37 7.40
-t: 495387348 ESC: 0 Hall Sensors: 758 752 		 Accel: -0.21 7.50
-t: 495453908 ESC: 0 Hall Sensors: 758 753 		 Accel: -0.03 7.59
-t: 495520468 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.03 7.65
-t: 495585988 ESC: 0 Hall Sensors: 757 752 		 Accel: 0.16 7.69
-t: 495651512 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.21 7.78
-t: 495717028 ESC: 0 Hall Sensors: 758 752 		 Accel: 0.28 7.79
-t: 495782548 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.34 7.82
-t: 495848072 ESC: 0 Hall Sensors: 758 753 		 Accel: 0.37 7.85
-t: 495913592 ESC: 0 Hall Sensors: 758 753 
+microsec deg hall1 hall2 accelX accelY
+447287568 6 769 -15729 7.58 0.00
+447356196 6 -15729 -5243 0.00 -0.08
+447427956 6 15729 770 0.00 -0.11
+447496596 6 -26214 769 0.00 -0.12
+447566276 6 18350 769 0.00 -0.12
+447634916 6 -23593 769 0.00 -0.09
+447704596 6 18350 769 0.00 -0.06
+447773236 6 -26214 769 0.00 -0.03
+447842916 6 15729 769 0.00 0.01
+447910516 6 -31457 770 0.00 0.04
+447979156 6 10486 770 0.00 0.06
+448046756 6 7864 769 0.00 0.11
+448165236 7 -13107 770 0.00 0.00
+448242736 6 769 0 7.65 0.00
+448268148 6 768 0 0.03 7.62
+448325836 6 769 769 0.00 7.62
+448391356 6 770 769 -0.01 7.58
+448457916 6 769 769 -0.06 7.58
+448524476 6 769 769 -0.09 7.54
+448591036 6 769 769 -0.11 7.51
+448657596 6 769 769 -0.09 7.53
+448724156 6 769 769 -0.10 7.51
+448790716 6 769 769 -0.08 7.55
+448857276 6 769 768 -0.04 7.57
+448923836 6 769 769 -0.01 7.60
+448990396 6 769 769 0.00 7.63
+449055912 6 769 769 0.04 7.66
+449121436 6 769 769 0.09 7.66
+449186952 6 769 769 0.10 7.69
+449252476 6 769 769 0.09 7.67
+449317996 6 769 769 0.07 7.65
+449383516 6 770 769 0.04 7.63
+449449036 6 769 769 0.00 7.62
+449514556 6 769 769 -0.01 7.59
+449581112 6 769 769 -0.08 7.57
+449647672 6 769 769 -0.11 7.52
+449714232 6 769 769 -0.13 7.54
+449780792 6 769 769 -0.09 7.54
+449847352 6 769 769 -0.11 7.53
+449913912 6 769 769 -0.08 7.53
+449980472 6 769 770 -0.05 7.57
+450047032 6 769 769 0.00 7.61
+450112556 6 769 769 0.05 7.61
+450178072 6 769 769 0.07 7.66
+450243596 6 770 769 0.07 7.68
+450309104 6 769 769 0.11 7.69
+450374624 6 769 769 0.09 7.66
+450440144 6 769 769 0.07 7.67
+450505664 6 769 769 0.06 7.64
+450571188 6 769 769 0.00 7.59
+450636708 6 769 769 -0.02 7.57
+450703268 6 769 769 -0.09 7.53
+450769828 6 769 769 -0.08 7.55
+450836388 6 769 769 -0.11 7.52
+450902948 6 769 769 -0.11 7.51
+450969508 6 769 769 -0.09 7.54
+451036064 6 769 769 -0.07 7.56
+451102628 6 769 769 -0.03 7.58
+451169188 6 769 770 0.00 7.62
+451234708 6 769 769 0.04 7.63
+451300224 6 769 769 0.09 7.67
+451365748 6 769 769 0.09 7.64
+451431264 6 769 769 0.09 7.68
+451496784 6 769 768 0.08 7.67
+451562308 6 770 769 0.06 7.63
+451627820 6 769 769 0.02 7.64
+451693344 6 769 769 0.00 7.61
+451758864 6 769 769 -0.03 7.59
+451825424 6 769 769 -0.07 7.58
+451891984 6 769 769 -0.11 7.53
+451958544 6 769 769 -0.11 7.52
+452025104 6 769 769 -0.11 7.52
+452091664 6 769 769 -0.08 7.54
+452158224 6 769 769 -0.08 7.55
+452224784 6 769 768 -0.04 7.59
+452291344 6 769 769 0.02 7.62
+452356864 6 769 769 0.05 7.63
+452422384 6 769 769 0.08 7.65
+452487904 6 769 769 0.09 7.67
+452553420 6 769 769 0.07 7.68
+452618940 6 769 769 0.08 7.69
+452684460 6 769 769 0.07 7.65
+452749980 6 769 769 0.00 7.61
+452815500 6 769 769 -0.02 7.60
+452882064 6 769 769 -0.05 7.56
+452948620 6 769 769 -0.08 7.57
+453015180 6 769 769 -0.10 7.55
+453081744 6 769 769 -0.11 7.51
+453148300 6 769 769 -0.11 7.51
+453214864 6 769 769 -0.11 7.55
+453281420 6 769 769 -0.06 7.56
+453347980 6 769 769 -0.02 7.58
+453414540 6 770 770 0.00 7.62
+453480060 6 769 769 0.04 7.65
+453545584 6 769 769 0.08 7.63
+453611100 6 770 769 0.09 7.66
+453676624 6 769 770 0.10 7.67
+453742140 6 769 769 0.07 7.66
+453807660 6 769 769 0.02 7.66
+453925096 7 769 769 0.01 0.00
+454002496 10 0 -7864 0.00 0.00
+454079860 13 -10486 -26214 0.00 0.00
+454160756 16 -10486 20972 0.00 -0.11
+454241680 19 -23593 769 0.00 7.53
+454319460 22 769 769 7.53 0.00
+454396920 25 769 0 7.57 0.00
+454474260 29 769 0 7.59 0.00
+454551616 30 769 0 7.60 0.00
+454628940 32 769 0 7.66 0.00
+454706316 33 767 0 7.66 0.00
+454783668 34 769 0 7.67 0.00
+454809128 34 769 0 0.08 7.66
+454868840 34 769 769 0.06 7.65
+454935400 34 769 769 0.04 7.62
+455001960 34 769 769 0.00 7.61
+455068520 34 769 769 -0.04 7.58
+455136120 34 769 769 -0.06 7.55
+455203724 34 769 769 -0.10 7.55
+455271320 34 769 769 -0.11 7.51
+455338924 34 769 769 -0.11 7.52
+455406520 34 769 769 -0.10 7.54
+455474120 34 769 769 -0.08 7.56
+455541720 34 769 769 -0.05 7.58
+455661204 34 769 769 0.00 0.00
+455686736 34 -10486 10486 0.00 0.00
+455755740 34 -15729 31457 0.00 0.07
+455879388 35 -13107 769 0.00 0.00
+455957176 34 769 0 7.66 0.00
+455982636 34 769 0 0.05 7.64
+456042348 34 769 769 0.64 8.36
+456108908 34 768 767 0.68 7.85
+456175472 34 765 766 -0.16 7.88
+456243068 34 761 762 -0.69 7.19
+456310668 34 752 756 -0.34 7.72
+456378268 34 733 737 -1.13 6.67
+456445868 34 702 685 0.00 7.94
+456512432 34 684 576 -0.23 6.78
+456631916 35 733 548 0.53 0.00
+456764548 43 -15729 0 0.00 0.00
+456824984 51 0 0 0.00 0.00
+456902688 56 766 766 8.79 0.00
+456980128 59 769 0 7.83 0.00
+457005580 59 769 0 0.33 6.09
+457065292 59 766 768 0.62 5.75
+457131852 59 762 763 0.39 5.12
+457198412 59 733 723 1.50 3.70
+457264972 59 566 493 1.63 1.70
+457331532 59 591 532 0.03 4.74
+457398092 59 749 735 0.41 0.11
+457464652 59 768 767 6.11 -0.20
+457532252 59 770 770 5.07 -3.25
+457599852 59 768 767 7.55 1.72
+457666420 59 756 753 1.66 8.08
+457732972 59 679 633 0.23 3.59
+457799532 59 438 398 0.40 -0.50
+457867132 59 687 675 -1.72 0.21
+457934732 59 762 760 3.18 0.11
+458001292 59 770 769 5.46 4.03
+458067860 59 769 769 5.62 1.90
+458134420 59 766 764 11.05 -2.04
+458203052 59 742 725 3.12 7.75
+458269612 59 784 484 0.35 3.90
+458336172 59 560 583 1.22 1.91
+458402740 59 744 746 1.04 -0.90
+458470340 59 768 768 4.84 -0.93
+458537932 59 770 770 1.81 1.03
+458656380 60 767 766 5.25 0.00
+458733836 61 -10486 0 0.00 0.00
+458759380 61 7864 31457 0.00 0.00
+458879244 62 13107 -31457 0.00 5.14
+458959100 64 765 764 3.59 0.00
+458984656 64 770 0 5.19 -0.45
+459099312 66 770 769 3.91 0.00
+459124872 66 20972 -31457 0.00 0.00
+459245760 69 -28836 -26214 0.00 2.05
+459326688 73 423 398 -0.37 0.00
+459404112 75 729 0 -0.38 0.00
+459429576 75 767 0 5.81 -0.19
+459491380 75 769 769 6.85 4.11
+459557940 75 769 769 5.33 -1.17
+459625540 75 768 765 5.57 -3.09
+459693140 75 748 738 1.50 3.93
+459759700 75 691 556 0.90 1.85
+459826260 75 390 510 6.86 -0.40
+459893860 75 731 728 -1.51 -0.67
+459962500 75 767 765 4.52 -1.78
+460030100 75 770 769 5.99 -1.08
+460097700 75 768 768 2.87 1.51
+460164260 75 756 756 7.01 0.06
+460282704 78 735 667 -0.23 0.00
+460360132 81 -13107 2621 0.00 0.00
+460438972 85 -15729 10486 0.00 0.00
+460518844 86 -5243 -31457 0.00 0.00
+460598716 89 -15729 -20972 0.00 6.77
+460679628 92 -23593 756 0.00 8.85
+460757416 95 725 616 2.57 0.00
+460834876 98 471 0 -1.01 0.00
+460912236 101 731 0 -0.80 0.00
+460989644 102 768 0 0.23 0.00
+461015156 102 769 0 6.11 -1.02
+461077936 102 769 769 4.36 1.35
+461145532 102 765 763 6.63 0.08
+461213136 102 744 718 -2.02 3.87
+461281776 102 791 485 -0.93 3.84
+461350416 102 515 546 3.88 0.45
+461418016 102 751 743 -1.39 -0.65
+461487692 102 769 768 3.71 -1.05
+461608220 103 770 769 3.22 0.00
+461685732 107 -26214 15729 0.00 0.00
+461766676 111 18350 -13107 0.00 0.00
+461847608 115 -7864 0 0.00 0.00
+461925012 118 5243 -10486 0.00 0.00
+462004868 120 10486 5243 0.00 0.00
+462062780 122 -5243 0 0.00 0.00
+462151292 124 761 764 1.37 0.00
+462228772 127 716 0 1.85 0.00
+462306152 128 411 0 0.26 0.00
+462383556 129 752 0 -1.75 0.00
+462409068 129 769 0 -4.06 -1.78
+462473928 129 770 768 1.06 1.94
+462541528 129 737 734 -1.93 5.81
+462610168 129 563 333 -2.26 1.90
+462678808 129 749 744 -2.04 6.09
+462747452 129 771 769 0.81 -0.88
+462816088 129 761 763 0.00 3.51
+462883688 129 800 526 1.80 0.49
+462951288 129 623 645 3.83 2.03
+463018888 129 770 766 2.37 2.22
+463086488 129 770 769 2.05 4.19
+463154092 129 738 739 2.82 -1.88
+463222728 129 490 336 -1.23 -4.72
+463292408 129 746 743 -2.91 2.83
+463361056 129 771 769 -5.43 -3.43
+463430736 129 762 762 -1.27 6.35
+463499376 129 725 578 1.31 2.87
+463566980 129 581 606 5.02 -2.30
+463635620 129 769 763 2.07 0.05
+463703220 129 771 769 -2.26 5.02
+463771860 129 747 746 -1.59 -1.89
+463841528 129 730 283 -0.58 -4.73
+463911208 129 741 739 -1.49 -0.97
+463980888 129 771 769 0.86 -4.88
+464049528 129 760 764 2.23 -0.40
+464118164 129 643 604 0.92 1.21
+464185768 129 528 555 0.66 0.00
+464253364 129 767 761 0.84 4.05
+464320964 129 771 769 0.91 0.99
+464388568 129 754 754 2.11 1.26
+464456164 129 866 288 -4.23 0.48
+464524804 129 697 702 2.42 -1.12
+464593444 129 771 768 -1.74 -5.61
+464663124 129 768 768 -5.54 -2.17
+464732808 129 690 711 -3.39 3.19
+464801448 129 348 520 -0.76 1.85
+464870084 129 762 754 3.52 -4.43
+464938728 129 772 770 1.43 0.04
+465006328 129 762 761 4.46 -0.14
+465074964 129 852 438 4.67 2.64
+465142568 129 659 682 0.52 -2.38
+465211212 129 769 767 -4.19 -4.16
+465280888 129 767 769 -1.98 1.19
+465349528 129 714 736 -3.56 1.10
+465418172 129 435 389 -0.50 -1.42
+465487852 129 750 744 1.62 4.16
+465555448 129 772 770 -2.45 -1.55
+465625140 129 766 763 0.66 0.60
+465692736 129 767 549 -0.59 3.30
+465761376 129 562 604 -0.69 -0.38
+465831056 129 768 764 -1.89 -3.99
+465900740 129 769 769 -2.74 2.69
+465969376 129 730 741 2.49 1.03
+466036968 129 793 356 1.50 2.41
+466104572 129 740 724 -0.38 -1.33
+466174248 129 772 768 -4.30 -2.37
+466243928 129 768 766 3.70 -0.43
+466312564 129 727 668 -1.10 0.56
+466381204 129 478 534 -2.30 -3.12
+466450888 129 760 756 1.85 -3.55
+466519528 129 770 769 -1.56 -0.67
+466589204 129 749 757 -1.92 2.54
+466657848 129 781 425 2.60 1.01
+466725444 129 696 679 1.00 -6.65
+466794084 129 771 766 3.16 -3.49
+466862728 129 771 768 -1.49 -2.87
+466984312 131 733 725 0.90 0.00
+467061824 134 -20972 -7864 0.00 0.00
+467119840 136 -10486 0 0.00 0.00
+467211384 139 760 763 -1.52 0.00
+467288860 141 523 0 0.48 0.00
+467366260 143 672 0 -1.08 0.00
+467443672 144 769 0 -0.82 0.00
+467469184 144 764 0 -2.10 0.11
+467533000 144 751 748 -0.58 1.62
+467601640 144 887 265 -0.96 1.74
+467670280 144 720 714 -2.17 -0.82
+467739956 144 771 769 0.66 -2.93
+467808592 144 763 766 1.61 -1.75
+467877232 144 640 688 -2.04 2.01
+467945872 144 447 518 0.53 -3.31
+468014512 144 765 759 0.73 -2.50
+468083152 144 772 769 1.39 3.35
+468150752 144 753 756 1.49 1.27
+468218352 144 892 305 2.22 2.49
+468285952 144 701 677 -1.46 -1.91
+468355632 144 770 768 -1.45 -4.38
+468425312 144 768 768 -5.42 -0.21
+468494992 144 672 702 -1.39 1.42
+468563632 144 355 534 -2.40 -0.66
+468633312 144 766 759 -1.81 1.76
+468701952 144 771 769 0.31 2.49
+468769552 144 750 755 5.53 -0.97
+468838192 144 811 274 -4.06 -1.96
+468907876 144 715 700 -1.72 -3.43
+468977556 144 771 768 -3.96 -0.30
+469047236 144 765 766 1.30 2.31
+469114836 144 646 702 2.27 1.31
+469182440 144 348 503 3.97 -5.37
+469251084 144 762 754 0.89 3.86
+469318688 144 772 770 -3.34 -0.37
+469388360 144 757 759 1.13 -2.79
+469508892 144 822 414 -1.85 0.00
+469534492 144 -20972 0 -0.17 0.00
+469603432 144 768 -31457 2.48 0.00
+469726048 145 28836 5243 0.00 0.98
+469804872 145 307 417 -2.31 0.00
+469830484 145 756 0 0.45 0.70
+469895252 145 770 766 -1.13 2.07
+470015772 144 769 769 -1.10 0.00
+470093260 144 -31457 -2621 0.00 0.00
+470122272 144 28836 5243 0.00 0.00
+470192996 144 -2621 20972 0.00 -1.50
+470317676 144 -10486 770 0.00 0.00
+470344612 144 533 0 0.81 4.77
+470410136 144 338 344 -4.55 -2.10
+470479812 144 743 733 -1.29 -1.98
+470601372 145 772 769 -5.22 0.00
+470626980 145 18350 -13107 0.00 0.00
+470699028 145 15729 23593 0.00 -2.47
+470771828 145 -18350 713 0.00 -1.46
+470843588 145 772 768 -4.93 -3.62
+470913256 145 766 768 1.58 -1.45
+470981904 145 602 708 -2.20 0.05
+471050532 145 268 483 -3.91 0.30
+471119172 145 764 757 0.33 0.12
+471186776 145 771 769 1.92 3.53
+471254376 145 754 759 0.87 0.76
+471321976 145 587 425 -3.39 2.17
+471390612 145 640 644 1.53 -2.71
+471459252 145 770 766 2.29 -2.00
+471527896 145 769 768 -3.93 -1.75
+471597572 145 699 734 0.75 0.28
+471665172 145 268 458 -0.43 0.26
+471733812 145 754 747 4.51 -3.20
+471802456 145 772 769 -4.75 -1.21
+471872136 145 760 762 0.55 2.49
+471939736 145 464 510 1.68 -1.00
+472008372 145 596 609 1.39 2.14
+472075976 145 770 765 -0.48 -1.59
+472145656 145 769 768 1.40 2.90
+472213256 145 692 738 2.20 -3.53
+472281896 145 312 384 -5.39 0.45
+472350540 145 749 740 -5.66 1.91
+472419176 145 772 769 -4.14 -1.83
+472488856 145 761 764 6.30 1.76
+472556460 145 430 575 0.57 -0.88
+472625100 145 478 576 0.33 -0.59
+472693740 145 768 763 -1.79 -2.86
+472763424 145 770 769 -0.87 1.05
+472832068 145 718 743 1.34 -1.29
+472900708 145 358 328 -4.55 0.18
+472969348 145 745 736 -3.47 -2.70
+473039028 145 772 769 -4.41 -2.57
+473108704 145 763 764 -2.37 2.47
+473177336 145 531 613 -4.50 -3.90
+473247016 145 435 547 -0.80 0.10
+473315652 145 768 764 -1.98 1.60
+473384296 145 771 769 -3.87 -1.27
+473453976 145 723 747 0.38 -3.71
+473522612 145 351 325 -2.82 -0.10
+473592292 145 738 724 -3.97 3.09
+473660936 145 772 769 -0.56 -1.69
+473730612 145 764 766 2.59 1.16
+473850104 147 546 650 -2.11 0.00
+473927608 150 -13107 26214 0.00 0.00
+474008544 153 7864 7864 0.00 0.00
+474086360 158 -31457 18350 0.00 0.00
+474167288 163 -20972 2621 0.00 2.71
+474247200 168 -2621 761 0.00 2.83
+474273096 168 772 770 -1.59 2.81
+474341736 168 763 765 6.62 -1.08
+474410376 168 640 716 0.98 1.35
+474477976 168 266 459 -1.07 -0.28
+474547656 168 756 753 -2.04 2.86
+474616296 168 772 768 -2.78 -2.69
+474685976 168 752 759 2.59 0.39
+474805496 171 302 477 2.93 0.00
+474882992 176 -10486 5243 0.00 0.00
+474962872 180 -10486 -7864 0.00 0.00
+474991880 180 -23593 26214 0.00 0.00
+475064672 180 -28836 -18350 0.00 0.23
+475138512 180 -10486 683 0.00 -3.85
+475210280 180 770 768 -3.28 0.10
+475278912 180 766 768 0.00 -1.55
+475347552 180 617 718 1.74 6.07
+475415152 180 263 489 -1.87 -0.51
+475484832 180 760 754 -4.31 -2.16
+475554516 180 772 770 -4.60 -0.74
+475624192 180 755 760 3.94 -0.99
+475692832 180 460 423 -3.77 2.08
+475761476 180 639 655 -3.56 0.00
+475830116 180 768 2621 -0.58 0.00
+475899796 180 770 0 -2.74 0.00
+475966356 180 0 18350 0.00 3.05
+476033956 180 26214 276 0.00 -0.75
+476104680 180 -5243 754 0.00 0.90
+476174364 180 7864 772 0.00 0.34
+476243000 180 -20972 755 0.00 3.79
+476313724 180 5243 342 0.00 1.89
+476382364 180 7864 637 0.00 -2.10
+476452044 180 -10486 770 0.00 -5.79
+476575724 180 -23593 768 0.00 0.00
+476602656 180 324 0 -1.68 3.02
+476669216 180 322 530 2.97 -5.69
+476737864 180 763 758 0.94 1.27
+476805452 180 772 769 2.67 6.07
+476873052 180 752 754 6.76 2.37
+476940656 180 423 266 4.16 -0.93
+477009296 180 708 714 2.65 -3.68
+477077936 180 772 769 0.34 -2.09
+477146572 180 762 766 0.90 2.41
+477214176 180 316 626 1.25 2.17
+477281776 180 498 568 5.42 0.37
+477349376 180 769 764 -1.32 1.93
+477418016 180 771 769 -3.46 1.33
+477486652 180 691 738 2.77 1.79
+477554252 180 259 426 -2.58 3.02
+477622896 180 752 749 -0.12 3.41
+477691532 180 771 770 0.08 -3.13
+477760176 180 752 759 -2.43 4.02
+477828816 180 345 415 3.36 2.77
+477896416 180 695 684 3.25 -7.61
+477965056 180 772 768 -0.14 -0.59
+478034736 180 766 766 2.09 3.60
+478102340 180 436 627 2.96 -0.27
+478170984 180 407 553 -1.46 -0.20
+478240660 180 768 764 -2.60 5.17
+478309300 180 769 769 -0.28 -1.00
+478378976 180 678 739 1.72 5.10
+478446580 180 260 462 4.39 -2.97
+478515224 180 752 748 -2.31 2.47
+478583864 180 772 770 0.00 1.50
+478651468 180 761 761 -2.28 5.77
+478771988 180 651 476 2.37 0.00
+478797580 180 -18350 -10486 0.00 0.00
+478869640 180 20972 -10486 0.00 3.44
+478942436 180 -31457 761 0.00 2.02
+479013152 180 280 570 3.22 -0.28
+479081800 180 614 630 5.16 1.61
+479149388 180 770 767 0.13 2.52
+479216992 180 767 768 3.24 2.59
+479284588 180 656 736 1.88 1.47
+479352192 180 261 417 1.14 0.44
+479419792 180 752 747 -1.10 4.09
+479488432 180 771 769 2.52 3.79
+479556032 180 760 762 -0.13 1.36
+479624672 180 709 515 5.58 4.20
+479692272 180 622 617 2.26 1.51
+479759868 180 771 767 0.19 -0.18
+479828512 180 770 768 1.15 1.92
+479896108 180 648 708 -1.64 3.94
+479964752 180 266 488 2.25 -0.05
+480033388 180 766 761 0.88 4.26
+480100988 180 771 769 3.11 1.13
+480168588 180 724 754 1.31 5.21
+480236192 180 294 269 0.81 2.48
+480303792 180 730 714 4.86 -2.76
+480372432 180 771 769 -0.24 2.92
+480441068 180 766 766 4.08 -0.30
+480509712 180 681 628 5.36 2.85
+480577312 180 481 583 4.33 0.80
+480644912 180 769 764 -1.71 2.28
+480713556 180 772 768 -0.23 6.55
+480782196 180 731 734 1.62 -0.16
+480850836 180 268 527 2.66 2.63
+480918436 180 760 754 -2.26 1.48
+480987080 180 772 768 0.19 0.58
+481054676 180 738 760 0.65 3.32
+481122276 180 257 308 0.03 -0.94
+481190924 180 747 683 1.56 2.86
+481258524 180 769 769 1.02 3.59
+481378004 163 764 766 6.72 0.00
+481455476 154 0 23593 0.00 0.00
+481532972 146 -23593 10486 0.00 0.00
+481613908 140 -26214 18350 0.00 0.00
+481694828 135 -10486 18350 0.00 1.76
+481775744 132 26214 340 0.00 -1.59
+481802680 132 773 768 -3.55 2.26
+481923240 130 772 770 -0.41 0.00
+482000720 124 -2621 15729 0.00 0.00
+482080584 116 -13107 -20972 0.00 1.16
+482162536 109 18350 770 0.00 5.78
+482240352 104 750 759 4.97 0.00
+482317860 98 319 0 5.42 0.00
+482395236 91 741 0 -5.00 0.00
+482472564 86 769 0 2.17 0.00
+482549928 83 748 0 7.87 0.00
+482627268 80 612 0 -2.66 0.00
+482704644 74 759 0 -1.80 0.00
+482781980 72 768 0 3.52 0.00
+482859340 69 734 0 8.33 0.00
+482936712 67 468 0 0.22 0.00
+483014072 66 761 0 1.60 0.00
+483039524 66 768 0 1.64 1.70
+483099244 66 764 765 3.63 2.27
+483165804 66 729 654 6.44 -4.40
+483233404 66 599 540 2.14 -0.60
+483301008 66 762 761 -0.09 2.00
+483368608 66 770 770 0.52 6.03
+483435164 66 714 748 3.49 8.22
+483553632 64 312 451 0.66 0.00
+483631080 61 26214 -20972 0.00 0.00
+483710968 57 2621 28836 0.00 2.48
+483788776 53 2621 256 0.00 1.96
+483866260 50 758 730 1.23 0.00
+483891812 50 770 0 2.98 -1.52
+483954548 50 768 769 0.33 5.26
+484072988 47 742 748 0.97 0.00
+484150444 43 2621 13107 0.00 0.00
+484228248 39 0 -13107 0.00 0.00
+484305660 35 -7864 2621 0.00 0.00
+484383436 29 -2621 -7864 0.00 0.00
+484462252 25 -7864 28836 0.00 0.00
+484541092 21 -18350 28836 0.00 0.00
+484620980 19 -10486 0 0.00 0.00
+484698388 18 -20972 2621 0.00 0.00
+484777208 17 -31457 -5243 0.00 0.00
+484857088 16 31457 0 0.00 0.75
+484882640 16 -31457 628 0.00 3.96
+484949532 16 -10486 779 0.00 -3.97
+485020260 16 7864 629 0.00 1.94
+485087856 16 5243 772 0.00 -1.75
+485208380 15 -7864 772 0.00 0.00
+485285880 13 520 0 2.29 0.00
+485363244 9 756 0 3.51 0.00
+485440576 1 770 0 6.24 0.00
+485517860 0 766 0 3.96 0.00
+485543272 0 759 0 1.52 8.62
+485600952 0 720 756 2.13 9.00
+485666472 0 727 750 -1.52 6.87
+485733028 0 737 753 -1.17 6.97
+485799592 0 739 754 -0.95 7.58
+485866148 0 751 754 -0.52 6.44
+485932708 0 754 753 0.17 6.27
+485998228 0 758 755 -0.25 6.72
+486064788 0 757 753 -0.84 7.05
+486131348 0 753 753 -0.96 7.44
+486197908 0 750 753 -1.14 7.09
+486264468 0 749 752 -1.19 6.98
+486331028 0 751 752 -0.98 7.02
+486397588 0 754 752 -0.49 7.45
+486464148 0 757 753 0.27 7.81
+486529668 0 758 752 0.89 8.01
+486595192 0 759 753 1.31 8.33
+486660712 0 758 752 1.64 8.41
+486726228 0 759 753 1.50 8.44
+486791748 0 758 752 0.94 8.22
+486857272 0 758 753 0.21 7.65
+486922788 0 757 753 -0.58 7.21
+486989352 0 757 753 -1.00 6.89
+487055912 0 755 753 -1.06 6.60
+487122472 0 757 753 -0.84 6.77
+487189032 0 756 753 -0.41 7.11
+487255588 0 758 753 0.04 7.43
+487321112 0 757 753 0.23 7.68
+487386632 0 758 753 0.16 7.87
+487452152 0 758 753 -0.12 7.75
+487518708 0 757 753 -0.51 7.46
+487585272 0 757 753 -0.75 7.30
+487651828 0 757 753 -0.72 7.26
+487718392 0 757 754 -0.45 7.34
+487784948 0 757 752 0.08 7.78
+487850472 0 758 752 0.58 8.01
+487915992 0 758 753 0.87 8.15
+487981508 0 758 752 0.89 8.13
+488047028 0 758 753 0.76 8.08
+488112548 0 758 753 0.33 7.74
+488178068 0 758 753 -0.21 7.41
+488244628 0 757 753 -0.59 7.10
+488311188 0 757 753 -0.93 6.83
+488377748 0 757 753 -0.87 6.89
+488444308 0 757 753 -0.58 7.13
+488510868 0 757 753 -0.23 7.44
+488577428 0 758 753 0.19 7.75
+488642948 0 758 753 0.36 7.87
+488708468 0 758 753 0.32 7.93
+488773988 0 759 754 0.10 7.82
+488839508 0 758 753 -0.11 7.66
+488906068 0 757 753 -0.35 7.52
+488972628 0 757 753 -0.49 7.43
+489039188 0 758 752 -0.42 7.44
+489105748 0 758 753 -0.16 7.64
+489172308 0 758 753 0.07 7.81
+489237828 0 758 753 0.30 7.82
+489303348 0 758 753 0.28 7.78
+489368868 0 758 753 0.14 7.65
+489434392 0 757 753 -0.06 7.43
+489500952 0 757 753 -0.34 7.22
+489567512 0 757 753 -0.59 7.10
+489634072 0 757 752 -0.63 7.14
+489700632 0 757 753 -0.54 7.27
+489767192 0 758 753 -0.24 7.51
+489833752 0 758 753 0.10 7.75
+489899284 0 758 753 0.30 7.88
+489964804 0 758 753 0.45 7.94
